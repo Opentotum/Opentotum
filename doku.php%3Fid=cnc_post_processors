@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>cnc_post_processors []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="cnc_post_processors"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=cnc_post_processors&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=cnc_post_processors"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=cnc_post_processors"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=cnc_post_processors"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"cnc_post_processors","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "cnc_post_processors"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=cnc_post_processors&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=cnc_post_processors&amp;do=login&amp;sectok=23c0e0cb49a8a905b310e90a127f8b16"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="cnc_post_processors" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=cnc_post_processors&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=cnc_post_processors&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=cnc_post_processors&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=cnc_post_processors"  class="breadcrumbs" title="cnc_post_processors">cnc_post_processors</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>cnc_post_processors</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#i_post-processors_for_fablin">I. Post-processors for FABlin</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#what_is_a_post-processor">1. What is a post-processor</a></div></li>
+<li class="level2"><div class="li"><a href="#flatcam_post-processor">2. Flatcam post-processor</a></div></li>
+<li class="level2"><div class="li"><a href="#heekscad_post-processor">3. Heekscad post-processor</a></div></li>
+<li class="level2"><div class="li"><a href="#makercam_post-processor">4. Makercam post-processor</a></div></li>
+</ul>
+</li>
+<li class="level1"><div class="li"><a href="#ii_setting_up_a_bash_emulator_shell_in_windows">II. Setting up a bash emulator shell in Windows</a></div></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="i_post-processors_for_fablin">I. Post-processors for FABlin</h1>
+<div class="level1">
+
+</div>
+
+<h2 class="sectionedit2" id="what_is_a_post-processor">1. What is a post-processor</h2>
+<div class="level2">
+
+<p>
+The GCode generated by different SW applications is generally neither optimized nor compatible with a given CNC machine. A post-processor is a SW application dependent program that converts the GCode generated by that SW application into the specific GCode valid for a given CNC machine. In some SW applications, like Heekscad, the post-processor is integrated into the SW application. Others, like FlatCAM, do not support this feature (yet), so a separate application / script must be executed taking as input the GCode output by the SW application.
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="flatcam_post-processor">2. Flatcam post-processor</h2>
+<div class="level2">
+
+<p>
+This is a bash script. I runs on any Linux bash. If you are using Windows look <span class="curid"><a href="/doku.php?id=cnc_post_processors#ii_setting_up_a_bash_emulator_shell_in_windows" class="wikilink1" title="cnc_post_processors">here</a></span> to know how to set up a bash environment in Windows.
+</p>
+
+<p>
+The script can be downloaded from <a href="https://github.com/imarin2/FlatCAM2FABtotum" class="urlextern" title="https://github.com/imarin2/FlatCAM2FABtotum"  rel="nofollow">here</a>.
+</p>
+
+<p>
+Usage:
+</p>
+
+<p>
+<em>./post_process.sh input.gcode 15000</em>
+</p>
+
+<p>
+where:
+</p>
+
+<p>
+- input.gcode is the file output by FlatCAM.
+</p>
+
+<p>
+- the second value (15000 in the example) is the rpms of the spindle (recent versions of FlatCAM allow to set the spindle in FlatCAM, if you do it so, this script may not work. Just do not set the spindle in FlatCAM).
+</p>
+
+<p>
+<strong>Other related scripts </strong>
+</p>
+
+<p>
+In the same repository you can find this other two scripts:
+</p>
+
+<p>
+<em class="u">addfinishingpass.sh</em>
+</p>
+
+<p>
+A very simple script that adds an additional pass with a higher depth. The depth can be controlled by the script:
+</p>
+
+<p>
+usage:<br/>
+
+<em>addfinishingpass.sh Protohead_v4_FAB_rc1-F_Cu.gbr_iso1_cnc_2_0.5mm_postprocessed.gcode 0.025</em> <br/>
+
+<br/>
+
+The number is the “extra depth” of the finishing pass. So if your file is coded to mill away 0.075 mm,<br/>
+
+it will do a first pass with that amount and a second finishing pass with 0.1 mm (0.075+0.025).
+</p>
+
+<p>
+<em class="u">mergepostprocessedfiles.sh</em>
+</p>
+
+<p>
+It merges several gcode files (to be executed with the same tool) into a single one.<br/>
+
+<br/>
+
+<em>mergepostprocessedfiles.sh  Protohead_v4_FAB_rc1-F_Cu.gbr_iso1_cnc_2_0.5mm_postprocessed_finishpath.gcode   Protohead_v4_FAB_rc1-F_Cu.gbr_iso3_cnc_2_0.5mm_postprocessed_finishpath.gcode</em> <br/>
+
+<br/>
+
+generates a  Protohead_v4_FAB_rc1-F_Cu.gbr_iso1_cnc_2_0.5mm_postprocessed_finishpath_merged.gcode  with both files executed in the given order.
+</p>
+
+<p>
+<strong>Tip:</strong> This mergepostprocessedfiles.sh script is born deprecated, because FlatCAM +8.0 already includes a tool  to “join” geometry into a “combo” and then generate gcode for this  combo. So the script is there, but I will use the “join geometry” in the  “Edit” menu instead for this purpose. The of course, I will have to  post-process the output and probably add a finishing pass using the  other script.
+</p>
+
+</div>
+
+<h2 class="sectionedit4" id="heekscad_post-processor">3. Heekscad post-processor</h2>
+<div class="level2">
+
+<p>
+The result is also gcode that is not usable with the FABtotum. But I  have written a post processor for Heekscad that you can download from <a href="https://github.com/imarin2/Fabtotum4Heeks" class="urlextern" title="https://github.com/imarin2/Fabtotum4Heeks"  rel="nofollow">here</a>.  This is much more integrated that in the FlatCAM case, you just install  it once and then all the gcode that is generated is compatible with the  FAB.
+</p>
+
+<p>
+In the repo there is an installation script that is Linux and distribution specific. The idea is that you have to copy the machines.xml file to the directory where all your machine definitions reside, in my case /usr/share/heekscnc/machines.xml and marlin.py to the directory containing the post-processor scripts, in my case /usr/lib/heekscnc/nc/marlin.py.
+</p>
+
+</div>
+
+<h2 class="sectionedit5" id="makercam_post-processor">4. Makercam post-processor</h2>
+<div class="level2">
+
+<p>
+This is a bash script. I runs on any Linux bash. If you are using Windows look <span class="curid"><a href="/doku.php?id=cnc_post_processors#ii_setting_up_a_bash_emulator_shell_in_windows" class="wikilink1" title="cnc_post_processors">here</a></span> to know how to set up a bash environment in Windows.
+</p>
+
+<p>
+The script can be downloaded from <a href="https://github.com/alessiocavalieri/MakerCAM2FABtotum" class="urlextern" title="https://github.com/alessiocavalieri/MakerCAM2FABtotum"  rel="nofollow">here</a>.
+</p>
+
+<p>
+Usage:
+</p>
+
+<p>
+<em>./post_process.sh input.gcode 12000</em>
+</p>
+
+<p>
+where:
+</p>
+
+<p>
+- input.gcode is the file output by MakerCAM.
+</p>
+
+<p>
+- the second value (12000 in the example) is the rpms of the spindle.
+</p>
+
+</div>
+
+<h1 class="sectionedit6" id="ii_setting_up_a_bash_emulator_shell_in_windows">II. Setting up a bash emulator shell in Windows</h1>
+<div class="level1">
+
+<p>
+I believe this is the process that worked for me but I did try an awful lot of different ways to get Imarin&#039;s bash scripts to work in windows and so some components MAY have been installed which I didnt see. If this doesn&#039;t work for you please let me know and perhaps I can help. (FABtotum forum user skintoss).
+</p>
+
+<p>
+Download GitHub Desktop from <a href="https://desktop.github.com/" class="urlextern" title="https://desktop.github.com/"  rel="nofollow">here</a>
+</p>
+
+<p>
+Copy and save Imarin&#039;s bash script to post-process your gcode files from <a href="/doku.php?id=pcb_milling_workflow" class="wikilink1" title="pcb_milling_workflow">here</a>. The script is just over half way down the page but if you have not milled before then the whole page is worth a read.  Name it something simple but identifying as you will be typing its name a lot! Save it into a file where you are going to save your milling gcode files e.g.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=cnc_post_processors&amp;media=screenshot_24_.png" class="media" title="screenshot_24_.png"><img src="/lib/exe/fetch.php?w=500&amp;h=281&amp;tok=8efc5d&amp;media=screenshot_24_.png" class="media" alt="" width="500" height="281" /></a>
+</p>
+
+<p>
+you can see in this folder I have my original files, post-processed files and the shell script (gcode_marlin2)
+</p>
+
+<p>
+To get the shell script to process the files you will need (after installing GitHub Desktop) to right click in the open window and you should see the Git options.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=cnc_post_processors&amp;media=screenshot_25_.png" class="media" title="screenshot_25_.png"><img src="/lib/exe/fetch.php?w=500&amp;h=281&amp;tok=c909d6&amp;media=screenshot_25_.png" class="media" alt="" width="500" height="281" /></a>
+</p>
+
+<p>
+from here you need to select &#039;Git Bash Here&#039; which opens a new window like so:
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=cnc_post_processors&amp;media=screenshot_26_.png" class="media" title="screenshot_26_.png"><img src="/lib/exe/fetch.php?w=500&amp;h=281&amp;tok=d43550&amp;media=screenshot_26_.png" class="media" alt="" width="500" height="281" /></a>
+</p>
+
+<p>
+In this window you need to type $ bash (name of script file).sh (name of g.code file).gcode 15000
+</p>
+
+<p>
+like so:
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=cnc_post_processors&amp;media=screenshot_27_.png" class="media" title="screenshot_27_.png"><img src="/lib/exe/fetch.php?w=500&amp;h=281&amp;tok=a80672&amp;media=screenshot_27_.png" class="media" alt="" width="500" height="281" /></a>
+</p>
+
+<p>
+hit enter and a _postprocessed.gcode file should apear in you folder alongside the original. You can then load the _postprocessed.gcode file into the FABtotum object manager and use it for milling!
+</p>
+
+<p>
+Seems simple now so I hope this works for you but as said above, if not let me know and ill see what I can do.
+</p>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>cnc_post_processors.txt</bdi> · Last modified: 2015/09/22 23:03 by <bdi>alessio.cavalieri</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=cnc_post_processors&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=cnc_post_processors&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=cnc_post_processors&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=cnc_post_processors&amp;1472379321" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

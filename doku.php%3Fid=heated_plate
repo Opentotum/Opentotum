@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>heated_plate []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="heated_plate"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=heated_plate&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=heated_plate"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=heated_plate"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=heated_plate"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"heated_plate","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "heated_plate"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=heated_plate&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=heated_plate&amp;do=login&amp;sectok=828a8195d47d3369885ba507dadbac5e"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="heated_plate" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=heated_plate&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=heated_plate&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=heated_plate&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=heated_plate"  class="breadcrumbs" title="heated_plate">heated_plate</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>heated_plate</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#hybrid_bed">Hybrid bed</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#heated_bed">Heated bed</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#versions">Versions</a></div></li>
+<li class="level3"><div class="li"><a href="#tech_specs">Tech specs</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#plateconn">Plateconn</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#v1">V1</a></div></li>
+<li class="level3"><div class="li"><a href="#v2">V2</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#section"></a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#v2_bed_updating">V2 BED Updating</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#bed_cleaning">Bed cleaning</a></div></li>
+<li class="level2"><div class="li"><a href="#section1"></a></div></li>
+<li class="level2"><div class="li"><a href="#section2"></a></div></li>
+<li class="level2"><div class="li"><a href="#cnc_building_plate">CNC building plate:</a></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="hybrid_bed">Hybrid bed</h1>
+<div class="level1">
+
+<p>
+The bed supplied with the FABtotum is classified as hybrid because it&#039;s composed by an heated bed, used during printing, and a milling plate used while CNC milling.
+</p>
+
+<p>
+To change from one kind of bed to the other one, just reverse it.
+</p>
+
+<p>
+If you have problems with the hybrid bed, check the <a href="/doku.php?id=bed_troubleshooting" class="wikilink1" title="bed_troubleshooting">trouble shooting</a> page.
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="heated_bed">Heated bed</h2>
+<div class="level2">
+
+<p>
+The heated bed is an useful feature offered on the FABtotum: it improve the adherence and the reliability of the print, it&#039;s the first solution for <a href="/doku.php?id=stick" class="wikilink1" title="stick">get your prints to stick to the bed.</a>
+</p>
+
+<p>
+Using Heated bed you won&#039;t need to use kapton tape or other tape, we just raccomend to use hair spray.
+</p>
+
+<p>
+Hair spray is made with polymers similar to the polymers used in 3D printing, so they will combine and stick perfectly, and when it&#039;s heated at least at 40 °C, it starts to melt and be sticky (look for the worst quality for the hairs and the strong hold, because it means it will stick stronger).
+</p>
+
+<p>
+Set these values on your slicing software:
+</p>
+
+<p>
+- For <strong>PLA: </strong> 0 - 60 °C (bed could be cold);
+</p>
+
+<p>
+- For <strong>ABS</strong>: 80 - 110 °C (The maximum reachable temperature depends on environment temperature)
+</p>
+
+</div>
+
+<h3 class="sectionedit3" id="versions">Versions</h3>
+<div class="level3">
+
+<p>
+The hybrid bed is available in two different versions: the first version and a second version (released in late 2015) with stronger connection pins, heavier pcb routes, providing a faster heating and an improved reilability.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=heated_plate&amp;media=bed_versions1.jpg" class="media" title="bed_versions1.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=313&amp;tok=29f9f3&amp;media=bed_versions1.jpg" class="media" title="bed_versions1.jpg" alt="bed_versions1.jpg" width="600" height="313" /></a>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=heated_plate&amp;media=hybrid_bed_v2_print.jpg" class="media" title="hybrid_bed_v2_print.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=422&amp;tok=01cc18&amp;media=hybrid_bed_v2_print.jpg" class="media" alt="" width="600" height="422" /></a>
+</p>
+
+<p>
+<em>V2 Hybrid bed (Printing side)</em>
+</p>
+
+</div>
+
+<h3 class="sectionedit4" id="tech_specs">Tech specs</h3>
+<div class="level3">
+
+<p>
+Voltage source: 24 V
+</p>
+
+<p>
+Maximum Current: 6 A
+</p>
+
+<p>
+Maximum power: 144 W
+</p>
+
+<p>
+The glass is a Sodium calcium glass, must resist temps up to 130c.
+</p>
+
+<p>
+Dimensions: 228x244x3mm, all 4 sides are grinded.
+</p>
+
+<p>
+There are 4 red leds, switched on when the bed temperature is over 55°C.
+</p>
+
+<p>
+<strong>WARNING</strong> : Be careful don&#039;t damage the connection pins when inserting the printing bed. Insert the bed with the upper left corner first, then the upper right corner, and then the two lower corners.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=heated_plate&amp;media=bed_on.jpg" class="media" title="bed_on.jpg"><img src="/lib/exe/fetch.php?w=604&amp;h=453&amp;tok=e35dd0&amp;media=bed_on.jpg" class="media" title="bed_on.jpg" alt="bed_on.jpg" width="604" height="453" /></a>
+</p>
+
+</div>
+
+<h2 class="sectionedit5" id="plateconn">Plateconn</h2>
+<div class="level2">
+
+</div>
+
+<h3 class="sectionedit6" id="v1">V1</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=303&amp;h=269&amp;tok=86d173&amp;media=pictures:connector_plate_pinout.jpg" class="media" title="connector_plate_pinout.jpg" alt="connector_plate_pinout.jpg" width="303" height="269" />
+</p>
+
+<p>
+The first connector can be used for the 5th axis. It&#039;s controlled by the FABlin using the variable E1.
+</p>
+
+</div>
+
+<h3 class="sectionedit7" id="v2">V2</h3>
+<div class="level3">
+
+</div>
+<div class="level2">
+
+<p>
+<a href="/lib/exe/detail.php?id=heated_plate&amp;media=hybrid_bed_v2_plateconn.jpg" class="media" title="hybrid_bed_v2_plateconn.jpg"><img src="/lib/exe/fetch.php?w=500&amp;h=289&amp;tok=cc57b4&amp;media=hybrid_bed_v2_plateconn.jpg" class="media" alt="" width="500" height="289" /></a>
+</p>
+
+<p>
+The V2 plateconn has the same pinout with bigger pads. They give a safer connection between the plate and the plateconn, giving more accurate temperatures and avoiding false contacts.
+</p>
+
+</div>
+
+<h3 class="sectionedit8" id="v2_bed_updating">V2 BED Updating</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=bed_v2_setup" class="wikilink1" title="bed_v2_setup">\\
+Here</a> you can find the tutorial how to update your bed.
+</p>
+
+</div>
+
+<h2 class="sectionedit9" id="bed_cleaning">Bed cleaning</h2>
+<div class="level2">
+
+</div>
+<div class="level2">
+
+<p>
+<em>(Under construction)</em>
+</p>
+
+</div>
+<div class="level2">
+
+</div>
+
+<h2 class="sectionedit10" id="cnc_building_plate">CNC building plate:</h2>
+<div class="level2">
+
+<p>
+By overturning the heated bed you will have a building plate designed to be used for CNC milling.
+</p>
+
+<p>
+There are many holes used to fasten the parts to the bed using M4 nuts and bolts.
+</p>
+
+<p>
+<strong>WARNING</strong>: Insert the bolt head and fasten the stock using the nut, doing the opposite you could break the pcb.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=heated_plate&amp;media=mill_bed.jpg" class="media" title="mill_bed.jpg"><img src="/lib/exe/fetch.php?w=506&amp;h=531&amp;tok=00573f&amp;media=mill_bed.jpg" class="media" alt="" width="506" height="531" /></a>
+</p>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>heated_plate.txt</bdi> · Last modified: 2016/05/05 17:55 by <bdi>jj</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=heated_plate&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=heated_plate&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=heated_plate&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=heated_plate&amp;1472401139" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

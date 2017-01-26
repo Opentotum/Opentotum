@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <title>stick</title>
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="stick"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=stick&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=stick"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=stick"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=stick"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"stick","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "stick"; </script></head>
+<body>
+<div class="dokuwiki export">
+<!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#getting_3d_prints_to_stick_to_the_build_platform">Getting 3D prints to Stick to the build platform</a></div>
+<ul class="toc">
+<li class="clear">
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#calibrating_the_bed">Calibrating the bed</a></div></li>
+<li class="level3"><div class="li"><a href="#add_the_brim_or_the_raft_to_the_sliced_model">Add the brim or the raft to the sliced model</a></div></li>
+<li class="level3"><div class="li"><a href="#cleaned_heated_glass">Cleaned heated glass</a></div></li>
+<li class="level3"><div class="li"><a href="#hair_spray">Hair spray</a></div></li>
+<li class="level3"><div class="li"><a href="#paper_tape">Paper tape</a></div></li>
+<li class="level3"><div class="li"><a href="#abs_slurry">ABS slurry</a></div></li>
+<li class="level3"><div class="li"><a href="#vinyl_glue">Vinyl glue</a></div></li>
+<li class="level3"><div class="li"><a href="#stick_glue">Stick glue</a></div></li>
+<li class="level3"><div class="li"><a href="#kapton_tape">Kapton tape</a></div></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="getting_3d_prints_to_stick_to_the_build_platform">Getting 3D prints to Stick to the build platform</h1>
+<div class="level1">
+
+<p>
+<br/>
+
+There is a problem that everyone who is using 3D printers will have: sticking the printed parts to the build platform.<br/>
+
+It depends on the material used and other factors. There are different ways to prevent this problem:
+</p>
+
+</div>
+<!-- EDIT1 SECTION "Getting 3D prints to Stick to the build platform" [1-290] -->
+<h3 class="sectionedit2" id="calibrating_the_bed">Calibrating the bed</h3>
+<div class="level3">
+
+<p>
+<strong>Description: </strong> A well calibration will create a constant thickness first layer, the material cools homogeneusly and the printing nozzle will not hit the printed part. With the FABtotum is very easy to calibrate the bed, using the <a href="/doku.php?id=mantainance#bed_calibration" class="wikilink1" title="mantainance">guided procedure</a>.
+</p>
+
+</div>
+<!-- EDIT2 SECTION "Calibrating the bed" [291-606] -->
+<h3 class="sectionedit3" id="add_the_brim_or_the_raft_to_the_sliced_model">Add the brim or the raft to the sliced model</h3>
+<div class="level3">
+
+<p>
+<strong>Description: </strong> All the most used slicing softwares allow to add brim, that is a single layer area around the model, increasing the surface of the object attached to the building plate.
+</p>
+
+</div>
+<!-- EDIT3 SECTION "Add the brim or the raft to the sliced model" [607-851] -->
+<h3 class="sectionedit4" id="cleaned_heated_glass">Cleaned heated glass</h3>
+<div class="level3">
+
+<p>
+<strong>Description: </strong> The simpliest way: if you clean very well the glass of the printing plate using glass cleaner removing every part of dust, glues and fingerprints and heat the bed (at 60-70°C) the printer will work perfectly.
+</p>
+
+<p>
+<br/>
+
+Advantages: Cheap, easy
+</p>
+
+<p>
+Disvantages: Couldn’t work perfectly
+</p>
+
+</div>
+<!-- EDIT4 SECTION "Cleaned heated glass" [852-1180] -->
+<h3 class="sectionedit5" id="hair_spray">Hair spray</h3>
+<div class="level3">
+
+<p>
+<strong>Description:</strong> It’s one of the easiest and the cheapest solution for stick the 3d printed parts to the bed. It’s better to remove the bed from the printer, by removing the bed to his housing, for not damage smooth rods and other precision parts. Cor remove the spray, rub the surface with a paper napkin with a bit of water.
+</p>
+
+<p>
+We tried different brands and they work all good.
+</p>
+
+<p>
+<br/>
+
+Advantages: Cheap, easy
+</p>
+
+<p>
+Disvantages:
+</p>
+
+</div>
+<!-- EDIT5 SECTION "Hair spray" [1181-1627] -->
+<h3 class="sectionedit6" id="paper_tape">Paper tape</h3>
+<div class="level3">
+
+<p>
+<strong>Descripion:</strong> This is another common method, there are severals types of paper tape, the most used is the 3M blue tape, but we tested also the common yellow tape, and it worked
+</p>
+
+<p>
+Advantages: It sticks very good.
+</p>
+
+<p>
+Disvantages: The blue tape could be difficult to find. Not so cheap. After the print could be difficult to remove the printed parts to the bed and could be possible to damage the tape necessitating another tape application.
+</p>
+
+</div>
+<!-- EDIT6 SECTION "Paper tape" [1628-2088] -->
+<h3 class="sectionedit7" id="abs_slurry">ABS slurry</h3>
+<div class="level3">
+
+<p>
+<strong>Description:</strong> It is a slurry made with ABS molten in acetone. It’s made using ABS scraps and old wrong prints left in a acetone jar for few minutes, until the ABS is completely dissolved. It can be applied using cotton discs or a brush. Don’t smell the vapours after the application.
+</p>
+
+<p>
+Advantages:
+</p>
+
+<p>
+Disvantages: Toxic vapours
+</p>
+
+</div>
+<!-- EDIT7 SECTION "ABS slurry" [2089-2443] -->
+<h3 class="sectionedit8" id="vinyl_glue">Vinyl glue</h3>
+<div class="level3">
+
+<p>
+Advantages
+</p>
+
+<p>
+Disvantages
+</p>
+
+</div>
+<!-- EDIT8 SECTION "Vinyl glue" [2444-2490] -->
+<h3 class="sectionedit9" id="stick_glue">Stick glue</h3>
+<div class="level3">
+
+<p>
+<strong>Easy to find and to apply (is made for an easy application). </strong>
+</p>
+
+<p>
+Advantages: Easy application
+</p>
+
+<p>
+Disvantages
+</p>
+
+</div>
+<!-- EDIT9 SECTION "Stick glue" [2491-2622] -->
+<h3 class="sectionedit10" id="kapton_tape">Kapton tape</h3>
+<div class="level3">
+
+<p>
+<strong>Description:</strong> Polyimide tape commonly used in 3D printing. It’s quite expensive and it should be very clean for work better. Could be difficult to find it in local stores and to apply to the printing glass.
+</p>
+
+<p>
+Advantages: Heat resistant
+</p>
+
+<p>
+Disvantages: Expensive
+</p>
+
+</div>
+<!-- EDIT10 SECTION "Kapton tape" [2623-] --></div>
+</body>
+</html>

@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>hello_world_3d []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="hello_world_3d"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=hello_world_3d&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=hello_world_3d"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=hello_world_3d"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=hello_world_3d"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"hello_world_3d","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "hello_world_3d"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=hello_world_3d&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=hello_world_3d&amp;do=login&amp;sectok=4422bbf2e4eec4695da8170b103ce8d6"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="hello_world_3d" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=hello_world_3d&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=hello_world_3d&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=hello_world_3d&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=hello_world_3d"  class="breadcrumbs" title="hello_world_3d">hello_world_3d</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>hello_world_3d</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    
+<h1 class="sectionedit1" id="hello_world_3d_printing">Hello World! (3D Printing)</h1>
+<div class="level1">
+
+<p>
+You already <a href="/doku.php?id=mantainance#bed_calibration" class="wikilink1" title="mantainance">calibrated</a> your FABtotum and you are ready to print your first test object.<br/>
+
+If you haven&#039;t: go to <em><strong>Maintenance</strong></em> → <em><strong>First Setup </strong></em>for a comprehensive calibration wizard.<br/>
+
+<br/>
+
+To start printing you usually need filament. The FABtotum comes with some sample filament, but you may want to load more filament.<br/>
+
+If you have already some filament inside the head, hit the <strong><em>Maintenance</em> </strong><em> → <strong>Spool</strong> → </em><strong><em>Unload Spool </em></strong>procedure first. <br/>
+
+Learn more about the <a href="/doku.php?id=spool" class="wikilink1" title="spool">Spool procedures </a>.<br/>
+
+First you&#039;ll need a file to print. We already uploaded for you some printing samples in your printer, you can find it in <em><strong>Object Manager </strong></em>- <em><strong>Samples</strong></em>.<br/>
+
+You can also upload and print other files, following <a href="/doku.php?id=file_managing" class="wikilink1" title="file_managing">this</a> procedure, but if you are new to the FABtotum just stick to the sample.<br/>
+
+Under the File Manager, Select the object you want to print, then press the  “Print” button.
+</p>
+
+<p>
+(You can print something from the <em><strong>Create </strong></em>menu as well!)
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=hello_world_3d&amp;media=print_main.png" class="media" title="print_main.png"><img src="/lib/exe/fetch.php?w=608&amp;h=299&amp;tok=df5051&amp;media=print_main.png" class="media" alt="" width="608" height="299" /></a>
+</p>
+
+<p>
+Now you are in the folder with the samples, choose your favourite file, for example <em><strong>Marvin key-chain</strong></em>, then <em><strong>Next</strong> </em>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=hello_world_3d&amp;media=print.png" class="media" title="print.png"><img src="/lib/exe/fetch.php?w=607&amp;h=304&amp;tok=3d9783&amp;media=print.png" class="media" alt="" width="607" height="304" /></a>
+</p>
+
+<p>
+<br/>
+
+Be sure the working plane and the nozzle are clean, close the front cover, then press <em><strong>Continue </strong></em>as instructed.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=hello_world_3d&amp;media=pre_print.png" class="media" title="pre_print.png"><img src="/lib/exe/fetch.php?w=605&amp;h=237&amp;tok=d71d15&amp;media=pre_print.png" class="media" alt="" width="605" height="237" /></a>
+</p>
+
+<p>
+Choose <em><strong>Simple homing </strong></em>or <strong><em>Auto bed leveling</em> </strong> <br/>
+
+If your printer is well calibrated, select <em><strong>Simple homing</strong></em>: the print will start quickly.<br/>
+
+If you aren&#039;t sure about calibration, select <em><strong>Auto bed leveling</strong></em>: the probe will start to measure the bed orientation, then the print will start (it will require few seconds to heat-up).
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=hello_world_3d&amp;media=homing.png" class="media" title="homing.png"><img src="/lib/exe/fetch.php?w=609&amp;h=278&amp;tok=6a0a81&amp;media=homing.png" class="media" alt="" width="609" height="278" /></a>
+</p>
+
+<p>
+Wait for the printer to be ready: the carriage will be in the left corner, the Z axis will be homed and bed and nozzle heated (this usually requires around 2 minutes).<br/>
+
+Check the printer as soon as it starts printing (you can hear beep) to make sure the bed calibration is ok and that the nozzle is leaving a good amount of material on the plane so that the first layer (including the skirt/brim) is solid.
+</p>
+
+<p>
+Don&#039;t let any leftover filament get dragged in the print area, cut it if necessary.<br/>
+
+When your FABtotum is printing, you can check all the printing parameters in the <em><strong>Live feed </strong></em>section (nozzle temperature, bed temperature, Z height, etc.)
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=hello_world_3d&amp;media=live_feed.png" class="media" title="live_feed.png"><img src="/lib/exe/fetch.php?w=601&amp;h=420&amp;tok=dc6e75&amp;media=live_feed.png" class="media" alt="" width="601" height="420" /></a>
+</p>
+
+<p>
+While printing you can edit all those parameters in the <strong><em>Controls </em></strong>section.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=hello_world_3d&amp;media=controls.png" class="media" title="controls.png"><img src="/lib/exe/fetch.php?w=602&amp;h=342&amp;tok=d776ae&amp;media=controls.png" class="media" alt="" width="602" height="342" /></a>
+</p>
+
+<p>
+Wait for the printer to finish. You can track the progress from the FABUI.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=hello_world_3d&amp;media=printing.jpg" class="media" title="printing.jpg"><img src="/lib/exe/fetch.php?w=604&amp;h=453&amp;tok=f8b9ce&amp;media=printing.jpg" class="media" title="printing.jpg" alt="printing.jpg" width="604" height="453" /></a>
+</p>
+
+<p>
+Once the print is completed, the bed will slide and cool down.<br/>
+
+Wait for the bed to reach a safe temperature. The bed LEDs will turn off when the temperature is  below 50°C.<br/>
+
+<a href="/lib/exe/detail.php?id=hello_world_3d&amp;media=print_finished.jpg" class="media" title="print_finished.jpg"><img src="/lib/exe/fetch.php?w=604&amp;h=453&amp;tok=cbee77&amp;media=print_finished.jpg" class="media" title="print_finished.jpg" alt="print_finished.jpg" width="604" height="453" /></a>
+</p>
+
+<p>
+Congratulations! You just finished your first print!
+</p>
+
+<p>
+Proceed to remove the print by gently pulling it out or twisting the part from the cold glass surface.
+</p>
+
+<p>
+If you had problems during printing or your 3D printed object doesn&#039;t satisfy your expectations, check the trouble-shooting page <a href="/doku.php?id=troubleshooting#d_printing" class="wikilink1" title="troubleshooting">here</a>.
+</p>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>hello_world_3d.txt</bdi> · Last modified: 2016/05/09 16:32 by <bdi>fabtotum</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=hello_world_3d&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=hello_world_3d&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=hello_world_3d&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=hello_world_3d&amp;1472401557" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>
