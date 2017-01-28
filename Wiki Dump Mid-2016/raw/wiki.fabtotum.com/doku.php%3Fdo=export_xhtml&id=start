@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <title>start</title>
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="start"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=start&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=start"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=start"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=01e7b8d026dc5896bf44d2631bb696ab"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"start","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=01e7b8d026dc5896bf44d2631bb696ab"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "start"; </script></head>
+<body>
+<div class="dokuwiki export">
+<!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#section"></a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#getting_started">Getting started</a></div></li>
+<li class="level2"><div class="li"><a href="#hardware_overview">Hardware Overview</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#electronics_overview">Electronics Overview</a></div></li>
+<li class="level3"><div class="li"><a href="#mechanical_overview">Mechanical Overview</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#additive_printing">Additive Printing</a></div></li>
+<li class="level2"><div class="li"><a href="#subtractive_machining">Subtractive Machining</a></div></li>
+<li class="level2"><div class="li"><a href="#scanning">Scanning</a></div></li>
+<li class="level2"><div class="li"><a href="#software">Software</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#development">Development</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#upgrades">Upgrades</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#additional_hardware">Additional Hardware</a></div></li>
+<li class="level3"><div class="li"><a href="#additional_software">Additional Software</a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="level1"><div class="li"><a href="#section1"></a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#about_fabtotum">About Fabtotum</a></div></li>
+<li class="level2"><div class="li"><a href="#additional_resources">Additional Resources</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#community_created_models">Community Created Models</a></div></li>
+<li class="level3"><div class="li"><a href="#printing">Printing</a></div></li>
+<li class="level3"><div class="li"><a href="#milling">Milling</a></div></li>
+<li class="level3"><div class="li"><a href="#scanning1">Scanning</a></div></li>
+<li class="level3"><div class="li"><a href="#modeling">Modeling</a></div></li>
+<li class="level3"><div class="li"><a href="#other">Other</a></div></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<p>
+<a href="/lib/exe/detail.php?id=start&amp;media=pictures:manuals.jpg" class="media" title="pictures:manuals.jpg"><img src="/lib/exe/fetch.php?w=529&amp;h=335&amp;tok=87a628&amp;media=pictures:manuals.jpg" class="media" title="manuals.jpg" alt="manuals.jpg" width="529" height="335" /></a>
+</p>
+<div class="level1">
+<hr />
+
+</div>
+
+<h2 class="sectionedit1" id="getting_started">Getting started</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=unboxing" class="wikilink1" title="unboxing">Unboxing</a><br/>
+
+<a href="/doku.php?id=calibration_and_setup" class="wikilink2" title="calibration_and_setup" rel="nofollow">Calibration and Setup</a><br/>
+
+<a href="/doku.php?id=hello_world" class="wikilink2" title="hello_world" rel="nofollow">Hello World: first jobs</a><br/>
+
+<a href="/doku.php?id=troubleshooting" class="wikilink1" title="troubleshooting">Troubleshooting</a><br/>
+
+<a href="/doku.php?id=gallery" class="wikilink1" title="gallery">Gallery </a>
+</p>
+<hr />
+
+</div>
+<!-- EDIT1 SECTION "Getting started" [59-274] -->
+<h2 class="sectionedit2" id="hardware_overview">Hardware Overview</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT2 SECTION "Hardware Overview" [275-305] -->
+<h3 class="sectionedit3" id="electronics_overview">Electronics Overview</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=raspberry_pi" class="wikilink1" title="raspberry_pi">Raspberry Pi</a><br/>
+
+<a href="/doku.php?id=totumduino" class="wikilink1" title="totumduino">Totumduino</a><br/>
+
+<a href="/doku.php?id=assembly_camera" class="wikilink1" title="assembly_camera">Camera</a> <br/>
+
+<a href="/doku.php?id=assembly_line_laser" class="wikilink2" title="assembly_line_laser" rel="nofollow">Line Laser</a><br/>
+
+<a href="/doku.php?id=mechanical_overview" class="wikilink2" title="mechanical_overview" rel="nofollow">Power Supply</a>
+</p>
+
+</div>
+<!-- EDIT3 SECTION "Electronics Overview" [306-507] -->
+<h3 class="sectionedit4" id="mechanical_overview">Mechanical Overview</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=h-bot_x_and_y_axis" class="wikilink1" title="h-bot_x_and_y_axis">FABtotum&#039;s CoreXY: X and Y Axis</a><br/>
+
+<a href="/doku.php?id=z-axis" class="wikilink2" title="z-axis" rel="nofollow">Z-Axis</a><br/>
+
+<a href="/doku.php?id=a_e-axis" class="wikilink2" title="a_e-axis" rel="nofollow">A/E-Axis</a><br/>
+
+<a href="/doku.php?id=head_assembly" class="wikilink1" title="head_assembly">Head Assembly</a><br/>
+
+<a href="/doku.php?id=feeder" class="wikilink2" title="feeder" rel="nofollow">Feeder</a><br/>
+
+<a href="/doku.php?id=heated_plate" class="wikilink1" title="heated_plate">Heated Plate</a><br/>
+
+<a href="/doku.php?id=nozzle" class="wikilink1" title="nozzle">Nozzle</a><br/>
+
+<a href="/doku.php?id=filament" class="wikilink2" title="filament" rel="nofollow">Filament</a><br/>
+
+<a href="/doku.php?id=spindle" class="wikilink2" title="spindle" rel="nofollow">Spindle</a><br/>
+
+<a href="/doku.php?id=mills_drills" class="wikilink1" title="mills_drills">Mills/Drills</a><br/>
+
+<a href="/doku.php?id=frame" class="wikilink2" title="frame" rel="nofollow">Frame</a><br/>
+
+<a href="/doku.php?id=case_panels" class="wikilink2" title="case_panels" rel="nofollow">Case Panels</a><br/>
+
+<a href="/doku.php?id=limit_switches" class="wikilink2" title="limit_switches" rel="nofollow">Limit Switches</a>
+</p>
+<hr />
+
+</div>
+<!-- EDIT4 SECTION "Mechanical Overview" [508-925] -->
+<h2 class="sectionedit5" id="additive_printing">Additive Printing</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=hello_world" class="wikilink2" title="hello_world" rel="nofollow">Hello World!</a><br/>
+
+<a href="/doku.php?id=3d_extrusion_printing" class="wikilink2" title="3d_extrusion_printing" rel="nofollow">3D Extrusion Printing</a>
+</p>
+<hr />
+
+</div>
+<!-- EDIT5 SECTION "Additive Printing" [926-1044] -->
+<h2 class="sectionedit6" id="subtractive_machining">Subtractive Machining</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=hello_world" class="wikilink2" title="hello_world" rel="nofollow">Hello World!</a><br/>
+
+<a href="/doku.php?id=2d_milling_workflow" class="wikilink1" title="2d_milling_workflow">2D Milling Workflow</a><br/>
+
+<a href="/doku.php?id=3d_milling_workflow" class="wikilink1" title="3d_milling_workflow">3D Milling Workflow</a><br/>
+
+<a href="/doku.php?id=4axis_milling_workflow" class="wikilink2" title="4axis_milling_workflow" rel="nofollow">4Axis Milling Workflow</a>
+</p>
+<hr />
+
+</div>
+<!-- EDIT6 SECTION "Subtractive Machining" [1045-1263] -->
+<h2 class="sectionedit7" id="scanning">Scanning</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=your_first_scan" class="wikilink2" title="your_first_scan" rel="nofollow">Your First Scan</a><br/>
+
+<a href="/doku.php?id=rotational_scanning" class="wikilink2" title="rotational_scanning" rel="nofollow">Rotational Scanning</a><br/>
+
+<a href="/doku.php?id=scanning_swipe_scanning" class="wikilink2" title="scanning_swipe_scanning" rel="nofollow">Swipe-scanning</a><br/>
+
+<a href="/doku.php?id=probing" class="wikilink2" title="probing" rel="nofollow">Probing</a>
+</p>
+<hr />
+
+</div>
+<!-- EDIT7 SECTION "Scanning" [1264-1445] -->
+<h2 class="sectionedit8" id="software">Software</h2>
+<div class="level2">
+
+<p>
+FABUI Overview
+</p>
+
+</div>
+<!-- EDIT8 SECTION "Software" [1446-1483] -->
+<h3 class="sectionedit9" id="development">Development</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=forum.fabtotum.cc:showthread.php&amp;1577-Writing-a-simple-quot-Hello-World-quot-plugin" class="wikilink1" title="forum.fabtotum.cc:showthread.php">a simple &quot;Hello World&quot; plugin</a>
+</p>
+<hr />
+
+</div>
+<!-- EDIT9 SECTION "Development" [1484-1632] -->
+<h2 class="sectionedit10" id="upgrades">Upgrades</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT10 SECTION "Upgrades" [1633-1654] -->
+<h3 class="sectionedit11" id="additional_hardware">Additional Hardware</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=upgrades-third-party_heads" class="wikilink1" title="upgrades-third-party_heads">Third-party Heads</a>
+</p>
+
+</div>
+<!-- EDIT11 SECTION "Additional Hardware" [1655-1736] -->
+<h3 class="sectionedit12" id="additional_software">Additional Software</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=procrashs_step_by_step_install" class="wikilink1" title="procrashs_step_by_step_install">Procash&#039;s Bed Leveling Plugin</a>
+</p>
+
+<p>
+procrash&#039;s Fabtotum Git fork
+</p>
+
+</div>
+<div class="level1">
+<hr />
+
+</div>
+<!-- EDIT12 SECTION "Additional Software" [1737-1887] -->
+<h2 class="sectionedit13" id="about_fabtotum">About Fabtotum</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=how_it_started" class="wikilink1" title="how_it_started">How it Started</a>
+</p>
+<hr />
+
+</div>
+<!-- EDIT13 SECTION "About Fabtotum" [1888-1957] -->
+<h2 class="sectionedit14" id="additional_resources">Additional Resources</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT14 SECTION "Additional Resources" [1958-1991] -->
+<h3 class="sectionedit15" id="community_created_models">Community Created Models</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=community-models" class="wikilink1" title="community-models">Community-Models</a>
+</p>
+
+</div>
+<!-- EDIT15 SECTION "Community Created Models" [1992-2065] -->
+<h3 class="sectionedit16" id="printing">Printing</h3>
+<div class="level3">
+
+</div>
+<!-- EDIT16 SECTION "Printing" [2066-2085] -->
+<h3 class="sectionedit17" id="milling">Milling</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=pcb-basics" class="wikilink1" title="pcb-basics">PCB-Basics</a>
+</p>
+
+</div>
+<!-- EDIT17 SECTION "Milling" [2086-2132] -->
+<h3 class="sectionedit18" id="scanning1">Scanning</h3>
+<div class="level3">
+
+</div>
+<!-- EDIT18 SECTION "Scanning" [2133-2152] -->
+<h3 class="sectionedit19" id="modeling">Modeling</h3>
+<div class="level3">
+
+</div>
+<!-- EDIT19 SECTION "Modeling" [2153-2172] -->
+<h3 class="sectionedit20" id="other">Other</h3>
+<div class="level3">
+
+<p>
+Glossary<br/>
+
+Books<br/>
+
+Online resources
+</p>
+
+<p>
+<br/>
+
+<a href="/doku.php?id=formatting" class="wikilink1" title="formatting">DokuWiki syntax &amp; Formatting</a>
+</p>
+<hr />
+
+</div>
+<!-- EDIT20 SECTION "Other" [2173-] --></div>
+</body>
+</html>

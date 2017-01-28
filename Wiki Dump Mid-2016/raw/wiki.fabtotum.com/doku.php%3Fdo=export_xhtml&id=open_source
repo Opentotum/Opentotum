@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <title>open_source</title>
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="open_source"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=open_source&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=open_source"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=open_source"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=open_source"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"open_source","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "open_source"; </script></head>
+<body>
+<div class="dokuwiki export">
+
+<h4 id="open_source_the_fabtotum_personal_fabricator">Open Source &amp; The FABtotum Personal Fabricator.</h4>
+<div class="level4">
+
+<p>
+The  Fabtotum Personal Fabricator is meant to push the boundaries of personal  fabrication.<br/>
+
+To do this we want to involve people in the design process  as much as possible, and allow them to modify and improve the machine to  fit their own needs without needless restrictions.The  full documentations,drawings and the reproduction of FABtotum is allowed  and encouraged under the Creative Commons  Attribution-Noncommercial-Sharealike 3.0 Unported License (CC BY-NC 3.0)
+</p>
+
+<p>
+<strong>CC BY-NC 3.0 License</strong> <br/>
+
+<a href="https://creativecommons.org/licenses/by-nc/3.0/" class="urlextern" title="https://creativecommons.org/licenses/by-nc/3.0/"  rel="nofollow">https://creativecommons.org/licenses/by-nc/3.0/</a><br/>
+
+<strong><br/>
+
+Mechanical Drawings</strong> <br/>
+
+FABtotum @ Grabcad (mechanical)<br/>
+
+<a href="https://grabcad.com/library/fabtotum-2" class="urlextern" title="https://grabcad.com/library/fabtotum-2"  rel="nofollow">https://grabcad.com/library/fabtotum-2</a><br/>
+
+<strong><br/>
+
+Electronics<br/>
+
+</strong> Electronics of the FABtotum personal Fabricator have been  released on Github as well, <br/>
+
+along with the software needed for each one  of the microcontrollers.<br/>
+
+Totumduino v10.4 Schematics, Draft<br/>
+
+<a href="http://download.fabtotum.com/TOTUMduino schematics.PDF" class="urlextern" title="http://download.fabtotum.com/TOTUMduino schematics.PDF"  rel="nofollow">http://download.fabtotum.com/TOTUMduino schematics.PDF% % </a>Gerbers &amp; BOM of all parts:<br/>
+
+<a href="https://github.com/FABtotum/FAB_Electronics" class="urlextern" title="https://github.com/FABtotum/FAB_Electronics"  rel="nofollow">https://github.com/FABtotum/FAB_Electronics</a><br/>
+
+<strong><br/>
+
+</strong><strong>Firmware &amp; software</strong>
+</p>
+
+<p>
+The GITHUB repository contains both the FABUI software and the FABlin (a  Marlin Derivate Firmware for Multipurpose Personal Fabrication), as well as ongoing projects like Colibri-FABUI. feel free to get involved in the development: send a pull request for your code.
+</p>
+
+<p>
+<a href="https://github.com/FABtotum" class="urlextern" title="https://github.com/FABtotum"  rel="nofollow">https://github.com/FABtotum</a>
+</p>
+
+</div>
+</div>
+</body>
+</html>

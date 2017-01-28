@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>cura []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="cura"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=cura&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=cura"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=cura"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=cura"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"cura","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "cura"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=cura&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=cura&amp;do=login&amp;sectok=6c92541a0f421ec26fbeb45faa9ecd2e"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="cura" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=cura&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=cura&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=cura&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=cura"  class="breadcrumbs" title="cura">cura</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>cura</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#slicing_with_cura_software">Slicing With Cura Software</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#installation">Installation</a></div></li>
+<li class="level2"><div class="li"><a href="#setting_up_the_machine">Setting Up the Machine</a></div></li>
+<li class="level2"><div class="li"><a href="#fabtotum_cura_profiles">FABtotum Cura Profiles</a></div></li>
+<li class="level2"><div class="li"><a href="#slicing_a_model">Slicing a Model</a></div></li>
+<li class="level2"><div class="li"><a href="#start_end_gcode">Start/End gcode</a></div></li>
+<li class="level2"><div class="li"><a href="#changing_parameters">Changing Parameters</a></div></li>
+<li class="level2"><div class="li"><a href="#advanced_users">Advanced Users</a></div></li>
+<li class="level2"><div class="li"><a href="#advanced_machine_configuration_sequential_batch_printing">Advanced Machine Configuration &amp; Sequential Batch printing</a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#editing_the_config_for_sequential_batch_printing">Editing the config for Sequential Batch Printing</a></div></li>
+<li class="level3"><div class="li"><a href="#calibration_checks">Calibration Checks</a></div></li>
+<li class="level3"><div class="li"><a href="#hardware_checks">Hardware Checks</a></div></li>
+<li class="level3"><div class="li"><a href="#final_testing">Final Testing</a></div></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="slicing_with_cura_software">Slicing With Cura Software</h1>
+<div class="level1">
+
+<p>
+Cura is an open source software created and curated by Ultimaker. The FABtotum Personal Fabricator can accept Gcode generated with Cura. To upload a Gcode machine program of a sliced model, refer to the Object Manager.
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="installation">Installation</h2>
+<div class="level2">
+
+<p>
+Download and install the latest version of Cura from the good guys at Ultimaker.com :) (<a href="http://software.ultimaker.com/" class="urlextern" title="http://software.ultimaker.com/"  rel="nofollow">Download here</a>) <br/>
+
+The version currently under development is hosted on GitHub and can be found <a href="http://github.com/daid/Cura" class="urlextern" title="http://github.com/daid/Cura"  rel="nofollow">here</a>:<br/>
+
+Locate Cura on your computer, install it and then launch it.
+</p>
+
+<p>
+<em><strong>Installing with Windows</strong> </em> <br/>
+
+The setup will ask you to choose if you want the program to open other file formats other than .<em>stl</em> (ie. .<em>obj</em>).  The Wizard It will also ask you if you want to install additional drivers to manage your printers. As the FABtotum does not require Arduino drivers for serial connectivity, you can avoid installing those. Finally, you can check “Run Cura” and finalize the setup.
+</p>
+
+<p>
+<a href="/lib/exe/fetch.php?media=curasetup.jpg" class="media" title="curasetup.jpg"><img src="/lib/exe/fetch.php?w=246&amp;h=192&amp;tok=ee3cb3&amp;media=curasetup.jpg" class="media" title="curasetup.jpg" alt="curasetup.jpg" width="246" height="192" /></a><a href="/lib/exe/fetch.php?media=wizardcura.jpg" class="media" title="wizardcura.jpg"><img src="/lib/exe/fetch.php?w=246&amp;h=192&amp;tok=af22dc&amp;media=wizardcura.jpg" class="media" title="wizardcura.jpg" alt="wizardcura.jpg" width="246" height="192" /></a>
+</p>
+
+<p>
+<em><strong>Installing with Mac <abbr title="Operating System">OS</abbr><br/>
+
+</strong></em>Drag the Cura icon into your Applications folder to start the installing process.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=cura&amp;media=cura_mac.png" class="media" title="cura_mac.png"><img src="/lib/exe/fetch.php?w=295&amp;h=142&amp;tok=e7135a&amp;media=cura_mac.png" class="medialeft" alt="" width="295" height="142" /></a>
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="setting_up_the_machine">Setting Up the Machine</h2>
+<div class="level2">
+
+<p>
+The first time you open Cura you will be asked to set your machine:<br/>
+
+* Select your Desired Language (English for this guide)
+</p>
+<ul>
+<li class="level1"><div class="li"> Click “Next” on the first page</div>
+</li>
+<li class="level2"><div class="li"> Tick “<em>Other (ie. reprap, Makerbot, Witbox)</em>” then click “Next”</div>
+</li>
+<li class="level2"><div class="li"> Tick “<em>Custom</em>” then “Next”</div>
+</li>
+<li class="level2"><div class="li"> Machine name: “FABtotum”</div>
+</li>
+<li class="level2"><div class="li"> Machine width X: 214</div>
+</li>
+<li class="level2"><div class="li"> Machine depth Y: 234</div>
+</li>
+<li class="level2"><div class="li"> Machine height Z: 241 (if you want to be sure not to hit the lower endstop put a slight lower value like 240 or 239)</div>
+</li>
+<li class="level2"><div class="li"> Nozzle size: 0.4 (0.35 if you are using the Hybrid Head V1)</div>
+</li>
+<li class="level2"><div class="li"> Heated bed: Yes</div>
+</li>
+<li class="level2"><div class="li"> Bed Center is 0,0,0 (RoStock): NO</div>
+</li>
+<li class="level2"><div class="li"> Click on “Finish”</div>
+</li>
+</ul>
+
+<p>
+<a href="/lib/exe/detail.php?id=cura&amp;media=cura_machine_settings.png" class="media" title="cura_machine_settings.png"><img src="/lib/exe/fetch.php?w=500&amp;h=512&amp;tok=a29743&amp;media=cura_machine_settings.png" class="mediacenter" alt="" width="500" height="512" /></a>
+</p>
+
+<p>
+ <br/>
+At this point the application will start.     <br/>
+On the menu bar, go to <em>Expert</em>      → Switch to Full Settings (basics settings are very basic).    <br/>
+Alternatively from the “File” dropdown menu you can open and install one of our FABtotum profiles (File → Open Profile). Select the one that is more appropriate for your needs.  <br/>
+<a href="/lib/exe/detail.php?id=cura&amp;media=wiki:open_profile.png" class="media" title="wiki:open_profile.png"><img src="/lib/exe/fetch.php?w=600&amp;h=629&amp;tok=5008a3&amp;media=wiki:open_profile.png" class="media" alt="" width="600" height="629" /></a> <br/>
+And that&#039;s it, you are ready to slice with Cura.
+</p>
+
+</div>
+
+<h2 class="sectionedit4" id="fabtotum_cura_profiles">FABtotum Cura Profiles</h2>
+<div class="level2">
+
+<p>
+<strong>Notice</strong>: These profiles are usable with Cura versions ⇐ 15.4.
+</p>
+
+<p>
+The FABteam has prepared a few preconfigured profiles to help you start slicing with Cura.    <br/>
+Be aware that a profile might be perfect in some cases, but could be just a starting point for more refinements in others.
+</p>
+
+<p>
+You can Download all the FABtotum Configs from Github, <a href="http://github.com/FABtotum/FAB_Configs/archive/master.zip" class="urlextern" title="http://github.com/FABtotum/FAB_Configs/archive/master.zip"  rel="nofollow">here</a>.
+</p>
+
+<p>
+Profiles&#039; names are self explanatory:
+</p>
+<pre class="file">&#039;&#039;FABtotum_Cura_Profile BIG_PARTS.ini
+FABtotum_Cura_Profile_BASIC.ini
+FABtotum_Cura_Profile_DETAILED_PARTS.ini
+FABtotum_Cura_Profile_SMALL_DETAILED_PARTS_solid_infill.ini&#039;&#039;</pre>
+
+<p>
+For install Cura profiles go to:<strong><em>File –&gt; Open profile </em></strong>and choose the best for your print.
+</p>
+
+<p>
+The differences between profiles (Git status on 2015-06-20) are listed below.     <br/>
+For BIG, DETAILED, SMALL_DETAILED profiles, the values in parenthesis are same as the BASIC one.
+</p>
+
+<p>
+<img src="/lib/exe/fetch.php?w=588&amp;h=321&amp;tok=32d191&amp;media=window.png" class="mediacenter" alt="" width="588" height="321" />
+</p>
+
+</div>
+
+<h2 class="sectionedit5" id="slicing_a_model">Slicing a Model</h2>
+<div class="level2">
+
+<p>
+Once Cura is configured, the correct  FABtotum profile is loaded, and you have a model on your computer that you need to prepare for printing, you can proceed with slicing itself.     <br/>
+The task is pretty easy: just <em>Drag and Drop</em>    an <em>.stl</em>   file to the interface (or select the Folder icon in the 3D view), and the model will be loaded.     <br/>
+You can select it, move it, check a layer by layer preview (very important thing to do), and save the <em>.gcode</em>   by clicking the Floppy Disk Icon in the 3D view window.
+</p>
+
+<p>
+Once you have saved your <em>.gcode file</em>, you must upload it to the FABtotum via the FABUI Object Manager.  <br/>
+You can then proceed to print it as usual.    <br/>
+<strong>      <br/>
+Note:</strong><em>     <br/>
+You can add as many machines as you like, and switch between them. Please note that latest settings used will follow the machine. </em>
+</p>
+
+<p>
+<strong>WARNING!</strong>    <em>    <br/>
+</em>Remember to always load one of the profiles we released in order to change the “START and END <em>gcodes</em>” and some other parameters to get the machine to work properly. You can then change the other parameters according to the file you need to print.
+</p>
+
+</div>
+
+<h2 class="sectionedit6" id="start_end_gcode">Start/End gcode</h2>
+<div class="level2">
+
+<p>
+<a href="/lib/exe/detail.php?id=cura&amp;media=start_end_gcode.jpg" class="media" title="start_end_gcode.jpg"><img src="/lib/exe/fetch.php?w=350&amp;h=470&amp;tok=4d4609&amp;media=start_end_gcode.jpg" class="media" title="start_end_gcode.jpg" alt="start_end_gcode.jpg" width="350" height="470" /></a>
+</p>
+
+<p>
+Whether it&#039;s your first print, or you are a pro user, it&#039;s very important that every <em>.gcode</em>   you make with Cura starts with the following code:
+</p>
+<pre class="file">;start gcode
+
+G4 S1 ;1 millisecond pause to buffer the bep bep
+
+M728 ;FAB bep bep (start the print, go check the oozing and skirt lines adesion)
+
+G4 S1 ;1 second pause to reach the printer (run fast)
+
+G1 X10 Y10 Z70.0 F{travel_speed} ;move to oozing point
+
+G92 E0       ;zero the extruded length
+
+G1 F250 E70  ;slowly extrude 30mm of filament to clean the nozzle and build up extrusion pressure
+
+G92 E0       ;zero the extruded length again
+
+G1 F{travel_speed} ;Set travel speed
+
+;print</pre>
+
+<p>
+And ends with this:
+</p>
+<pre class="file">;end of the print
+
+M728 ;FAB bep bep (end print)
+
+;next line is cura profile, if you want to check settings from an old g-code go to Cura:file/load profile from g-code/yorfile.gcode
+
+;{profile_string}</pre>
+
+<p>
+If you use the FABtotum profiles this part of the code is already included. If you don&#039;t use it, the printing bed will crash on the nozzle, possibly causing damage to the printer.
+</p>
+
+</div>
+
+<h2 class="sectionedit7" id="changing_parameters">Changing Parameters</h2>
+<div class="level2">
+
+<p>
+Once you have tried our profiles you will want to make changes and create your own profiles.     <br/>
+Here is some basic hints on GCoding.
+</p>
+<ul>
+<li class="level1"><div class="li"> <strong>NOZZLE SIZE:</strong>      Is the tiny hole from which the material flows, the Hybrid Head V1 nozzle size is 0.35 mm. The Printing Head V2 is 0.4 mm.</div>
+</li>
+<li class="level2"><div class="li"> <strong>LAYER HEIGHT</strong>: This parameter corresponds to the height of each layer.  A bigger layer means a less precise, but faster print, a smaller layer means a better, but slower print.  The maximum layer height is calculated in relation to the size of the nozzle. You should divide the nozzle size by 2, that way you will get a good value to use as a maximum layer height.     <br/>
+Divide the nozzle size by 3, 4, or 5 to get good values for high quality prints.    <br/>
+The minimum layer height is linked to material fluidity, for a standard PLA filament we achieved really nice results with a 0,05 mm (50 microns, 1/7 Nozzle) layer height. With a 0,03 mm (30 microns, 1/11 nozzle) layer the material started to curl while depositing and the surface finish was worse.</div>
+</li>
+<li class="level2"><div class="li"> <strong>SHELL THICKNESS</strong>: This parameter is the thickness of the outside shell calculated in mm and in horizontal direction, it is the lateral skin of the object. The basic setting is to double the nozzle size. For our 0.35 mm we should set to 0.7 mm, for our 0,4 mm it&#039;s 0,8 mm. If you print with just one shell you may see the internal infill of the object from the outside, so it&#039;s not a good setting for surface finish, but you will get a faster print and a lighter object. If you want to create solid sturdy objects, you can increase this as you like.</div>
+</li>
+<li class="level2"><div class="li"> <strong>BOTTOM/TOP THICKNESS:</strong>     This parameter corresponds to the thickness of the outside shell but for the bottom and top surfaces of the object you are printing. They are very important for a high quality print. The higher the value the better the quality, but also the slower the process and the more material is used.</div>
+</li>
+<li class="level2"><div class="li"> <strong>FILL DENSITY</strong>: % of material in the inner part of the object. Lower infill value means faster printing, lighter but more fragile objects. Higher infill means slower prints, but more resistent objects. Reasonable values range between 10% and 30%. If you are printing in PLA, or another low shrinkage material, you can get up to 100% infill (with ABS you will get a lot of warping).      <br/>
+Here you have some printing tests using different filling percentages:     <br/>
+<a href="/lib/exe/detail.php?id=cura&amp;media=fill_density.jpg" class="media" title="fill_density.jpg"><img src="/lib/exe/fetch.php?w=605&amp;h=184&amp;tok=1af7c6&amp;media=fill_density.jpg" class="media" title="fill_density.jpg" alt="fill_density.jpg" width="605" height="184" /></a> <br/>
+As you can see there is a big difference between 25% and 24%: that&#039;s because for filling upper than 25%, Cura changes the filling direction at every layer, for filling lower than 24% the filling is in both direction at every layer.</div>
+</li>
+<li class="level2"><div class="li"> <strong>PRINT SPEED</strong>: the speed of printing moves. The other parameter that influences a lot print quality. If you print a lot fast, the mechanical inertia of the machine start to produce defects on the print. If you print slowly is more easy for the machine to follow the lines and to make good cornering, but also more easy to push filament to the extruder, and to cool down the material.     <br/>
+A good range is between 30mm/s up to 120mm/s, with the most used value between 50mm/s and 90mm/s.</div>
+</li>
+<li class="level2"><div class="li"> <strong>PRINTING TEMPERATURE</strong>: It depends on the material, for PLA a good range is 185°-220°, and a good temperature to start is 190°. The material gets more liquid with temperature, so if you want to print at a faster volumetric speed, you will need to increase a little the temperature of your extruder, or on the contrary if you are printing slow you will need to decrease the temperature to avoid melting too much the material.</div>
+</li>
+<li class="level2"><div class="li"> <strong>BED TEMPERATURE</strong>: This parameter allows you to choose the temperature of the heated bed. We advise you set this to 75.</div>
+</li>
+<li class="level2"><div class="li"> <strong>SUPPORT TYPE:</strong>     You should use this when printing and object that had void vertical spaces. If set to “None” it won&#039;t create any support, so you should set it this way if the object you wish to print does not need a support. If set to “Touching buildplate” it only creates support where the support structure will touch the build platform. If se to “Everywhere” it will create support also on top of parts of the model.</div>
+</li>
+<li class="level2"><div class="li"> <strong>PLATFORM ADHESION TYPE: </strong>    These are options that you can select to prevent corners from lifting due to warping. “Brim” adds a single layer thick flat area around your object. “Raft” add a thick raster below the object and a thin interface between this and your object. Please not that if you enable either one of the two options, this will disable the “Skirt”.</div>
+</li>
+<li class="level2"><div class="li"> <strong>FILAMENT DIAMETER: </strong>      This parameter corresponds to the diameter of the filament used, for our filaments we recommend you set this to 1.75 as most filaments come in that size. Please always make sure to use our tested and approved high quality filaments when using our FABtotum, you can purchase spools on our <a href="https://store.fabtotum.com/eu/store/filaments.html" class="urlextern" title="https://store.fabtotum.com/eu/store/filaments.html"  rel="nofollow">store</a>.</div>
+</li>
+<li class="level2"><div class="li"> <strong>FILAMENT FLOW:</strong>    This correspons the quantity of material extruded in percentage.      <br/>
+Above are the <em>basic parameters</em>, then you can also work with some <em>advanced settings</em>:</div>
+</li>
+<li class="level2"><div class="li"> <strong>RETRACTION SPEED AND DISTANCE:</strong>     The speed measured in mm per second corresponds to how fast the filament is retracted while moving from one work area to another. A higher retraction speed works well, be careful not to set it too high to avoid <a href="/doku.php?id=3d_troubleshooting&amp;s[]=grinding" class="wikilink1" title="3d_troubleshooting">grinding</a> on the filament. The distance measured in mm corresponds to how much filament is retracted, set to 0 for no retraction, we advise you to set to 4 for good quality prints.</div>
+</li>
+<li class="level2"><div class="li"> <strong>INITIAL LAYER THICKNESS: </strong>    This parameter is used to set how thick you wish your bottom layer to be. Clearly a thicker bottom layer makes sticking to the bed easier. Set to 0.0 if you wish the bottom layer to have the same thickness as all other layers. We advise you to set this parameter to 0.23.</div>
+</li>
+<li class="level2"><div class="li"> <strong>INITIAL LAYER LINE WIDTH:</strong>     This parameter measured in % is also used to improve bed adhesion and provides extra width to the extrusion on the first layer. We advise to set it to 120.</div>
+</li>
+<li class="level2"><div class="li"> <strong>CUT OFF OBJECT BOTTOM:</strong>     This parameter should be set when printing an object that doesn&#039;t have a flat bottom as it sinks th object into the platform. This feature should be used to avoid for the object to detach from the plane.<strong> <br/>
+TRAVEL SPEED</strong>: This sets the speed of non printing moves. Suggested values between 100mm/s, to 200mm/s.     <br/>
+(500mm/s is the maximum we tried but you got a lot of noise and you may slowly destroy the machine always printing with this value).</div>
+</li>
+<li class="level2"><div class="li"> <strong>BOTTOM LAYER SPEED:</strong>     It is important that the bottom layer it is printed at a slower speed so that it stick better to the bed, be aware that the bottom layer is the most important layer of all. We advise you set the speed at 25.</div>
+</li>
+<li class="level2"><div class="li"> <strong>INFILL SPEED:</strong>     This is the speed at which the infill parts are printed. When set to 0 the machine will use the print speed for the infill. The higher the speed the faster the print, clearly the print will be less good, but if we consider it&#039;s inside, unless you have specific needs, it can be somehow faster.</div>
+</li>
+<li class="level2"><div class="li"> <strong>TOP/BOTTOM SPEED: </strong>    This is the speed at which the top and bottom layers are printed. When set to 0, the machine will use print speed for the top and bottom layes. We suggest you don&#039;t print these layers too fast, as printing at a faster pace reduces printing time, but decreases quality.</div>
+</li>
+<li class="level2"><div class="li"> <strong>OUTER SHELL SPEED: </strong>    This parameter corresponds to the speed in which the outer shell is printed. Printing the outer shell at a lower speed will improve the final skin quality, however too much difference between infill speed and outer shell speed can negatively affect printing quality. We advise to set this at 75.</div>
+</li>
+<li class="level2"><div class="li"> <strong>INNER SHELL SPEED: </strong>    This is the speed at which the inner shell is printed. This should be set at an average speed between the outer shell speed and infill/printing speed. If set to 0, printing speed will be used for the inner shell.</div>
+</li>
+<li class="level2"><div class="li"> <strong>MINIMAL LAYER TIME: </strong>    This feature sets the minimum time spent for a layer to cool down, before the next layer is put on top. We advise to set it at 6.</div>
+</li>
+<li class="level2"><div class="li"> <strong>ENABLE COOLING FAN:</strong>     This feature is especially essential during faster prints as it provides extra cooling.    <br/>
+ <br/>
+If you are an expert you can also set even more advanced settings going to → EXPERT → Open EXPERT Settings      <br/>
+<a href="/lib/exe/detail.php?id=cura&amp;media=wiki:expert_settings_2.png" class="media" title="wiki:expert_settings_2.png"><img src="/lib/exe/fetch.php?w=600&amp;h=572&amp;tok=657d40&amp;media=wiki:expert_settings_2.png" class="media" alt="" width="600" height="572" /></a></div>
+</li>
+<li class="level2"><div class="li"> <strong>VOLUMETRIC SPEED (Volumetric Flow Rate):</strong>      A good way of understanding your parameters is calculating the volumetric speed. Is the number of cubic millimeters you are extruding every second.     <br/>
+So you can calculate     <br/>
+LAYER HEIGHT (mm) x NOZZLE SIZE (mm) x PRINT SPEED (mm/s) = VOLUMETRIC SPEED (mm3/s)     <br/>
+You can change the temperature according to this speed (more volumetric speed, higher temp), and find what is the maximum volumetric speed of the material you are using.</div>
+</li>
+<li class="level2"><div class="li"> <strong>RETRACTION MM AND SPEED</strong>: Our machine is limited to maximum 18 mm/s in retraction speed, so you can stick with this value, and for retraction lenght good value are around 6mm (just change at maximum 1-2mm, small changes are good here)     <br/>
+Parts with a lot of retraction can damage the filament, till it breaks, so it&#039;s better to increase the fill of the part to get the filament to advance more during the print, hence the next retraction will be on a new filament segment.</div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit8" id="advanced_users">Advanced Users</h2>
+<div class="level2">
+
+<p>
+<strong>Tip 1: </strong>     You can trick the nozzle size on Cura if you want (for example we often set it as it is - 0.4 mm nozzle). Cura will calculate the material flow on that parameter, and the extrusion width will correspond to the value you write. Keep in mind that you are significantly increasing the flow going through the nozzle (volumetric speed), so it&#039;s better to slow down the print speed or to slightly increase the nozzle temperature to make the plastic more fluid.     <br/>
+ <br/>
+<strong>Tip 2:</strong>     Layer height goes with nozzle size, so, if you are fiddling the nozzle size as above, you can change this one too. For example, if you are trying to print with a big fat extrusion of 1 mm nozzle size, you can increase the layer height up to 0.5 mm.     <br/>
+Again you are dramatically increasing volumetric speed, so slow down printing speed.
+</p>
+
+</div>
+
+<h2 class="sectionedit9" id="advanced_machine_configuration_sequential_batch_printing">Advanced Machine Configuration &amp; Sequential Batch printing</h2>
+<div class="level2">
+
+<p>
+<em class="u">DISCLAIMER</em>       <br/>
+<em>The use of these settings can damage your machine, if done in the wrong way, or without paying the right attention.     <br/>
+So use these techniques only if you are an experienced 3D-printing user, and do that at your own ri</em>sk.    <br/>
+ <br/>
+This will guide you to set the correct machine settings on Cura to activate sequential batch printing, so you can put more objects on the platform, and print one after the other without the need of removing the previous print.    <br/>
+This Is really useful when you want to print a lot of small objects, without the need of removing them and start printing again.    <br/>
+ <br/>
+It&#039;s better than “Parallel Printing” because the machine doesn&#039;t have to jump from one object to the other at every layer, and it requires more space due to the size and obstruction of the carriage and other moving parts.
+</p>
+
+<p>
+<a href="/lib/exe/fetch.php?media=batchsample.jpg" class="media" title="batchsample.jpg"><img src="/lib/exe/fetch.php?w=640&amp;h=640&amp;tok=5813db&amp;media=batchsample.jpg" class="mediacenter" title="batchsample.jpg" alt="batchsample.jpg" width="640" height="640" /></a>
+</p>
+
+</div>
+
+<h3 class="sectionedit10" id="editing_the_config_for_sequential_batch_printing">Editing the config for Sequential Batch Printing</h3>
+<div class="level3">
+
+<p>
+Go to Cura:Machine/Machine Settings/FABTOTUM and add the following settings:
+</p>
+<pre class="file">FABtotum Low Batch:
+
+Head size towards X min: 24
+Head size towards Y min: 15
+Head size towards x max: 18
+Head size towards y max: 25
+Printer gantry height: 17</pre>
+<pre class="file">FABtotum High Batch:
+
+Head size towards X min: 250
+Head size towards Y min: 40
+Head size towards x max: 250
+Head size towards y max: 250
+Printer gantry height: 241</pre>
+
+<p>
+<em>Tip: Print on 2 different machines if you want to keep both settings profiles.</em>
+</p>
+
+<p>
+Now Activate Cura: Tools<em>/Print one at time</em>     <br/>
+Very Important: <em class="u">Restart CURA</em>     <br/>
+ <br/>
+The low batch setting will activate when every object is lower than 17 mm, but you can put more object on the platform, beause the head under the height of 17mm is really small and occupy just a small rectangle.    <br/>
+The High batch Settings will allow you to place maximum 3-4 object on the platform (depending on object footprint) and one after the other in the Y direction.    <br/>
+ <br/>
+To be sure that the sequential printing is activated use the layer visualization of Cura, and see what&#039;s happening during the print. The objects will build up one after the other.    <br/>
+In the High Batch configuration is important that the order is the front object before, others next till the end of the platform. (Lower Y value Before)
+</p>
+
+</div>
+
+<h3 class="sectionedit11" id="calibration_checks">Calibration Checks</h3>
+<div class="level3">
+
+<p>
+In order to use this settings is REALLY IMPORTANT that you calibrate the machine at the maximum you can do.
+</p>
+<ul>
+<li class="level1"><div class="li"> <strong>Clean the bed</strong>, heat it or spray a good costant layer of badass lacquer hair spray on any part of the platform. (Or any medium you use to promote adesion on the print bed) If one part fails it will most certainly screw up the rest of the batch as well.</div>
+</li>
+<li class="level2"><div class="li"> <strong>Run the bed calibration</strong>    (<a href="/doku.php?id=http:wiki.fabtotum.com_doku.php&amp;id=mantainance#bed_calibration" class="wikilink2" title="http:wiki.fabtotum.com_doku.php" rel="nofollow">see here</a>) until you have maximum 10-15 degrees of deviation on any screw.</div>
+</li>
+<li class="level2"><div class="li"> <strong>Run the probe calibration</strong>     (<a href="/doku.php?id=http:wiki.fabtotum.com_doku.php&amp;id=mantainance#probe_calibration" class="wikilink2" title="http:wiki.fabtotum.com_doku.php" rel="nofollow">see here</a>) until you can start the print without modifying any parameters (z override or flow unchanged).      <br/>
+ Pay attention to the first layer, it must stick with the right amount of flow (lines must be touching one to the next and melting together without being pressed to much to the platform)</div>
+</li>
+<li class="level2"><div class="li"> Make sure the platform is perfectly calibrated so that you can print everywhere on the surface without touching the machine or the jog at all.</div>
+</li>
+</ul>
+
+</div>
+
+<h3 class="sectionedit12" id="hardware_checks">Hardware Checks</h3>
+<div class="level3">
+<ul>
+<li class="level1"><div class="li"> Make sure that you don&#039;t have modded the print head or gantry in a way that can change head dimension or gantry height from the platform. If so, go back to the original configuration.</div>
+</li>
+<li class="level2"><div class="li"> Make sure the flex connection to the head is not bended downwards, that must stay at the same level of the head or gantry during all the print (expecially on the low batch configuration).</div>
+</li>
+<li class="level2"><div class="li"> Make sure that your touch probe retracts completly after the calibration. If not, manually position it up into its place, after the probing at the beginning of the print.</div>
+</li>
+</ul>
+
+</div>
+
+<h3 class="sectionedit13" id="final_testing">Final Testing</h3>
+<div class="level3">
+
+<p>
+That&#039;s all!    <br/>
+Now export the Gcode file, upload it to the Object Manager and start the print with a small test batch. See what happens.    <br/>
+Give always a look at the printer every time it switches from one object to the other to see if there are any problems.
+</p>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>cura.txt</bdi> · Last modified: 2016/05/12 17:49 by <bdi>fabtotum</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=cura&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=cura&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=cura&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=cura&amp;1472401978" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

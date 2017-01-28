@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>flex_cable []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="flex_cable"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=flex_cable&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=flex_cable"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=flex_cable"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=flex_cable"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"flex_cable","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "flex_cable"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=flex_cable&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=flex_cable&amp;do=login&amp;sectok=c6639081cae17cd76237b8f8e285d405"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="flex_cable" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=flex_cable&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=flex_cable&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=flex_cable&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=flex_cable"  class="breadcrumbs" title="flex_cable">flex_cable</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>flex_cable</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#head_flex_cable">Head Flex cable</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#specs">Specs</a></div></li>
+<li class="level2"><div class="li"><a href="#third_party_heads">Third Party Heads</a></div></li>
+<li class="level2"><div class="li"><a href="#possible_faults">Possible faults</a></div></li>
+<li class="level2"><div class="li"><a href="#flex_saver">Flex Saver</a></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="head_flex_cable">Head Flex cable</h1>
+<div class="level1">
+
+<p>
+The head flex cable is the connection between the body of the FABtotum and the head carriage.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex1.jpg" class="media" title="flex1.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=400&amp;tok=0d04c5&amp;media=flex1.jpg" class="media" alt="" width="600" height="400" /></a>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex_top_overall_length.jpg" class="media" title="flex_top_overall_length.jpg"><img src="/lib/exe/fetch.php?w=1000&amp;h=159&amp;tok=808fdd&amp;media=flex_top_overall_length.jpg" class="media" title="flex_top_overall_length.jpg" alt="flex_top_overall_length.jpg" width="1000" height="159" /></a>
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="specs">Specs</h2>
+<div class="level2">
+
+<p>
+<strong>Board type: </strong> FLEX <br/>
+
+<strong>Number of layers: </strong> 2 <br/>
+
+<strong>Copper thickness: </strong> 35 um (1oz) <br/>
+
+<strong>Flex thickness: </strong> 150 um (or as thin as you can) <br/>
+
+<strong>Stiffener: </strong> yes 150 um for a total thickness of 300um (HeadBoard_V1_03_FlexOnly.GM3 shows the stiffener area) <br/>
+
+<strong>Soldermask color: </strong> BLACK <br/>
+
+<strong>Silkscreen: </strong> top and bottom <br/>
+
+<strong>Silkscreen color: </strong> White <br/>
+
+<strong>Finishing: </strong> GOLD <br/>
+
+<strong>Min trace width: </strong> 6 mil <br/>
+
+<strong>Min clearance: </strong> 6 mil <br/>
+
+<strong>Min hole size: </strong> 12 mil <br/>
+
+<strong>Blind or buried vias: </strong> No
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="third_party_heads">Third Party Heads</h2>
+<div class="level2">
+
+<p>
+The standard head flex allow the user to develope third party heads, for detailed explaination look <a href="/doku.php?id=upgrades-third-party_heads" class="wikilink1" title="upgrades-third-party_heads">here</a>.
+</p>
+
+</div>
+
+<h2 class="sectionedit4" id="possible_faults">Possible faults</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <strong>Shortcircuits</strong>: Bad alignement or current overload</div>
+</li>
+<li class="level2"><div class="li"> <strong>Ruined pins</strong>: Caused by friction with the head or due to a bad soldering</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cut or shrivel</strong>: Too fast movement</div>
+</li>
+<li class="level2"><div class="li"> <strong>Broken endstops</strong>: Check if they are correctly working, in “Jog” by moving the head to the center and using code “M119” you should see</div>
+</li>
+</ul>
+<pre class="file">M119: Reporting endstop status
+x_min: open
+x_max: open
+y_min: open
+y_max: open
+z_min: open
+z_max: open
+ok</pre>
+
+<p>
+ <br/>
+<strong>CAUTION</strong>: Don&#039;t touch the endstops or move the head with hands: they are very delicate and they can be damaged easily (especially without the head).
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=endstop.jpg" class="media" title="endstop.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=398&amp;tok=f40232&amp;media=endstop.jpg" class="media" title="endstop.jpg" alt="endstop.jpg" width="600" height="398" /></a>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=endstop1.jpg" class="media" title="endstop1.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=435&amp;tok=2bf99a&amp;media=endstop1.jpg" class="media" title="endstop1.jpg" alt="endstop1.jpg" width="600" height="435" /></a>
+</p>
+
+</div>
+
+<h2 class="sectionedit5" id="flex_saver">Flex Saver</h2>
+<div class="level2">
+
+<p>
+We developed a Flex saver to avoid mechanical damages of the flex head cable.
+</p>
+
+<p>
+Here you are the procedure how to make it by yourself:
+</p>
+<ol>
+<li class="level1"><div class="li"> Remove the back cover, by unscrewing <strong>4 screws</strong>    using T15 key (Cross key for less recent models).       <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex2.jpg" class="media" title="flex2.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=103f93&amp;media=flex2.jpg" class="media" alt="" width="700" height="467" /></a><a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex3.jpg" class="media" title="flex3.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=ac4028&amp;media=flex3.jpg" class="media" title="flex3.jpg" alt="flex3.jpg" width="700" height="467" /></a> <br/>
+ <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> Prepare the saver using an acetate A4 sheet. Follow the dimensions on the schematic here:      <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex_saver_schematic.png" class="media" title="flex_saver_schematic.png"><img src="/lib/exe/fetch.php?w=700&amp;h=142&amp;tok=e1bb94&amp;media=flex_saver_schematic.png" class="media" alt="" width="700" height="142" /></a> <br/>
+ <br/>
+2.1 Cut the acetate sheet      <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex4.jpg" class="media" title="flex4.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=38ef4a&amp;media=flex4.jpg" class="media" title="flex4.jpg" alt="flex4.jpg" width="700" height="467" /></a> <br/>
+ <br/>
+2.2 Prepare 3 pieces of double-sided tape with dimensions 20×6 mm    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex5.jpg" class="media" title="flex5.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=c05571&amp;media=flex5.jpg" class="media" title="flex5.jpg" alt="flex5.jpg" width="700" height="467" /></a> <br/>
+ <br/>
+2.3 Attach the tape following the dimension of the schematic (two on the borders, one near to the center, 140 mm from the beginning)    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex6.jpg" class="media" title="flex6.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=76038d&amp;media=flex6.jpg" class="media" title="flex6.jpg" alt="flex6.jpg" width="700" height="467" /></a> <br/>
+ <br/>
+2.4 Having the tape in front of you Fold the saver on the last part by 90 degrees    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex7.jpg" class="media" title="flex7.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=34d0dc&amp;media=flex7.jpg" class="media" title="flex7.jpg" alt="flex7.jpg" width="700" height="467" /></a> <br/>
+ <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> Starting from the backside attach the flex saver to the flex support. You can see a white rectangle, attach it 3-4mm on the left from the half.   <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex8_copia.jpg" class="media" title="flex8_copia.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=1f2322&amp;media=flex8_copia.jpg" class="media" title="flex8_copia.jpg" alt="flex8_copia.jpg" width="700" height="467" /></a></div>
+</li>
+<li class="level2"><div class="li"> Continue by attaching the central tape, being careful that the flex and the saver have to be perfectly parallel    <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex9.jpg" class="media" title="flex9.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=7d03fe&amp;media=flex9.jpg" class="media" alt="" width="700" height="467" /></a></div>
+</li>
+<li class="level2"><div class="li"> Attach the last part on the carriage, being careful to stick the saver as near to the flex cable as possible.    <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex10.jpg" class="media" title="flex10.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=3a4143&amp;media=flex10.jpg" class="media" title="flex10.jpg" alt="flex10.jpg" width="700" height="467" /></a> <br/>
+ <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> Check if everything is working good by moving the head (slowly, you can burn the electronic) from the upper left corner, to the lower right and left corner, looking if the saver isn&#039;t preventing the normal movement    <br/>
+<a href="/lib/exe/detail.php?id=flex_cable&amp;media=flex11.jpg" class="media" title="flex11.jpg"><img src="/lib/exe/fetch.php?w=700&amp;h=467&amp;tok=9af43e&amp;media=flex11.jpg" class="media" alt="" width="700" height="467" /></a></div>
+</li>
+</ol>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>flex_cable.txt</bdi> · Last modified: 2015/10/26 14:51 by <bdi>jj</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=flex_cable&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=flex_cable&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=flex_cable&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=flex_cable&amp;1472379740" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

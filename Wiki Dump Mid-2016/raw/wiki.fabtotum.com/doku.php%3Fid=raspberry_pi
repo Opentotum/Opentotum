@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>raspberry_pi []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="raspberry_pi"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=raspberry_pi&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=raspberry_pi"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=raspberry_pi"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=raspberry_pi"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"raspberry_pi","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "raspberry_pi"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=raspberry_pi&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=raspberry_pi&amp;do=login&amp;sectok=b9b9ed53d331505f74f9029c01d184d7"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="raspberry_pi" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=raspberry_pi&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=raspberry_pi&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=raspberry_pi&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=raspberry_pi"  class="breadcrumbs" title="raspberry_pi">raspberry_pi</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>raspberry_pi</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#raspberry_pi">Raspberry PI</a></div>
+<ul class="toc">
+<li class="clear">
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#specs">Specs</a></div></li>
+<li class="level3"><div class="li"><a href="#operating_temperature_range">Operating Temperature Range</a></div></li>
+<li class="level3"><div class="li"><a href="#official_website">Official website</a></div></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="raspberry_pi">Raspberry PI</h1>
+<div class="level1">
+
+<p>
+In the FABtotum you can find a Raspberry Pi 1 model B<br/>
+
+<a href="/lib/exe/detail.php?id=raspberry_pi&amp;media=pictures:raspberrypirev2.jpg" class="media" title="pictures:raspberrypirev2.jpg"><img src="/lib/exe/fetch.php?w=640&amp;h=426&amp;tok=32334e&amp;media=pictures:raspberrypirev2.jpg" class="media" alt="" width="640" height="426" /></a>
+</p>
+
+</div>
+
+<h3 class="sectionedit2" id="specs">Specs</h3>
+<div class="level3">
+
+</div>
+
+<h4 id="memory">Memory</h4>
+<div class="level4">
+
+<p>
+512MB RAM
+</p>
+
+</div>
+
+<h4 id="connections">Connections</h4>
+<div class="level4">
+
+<p>
+2 USB ports<br/>
+
+Ethernet port<br/>
+
+3.5mm jack for audio out<br/>
+
+HDMI<br/>
+
+Composite Video
+</p>
+
+</div>
+
+<h4 id="processor">Processor</h4>
+<div class="level4">
+
+<p>
+SoC is a Broadcom BCM2835<br/>
+
+This contains an ARM1176JZFS (ARM11 using an ARMv6-architecture core) with floating point, running at 700Mhz, and a Videocore 4 GPU.<br/>
+
+GPU<br/>
+
+The first version of the GPU used came out in 2009.<br/>
+
+Capable of BluRay quality playback, using H.264 at 40MBits/s.<br/>
+
+Has a fast 3D core accessed using the supplied OpenGL ES2.0 and OpenVG libraries.<br/>
+
+Provides Open GL ES 2.0, hardware-accelerated OpenVG, and 1080p30 H.264 high-profile decode.<br/>
+
+Capable of 1Gpixel/s, 1.5Gtexel/s or 24 GFLOPs of general purpose compute and features a bunch of texture filtering and DMA infrastructure.<br/>
+
+That is, graphics capabilities are roughly equivalent to Xbox 1 level of performance.<br/>
+
+Overall real world performance is something like a 300MHz Pentium 2, only with much, much swankier graphics.
+</p>
+
+</div>
+
+<h3 class="sectionedit3" id="operating_temperature_range">Operating Temperature Range</h3>
+<div class="level3">
+
+<p>
+Limiting Components<br/>
+
+The LAN9512 (USB and Ethernet IC) is specified as 0°C to 70°C (the commercial temperature range part is used on the RPi – part number is “LAN9512-JZX”, not “LAN9512i-JZX”  indicating industrial temperature range)
+</p>
+
+</div>
+
+<h3 class="sectionedit4" id="official_website">Official website</h3>
+<div class="level3">
+
+<p>
+<a href="https://www.raspberrypi.org/products/model-b/" class="urlextern" title="https://www.raspberrypi.org/products/model-b/"  rel="nofollow">https://www.raspberrypi.org/products/model-b/ </a>
+</p>
+
+
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>raspberry_pi.txt</bdi> · Last modified: 2015/07/07 00:29 by <bdi>fabtotum</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=raspberry_pi&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=raspberry_pi&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=raspberry_pi&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=raspberry_pi&amp;1472379203" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>versions []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="versions"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=versions&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=versions"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=versions"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=versions"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"versions","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "versions"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=versions&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=versions&amp;do=login&amp;sectok=8fbe76b2a79fc45d6b7d2c819bfd5223"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="versions" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=versions&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=versions&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=versions&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=versions"  class="breadcrumbs" title="versions">versions</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>versions</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#fabtotum_versions">FABtotum Versions</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#hardware_versions">HARDWARE Versions</a></div></li>
+<li class="level2"><div class="li"><a href="#section"></a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#rev1">Rev1</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#section1"></a></div></li>
+<li class="level2"><div class="li"><a href="#section2"></a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#rev2">Rev2</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#section3"></a></div></li>
+<li class="level2"><div class="li"><a href="#section4"></a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#rev3">Rev3</a></div></li>
+</ul>
+</li>
+<li class="level2"><div class="li"><a href="#section5"></a></div>
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#rev4_core">Rev4 &quot;CORE&quot;</a></div></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="fabtotum_versions">FABtotum Versions</h1>
+<div class="level1">
+
+<p>
+The FABtotum “Version” identifies what features and changes are implemented over the standard version (vers 1).<br/>
+
+Versions are cumulative, so Version 2 includes the changes in V1.<br/>
+
+Versions are cross-compatible and an higher version does not mean it won&#039;t be compatible with newer parts.<br/>
+
+In fact you can upgrade your FABtotum hardware and set the new version on your FABUI.<br/>
+
+<br/>
+
+How to know your FABtotum version:
+</p>
+
+<p>
+Go to “<strong>Jog</strong>” and type: <strong>M763</strong>, then press “<strong>Run</strong>” the printer will answer you the version number. <a href="/lib/exe/detail.php?id=versions&amp;media=version_jog.png" class="media" title="version_jog.png"><img src="/lib/exe/fetch.php?w=700&amp;h=195&amp;tok=66a33e&amp;media=version_jog.png" class="media" alt="" width="700" height="195" /></a>:
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="hardware_versions">HARDWARE Versions</h2>
+<div class="level2">
+
+<p>
+note: Hardware Versioning has been introduced in FABUI  0.94
+</p>
+
+</div>
+<div class="level2">
+
+</div>
+
+<h3 class="sectionedit3" id="rev1">Rev1</h3>
+<div class="level3">
+
+</div>
+<div class="level2">
+
+<p>
+<em>(September 2014 - May 2015)</em>
+</p>
+<ul>
+<li class="level1"><div class="li"> Original FABtotum</div>
+</li>
+</ul>
+
+</div>
+<div class="level2">
+
+</div>
+
+<h3 class="sectionedit4" id="rev2">Rev2</h3>
+<div class="level3">
+
+</div>
+<div class="level2">
+
+<p>
+<em>(June 2015 - August 2015)</em>
+</p>
+<ul>
+<li class="level1"><div class="li"> Simplified Feeder (Removed the disengagement and engagement procedure), if you want you can update it easily following this Tutorial: <a href="/doku.php?id=feeder_update" class="wikilink1" title="feeder_update">Feeder update</a>.</div>
+</li>
+<li class="level2"><div class="li"> Bowden tube improvement (Added a protection external sleeve to avoid the bowden tube get stuck in the back panel).</div>
+</li>
+<li class="level2"><div class="li"> Endstops&#039; logic inverted.</div>
+</li>
+</ul>
+
+</div>
+<div class="level2">
+
+</div>
+
+<h3 class="sectionedit5" id="rev3">Rev3</h3>
+<div class="level3">
+
+</div>
+<div class="level2">
+
+<p>
+<em>(Aug 2015 - Jan 2016)</em>
+</p>
+<ul>
+<li class="level1"><div class="li"> Back panel modified to minimize bowden tube collisions</div>
+</li>
+<li class="level2"><div class="li"> Hotplate V2 as standard duty hotplate</div>
+</li>
+<li class="level2"><div class="li"> Reed sensor (Contactless sensor for the frontal door)</div>
+</li>
+<li class="level2"><div class="li"> Head V1 (hybrid) discontinued</div>
+</li>
+<li class="level2"><div class="li"> Milling Head V2 (<a href="https://store.fabtotum.com/eu/store/milling-head-v2.html" class="urlextern" title="https://store.fabtotum.com/eu/store/milling-head-v2.html"  rel="nofollow">store.fabtotum.com/eu/store/milling-head-v2.html</a>).</div>
+</li>
+<li class="level2"><div class="li"> Print head V2 (<a href="https://store.fabtotum.com/eu/store/printing-head-v2.html" class="urlextern" title="https://store.fabtotum.com/eu/store/printing-head-v2.html"  rel="nofollow">store.fabtotum.com/eu/store/printing-head-v2.html</a>).</div>
+</li>
+</ul>
+
+</div>
+
+<h3 class="sectionedit6" id="rev4_core">Rev4 &quot;CORE&quot;</h3>
+<div class="level3">
+
+<p>
+(Jan 2016 - xxx)
+</p>
+<ul>
+<li class="level1"><div class="li"> <em>TBA</em></div>
+</li>
+</ul>
+
+<p>
+<em>   <br/>
+</em>
+</p>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>versions.txt</bdi> · Last modified: 2016/05/06 08:56 by <bdi>jj</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=versions&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=versions&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=versions&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=versions&amp;1472380262" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

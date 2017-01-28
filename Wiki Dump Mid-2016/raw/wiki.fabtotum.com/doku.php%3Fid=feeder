@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>feeder []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="feeder"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=feeder&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=feeder"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=feeder"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=feeder"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"feeder","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "feeder"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=feeder&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=feeder&amp;do=login&amp;sectok=9b0aa7b6a19592980a24bbf6437aa28f"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="feeder" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=feeder&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=feeder&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=feeder&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=feeder"  class="breadcrumbs" title="feeder">feeder</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>feeder</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    
+<h1 class="sectionedit1" id="feeder">Feeder</h1>
+<div class="level1">
+
+<p>
+<a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_feedercloseup.jpg" class="media" title="pictures:feeder:rcmaniac25_feedercloseup.jpg"><img src="/lib/exe/fetch.php?w=200&amp;tok=d3aec9&amp;media=pictures:feeder:rcmaniac25_feedercloseup.jpg" class="mediacenter" title="rcmaniac25_feedercloseup.jpg" alt="rcmaniac25_feedercloseup.jpg" width="200" /></a>
+</p>
+
+<p>
+Information extracted from the forum entry <a href="http://forum.fabtotum.cc/showthread.php?2001-Sleeve-over-PTFE-tube" class="urlextern" title="http://forum.fabtotum.cc/showthread.php?2001-Sleeve-over-PTFE-tube"  rel="nofollow">Sleeve over PTFE tube</a>
+</p>
+
+<p>
+The feeder is in the rear compartment and is used to feed the filament from the spool to the extruder. There are two PTFE tubes with an OD of 4mm and an ID of 2mm that connect to the feeder that are used as a low friction path for guiding the filament. One is on the top of the feeder and goes to the extruder and the other is on the bottom of the feeder and goes to the filament spool bay on the right side of the fab (when looking from the front). The top PTFE tube has a sleeve over it that is used to increase the stiffness of the top PTFE tube near the feeder as it tends to bend when the Z axis is at the top of its travel. This sleeve should be slid up against the feeder. It will be partially in and partially out of the rear compartment.
+</p>
+
+<p>
+The bottom PTFE tube tends to be bent when the Z axis is very low and this can result in increased resistance, which can cause slippage of the feeder gripping the filament. <br/>
+
+The filamen must usually be loaded with the built in function, otherwise it will be very hard for it to load.<br/>
+
+If loading the filament manually, move the Z bed at mid height first.<br/>
+
+Make sure that the filament tube is always feeded with some filament and is not bent or left inside the case.
+</p>
+
+<p>
+Unofficial modifications to keep the feeder working at limit conditions (not suggested by the manufacturer) includes:
+</p>
+<ul>
+<li class="level1"><div class="li"> Leaving the rear panel off and run the lower PTFE tube out the rear to keep is out of the way of the Z axis movement mechanism</div>
+</li>
+<li class="level2"><div class="li"> Drill or cut a hole in the lower part of the rear panel and run the lower PTFE tube out this hole (Solution by Randy).</div>
+</li>
+</ul>
+
+<p>
+<strong>Caution:     <br/>
+</strong>Be aware that opening the back panel may void warranty. Remove power  plugs and switch the unit off first.     <br/>
+Make also sure that once the panel is closed (at the end of operations), all the cables are not compressed and have the right spacing to freely move inside.Only perform those operations at your own risk.
+</p>
+<hr />
+
+</div>
+
+<h2 class="sectionedit2" id="cleaning">Cleaning</h2>
+<div class="level2">
+
+<p>
+The easiest way to clean the feeder is to remove the back cover and use canned air to blow out any debris that may be stuck inside it. <br/>
+ <br/>
+Start from the top of the bowden, take it out from the head, and with a compressed air gun (it also works with compressed air spray cans) blow air in the bowden.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=feeder&amp;media=wiki:pulizia_bowden_top.jpg" class="media" title="wiki:pulizia_bowden_top.jpg"><img src="/lib/exe/fetch.php?w=400&amp;h=400&amp;tok=31178c&amp;media=wiki:pulizia_bowden_top.jpg" class="mediacenter" title="pulizia_bowden_top.jpg" alt="pulizia_bowden_top.jpg" width="400" height="400" /></a>
+</p>
+
+<p>
+You then repeat the operation from the bottom of the bowden. <br/>
+<a href="/lib/exe/detail.php?id=feeder&amp;media=wiki:pulizia_bowden_bottom.jpg" class="media" title="wiki:pulizia_bowden_bottom.jpg"><img src="/lib/exe/fetch.php?w=400&amp;h=400&amp;tok=6ec4ed&amp;media=wiki:pulizia_bowden_bottom.jpg" class="mediacenter" title="pulizia_bowden_bottom.jpg" alt="pulizia_bowden_bottom.jpg" width="400" height="400" /></a>
+</p>
+
+<p>
+A potentially more thorough cleaning involves taking the feeder out of the FABtotum, before starting this procedure please contact our support team.
+</p>
+
+<p>
+1. Lower the bed to the bottom of the unit, then turn it off.     <br/>
+2. Remove the bed.     <br/>
+3. Start by removing the back cover, you&#039;ll see the following:
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_exposedback.jpg" class="media" title="pictures:feeder:rcmaniac25_exposedback.jpg"><img src="/lib/exe/fetch.php?w=300&amp;tok=6dc48c&amp;media=pictures:feeder:rcmaniac25_exposedback.jpg" class="mediacenter" title="rcmaniac25_exposedback.jpg" alt="rcmaniac25_exposedback.jpg" width="300" /></a>
+</p>
+
+<p>
+4. Disconnect power from the motor:
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_feederpower.jpg" class="media" title="pictures:feeder:rcmaniac25_feederpower.jpg"><img src="/lib/exe/fetch.php?w=200&amp;tok=909348&amp;media=pictures:feeder:rcmaniac25_feederpower.jpg" class="mediacenter" title="rcmaniac25_feederpower.jpg" alt="rcmaniac25_feederpower.jpg" width="200" /></a>
+</p>
+
+<p>
+5. You need to remove the back cover of the print area. The plate has 4 screws on the bottom of the print area, and 2 at the top: <a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_printvolumebackcoverscrews.jpg" class="media" title="pictures:feeder:rcmaniac25_printvolumebackcoverscrews.jpg"><img src="/lib/exe/fetch.php?w=300&amp;tok=35f830&amp;media=pictures:feeder:rcmaniac25_printvolumebackcoverscrews.jpg" class="mediacenter" title="rcmaniac25_printvolumebackcoverscrews.jpg" alt="rcmaniac25_printvolumebackcoverscrews.jpg" width="300" /></a>
+</p>
+
+<p>
+6. Once the screws are removed, you can start to remove the panel. You&#039;ll need to move the head towards the front of the printer so when removing the bed <strong><em class="u">WATCH OUT FOR THE RIBBON CABLE!!!</em></strong>. Note, we lowered the bed so we could actually maneuver the back panel out without damaging the ribbon cable and just overall making it easier to remove: <a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_printvolumebackcoverpartialremoval.jpg" class="media" title="pictures:feeder:rcmaniac25_printvolumebackcoverpartialremoval.jpg"><img src="/lib/exe/fetch.php?w=300&amp;tok=57ffb1&amp;media=pictures:feeder:rcmaniac25_printvolumebackcoverpartialremoval.jpg" class="mediacenter" title="rcmaniac25_printvolumebackcoverpartialremoval.jpg" alt="rcmaniac25_printvolumebackcoverpartialremoval.jpg" width="300" /></a>
+</p>
+
+<p>
+7. Once removed you&#039;ll have a see through printer for a bit: <a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_printvolumebackcoverremoved.jpg" class="media" title="pictures:feeder:rcmaniac25_printvolumebackcoverremoved.jpg"><img src="/lib/exe/fetch.php?w=300&amp;tok=51e596&amp;media=pictures:feeder:rcmaniac25_printvolumebackcoverremoved.jpg" class="mediacenter" title="rcmaniac25_printvolumebackcoverremoved.jpg" alt="rcmaniac25_printvolumebackcoverremoved.jpg" width="300" /></a>
+</p>
+
+<p>
+8. From the print area, there are 3 screws holding the feeder on, remove those and the feeder will come off. The 4th Axis attachment is meant to slide through the hole, but it may be tight. Gently wiggle the feeder back and forth to walk the attachment out through the hole if it is a tight fit. You can use a file to make the hole slightly larger to aid in subsequent assembly/dissassembly. This picture shows the screw holes from the back of the printer: <a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_feedermount.jpg" class="media" title="pictures:feeder:rcmaniac25_feedermount.jpg"><img src="/lib/exe/fetch.php?w=300&amp;tok=994a72&amp;media=pictures:feeder:rcmaniac25_feedermount.jpg" class="mediacenter" title="rcmaniac25_feedermount.jpg" alt="rcmaniac25_feedermount.jpg" width="300" /></a>
+</p>
+
+<p>
+9. Now you can do any maintenance of cleaning of the feeder, free of it&#039;s prison… Front and back of feeder: <a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_feederfront.jpg" class="media" title="pictures:feeder:rcmaniac25_feederfront.jpg"><img src="/lib/exe/fetch.php?w=300&amp;tok=3fc281&amp;media=pictures:feeder:rcmaniac25_feederfront.jpg" class="mediacenter" title="rcmaniac25_feederfront.jpg" alt="rcmaniac25_feederfront.jpg" width="300" /></a><a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_feederback.jpg" class="media" title="pictures:feeder:rcmaniac25_feederback.jpg"><img src="/lib/exe/fetch.php?w=300&amp;tok=61d1a9&amp;media=pictures:feeder:rcmaniac25_feederback.jpg" class="mediacenter" title="rcmaniac25_feederback.jpg" alt="rcmaniac25_feederback.jpg" width="300" /></a>
+</p>
+
+<p>
+10. For cleaning, you&#039;re going to want to remove the bearing that holds the filament to the driving bolt (the thing with teeth that actually pulls the filament). To do that, remove the screw with the large spacing washer on it. For reference, it&#039;s screw D located from <a href="http://forum.fabtotum.cc/showthread.php?1621-Timeline-after-recieving-my-FABtotum&amp;p=6128&amp;viewfull=1#post6128" class="urlextern" title="http://forum.fabtotum.cc/showthread.php?1621-Timeline-after-recieving-my-FABtotum&amp;p=6128&amp;viewfull=1#post6128"  rel="nofollow">this</a> forum post. With that, the bearing will fall out and you can clean the inside of the feeder. In the provided picture, some debris are visible: <a href="/lib/exe/detail.php?id=feeder&amp;media=pictures:feeder:rcmaniac25_feederdrivingbolt.jpg" class="media" title="pictures:feeder:rcmaniac25_feederdrivingbolt.jpg"><img src="/lib/exe/fetch.php?w=300&amp;tok=8774ab&amp;media=pictures:feeder:rcmaniac25_feederdrivingbolt.jpg" class="mediacenter" title="rcmaniac25_feederdrivingbolt.jpg" alt="rcmaniac25_feederdrivingbolt.jpg" width="300" /></a>
+</p>
+
+<p>
+ <br/>
+If you want to get an idea of the thorough cleaning procedure, check out our customers&#039; video <a href="https://www.youtube.com/watch?v=CdVoyLfozyo" class="urlextern" title="https://www.youtube.com/watch?v=CdVoyLfozyo"  rel="nofollow">here</a>.
+</p>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>feeder.txt</bdi> · Last modified: 2016/06/15 15:07 by <bdi>fabteam</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=feeder&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=feeder&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=feeder&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=feeder&amp;1472401474" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

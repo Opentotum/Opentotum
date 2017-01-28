@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <title>calibration_and_setup</title>
+<meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="calibration_and_setup"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=calibration_and_setup&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=calibration_and_setup"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=calibration_and_setup"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=calibration_and_setup"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"calibration_and_setup","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "calibration_and_setup"; </script></head>
+<body>
+<div class="dokuwiki export">
+
+<h1 class="sectionedit1" id="calibration">Calibration</h1>
+<div class="level1">
+
+<p>
+Calibration of the FABtotum is a critical step in all future operations. A non-calibrated unit is unable to perform most basic task like printing and milling. It could damage the unit.
+</p>
+
+<p>
+After unboxing, setting up the machine and connecting to it, you&#039;ll be prompted with a setup/configuration.<br/>
+
+After the first setup you&#039;ll be able to use the “calibration wizard” (either clicking on the pop-up alert or going to Maintenance→ first setup).
+</p>
+
+<p>
+You can do all the wizard operations manually by using the Maintenance menu.
+</p>
+<ul>
+<li class="level1"><div class="li"> Overall Calibration <a href="https://www.youtube.com/watch?v=oPmfDxQzTWU" class="urlextern" title="https://www.youtube.com/watch?v=oPmfDxQzTWU"  rel="nofollow">here.</a></div>
+</li>
+<li class="level2"><div class="li"> Calibration of the bed <a href="/doku.php?id=mantainance#bed_calibration" class="wikilink1" title="mantainance">here</a>.</div>
+</li>
+<li class="level2"><div class="li"> Probe calibration <a href="/doku.php?id=mantainance#probe_calibration" class="wikilink1" title="mantainance">here</a>.</div>
+</li>
+</ul>
+
+</div>
+</div>
+</body>
+</html>
