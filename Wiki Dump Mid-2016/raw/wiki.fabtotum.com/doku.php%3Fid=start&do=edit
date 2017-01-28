@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>start []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=start&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=start"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=start"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=01e7b8d026dc5896bf44d2631bb696ab"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"start","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=01e7b8d026dc5896bf44d2631bb696ab"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/plugins/fckg/fckeditor/fckeditor.js"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/plugins/fckg/scripts/vki_kb.js"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "start"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_edit tpl_dokuwiki   home  ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=start&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=start&amp;do=login&amp;sectok=6121f54d984025abe01e49b9325b890d"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="start" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="">Show page</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=start&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=start&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=start&amp;do=index"  class="action index" accesskey="x" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>start</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    
+<p>
+This page is read only. You can view the source, but not change it. Ask your administrator if you think this is wrong.
+</p>
+
+
+<script type='text/javascript'>
+ //<![CDATA[
+
+if(window.dw_locktimer) {
+   var locktimer = dw_locktimer;
+} 
+var FCKRecovery = "";
+var oldonload = window.onload;
+var ourLockTimerINI = false;
+var oldBeforeunload;
+
+  var fckg_onload = function() {  fck = new FCKeditor("wiki__text", "100%", "600"); 
+                 fck.BasePath = "/lib/plugins/fckg/fckeditor/"; 
+                 fck.ToolbarSet = "Dokuwiki";  
+                 fck.ReplaceTextarea(); };  
+ 
+  jQuery(window).bind('load',{},fckg_onload);
+  
+   function fckgEditorTextChanged() {
+   window.textChanged = false;   
+   oldBeforeunload(); 
+   if(window.dwfckTextChanged) {        
+      return LANG.notsavedyet;
+   }  
+ }
+
+  function getCurrentWikiNS() {
+        var DWikiMediaManagerCommand_ns = '';
+        return DWikiMediaManagerCommand_ns;
+  }
+ 
+ var ourLockTimerRefreshID;
+ var ourLockTimerIsSet = true;
+ var ourLockTimerWarningtimerID;
+ var ourFCKEditorNode = null;
+ var ourLockTimerIntervalID;
+ var dwfckTextChanged = false;
+
+   /**
+    *    event handler
+    *    handles both mousepresses and keystrokes from FCKeditor window
+    *    assigned in fckeditor.html
+  */
+ function handlekeypress (e) {  
+    //alert(e);
+   if(ourLockTimerIsSet) {
+         lockTimerRefresh();
+   }
+   window.dwfckTextChanged = true;
+ }
+
+ function unsetDokuWikiLockTimer() {
+     
+    if(window.locktimer && !ourLockTimerINI) {
+        locktimer.old_reset = locktimer.reset;
+        locktimer.old_warning = locktimer.warning;        
+        ourLockTimerINI=true;
+    }
+    else {
+        window.setTimeout("unsetDokuWikiLockTimer()", 600);
+
+    }
+  
+  locktimer.reset = function(){
+        locktimer.clear();  // alert(locktimer.timeout);
+        window.clearTimeout(ourLockTimerWarningtimerID);
+        ourLockTimerWarningtimerID =  window.setTimeout(function () { locktimer.warning(); }, locktimer.timeout);
+   };
+
+   locktimer.warning = function(){    
+        window.clearTimeout(ourLockTimerWarningtimerID);
+
+        if(ourLockTimerIsSet) {
+            if(locktimer.msg.match(/Preview/i)) {
+                locktimer.msg = locktimer.msg.replace(/Preview/i, "Back-up");      
+             }
+            alert(locktimer.msg);
+        }
+        else {
+            alert("Your lock for editing this page is about to expire in a minute.\nYou can reset the timer by clicking the Back-up button.");
+        }
+     };
+     
+
+    locktimer.ourLockTimerReset = locktimer.reset;
+    locktimer.our_lasttime = new Date();
+    lockTimerRefresh();
+
+ }
+
+ function lockTimerRefresh(bak) {
+        var now = new Date();
+        if(!ourLockTimerINI)  unsetDokuWikiLockTimer();
+
+        if((now.getTime() - locktimer.our_lasttime.getTime() > 45*1000) || bak){            
+           var dwform = GetE('dw__editform');
+            window.clearTimeout(ourLockTimerWarningtimerID);
+            var params = 'call=lock&id='+locktimer.pageid;
+            if(ourFCKEditorNode) {  
+                dwform.elements.wikitext.value = ourFCKEditorNode.innerHTML;
+                params += '&prefix='+encodeURIComponent(dwform.elements.prefix.value);
+                params += '&wikitext='+encodeURIComponent(dwform.elements.wikitext.value);
+                params += '&suffix='+encodeURIComponent(dwform.elements.suffix.value);
+                params += '&date='+encodeURIComponent(dwform.elements.date.value);
+            }
+            locktimer.our_lasttime = now;  
+            jQuery.post(
+                DOKU_BASE + 'lib/exe/ajax.php',
+                params,
+                function (data) {
+                    data = data.replace(/auto/,"")  + ' by fckgLite';
+                    locktimer.response = data; 
+                    locktimer.refreshed(data);
+                },
+                'html'
+            );
+       }
+        
+ }
+
+
+ /**
+   Legacy function has no current use
+ */
+ function getRecoveredText() {
+    return FCKRecovery;
+ }
+
+ function resetDokuWikiLockTimer(delete_checkbox) {
+
+        var dom_checkbox = document.getElementById('fckg_timer');
+        var dom_label = document.getElementById('fckg_timer_label');
+        locktimer.clear();     
+        if(ourLockTimerIsSet) {
+
+             ourLockTimerIsSet = false;             
+             locktimer.reset = locktimer.old_reset; 
+             locktimer.refresh(); 
+             return;
+        }
+      
+     if(delete_checkbox) {
+       dom_checkbox.style.display = 'none';
+       dom_label.style.display = 'none';
+     }
+
+       ourLockTimerIsSet = true;
+       locktimer.reset = locktimer.ourLockTimerReset;     
+       lockTimerRefresh();
+          
+ }
+
+
+function renewLock(bak) {
+  if(ourLockTimerIsSet) {
+         lockTimerRefresh(true);
+   }
+   else { 
+    locktimer.refresh();
+   }
+   locktimer.reset();
+
+
+    if(bak) {
+        var id = "start"; 
+        parse_wikitext('bakup');
+
+        var dwform = GetE('dw__editform');
+        if(dwform.elements.fck_wikitext.value == '__false__' ) return;
+        GetE('saved_wiki_html').innerHTML = ourFCKEditorNode.innerHTML; 
+        if((0) == 0 ) {           
+           return; 
+        }
+       
+        var params = "rsave_id=/var/www/wiki/data/meta/start.fckg";
+        params += '&wikitext='+encodeURIComponent(dwform.elements.fck_wikitext.value);      
+        jQuery.post(
+                DOKU_BASE + 'lib/plugins/fckg/scripts/refresh_save.php',
+                params,
+                function (data) {                    
+                    if(data == 'done') {
+                        show_backup_msg("meta/start.fckg");  
+                    }
+                    else {
+                      alert("error saving: " + id);
+                    }
+                },
+                'html'
+            );
+    }
+
+}
+
+
+function revert_to_prev() {
+  if(!(GetE('saved_wiki_html').innerHTML.length)) {
+            if(!confirm(backup_empty)) {
+                           return;
+            }
+  }
+    ourFCKEditorNode.innerHTML = GetE('saved_wiki_html').innerHTML;
+}
+
+
+function draft_delete() {
+
+        var debug = false;
+        var params = "draft_id=/var/www/wiki/data/cache/8/8380649a85ad1cd5ba46834f39557fad.draft";
+        jQuery.ajax({
+           url: DOKU_BASE + 'lib/plugins/fckg/scripts/draft_delete.php',
+           async: false,
+           data: params,    
+           type: 'POST',
+           dataType: 'html',         
+           success: function(data){                 
+               if(debug) {            
+                  alert(data);
+               }
+              
+    }
+    });
+
+}
+
+function disableDokuWikiLockTimer() {
+  resetDokuWikiLockTimer(false);
+  if(ourLockTimerIntervalID) {
+     window.clearInterval(ourLockTimerIntervalID);
+  }
+  if(ourLockTimerIsSet) { 
+    ourLockTimerIntervalID = window.setInterval(function () { locktimer.refresh(); }, 30000);   
+  }
+}
+
+function dwfckKeypressInstallHandler() {
+  if(window.addEventListener){    
+      oDokuWiki_FCKEditorInstance.EditorDocument.addEventListener('keyup', handlekeypress , false) ;
+  }
+  else {   
+     oDokuWiki_FCKEditorInstance.EditorDocument.attachEvent('onkeyup', handlekeypress ) ;   
+  }
+}
+
+var DWFCK_EditorWinObj;
+function FCKEditorWindowObj(w) { 
+  DWFCK_EditorWinObj = w;
+}
+
+function fckg_isRTL() { 
+var direction = "nocheck";
+
+return direction == 'rtl';
+  
+}
+
+
+var oDokuWiki_FCKEditorInstance;
+function FCKeditor_OnComplete( editorInstance )
+{
+
+  oDokuWiki_FCKEditorInstance = editorInstance;
+
+  var f = document.getElementById('wiki__text');
+  oDokuWiki_FCKEditorInstance.VKI_attach = function() {
+     VKI_attach(f, oDokuWiki_FCKEditorInstance.get_FCK(), 'French');
+  }
+  oDokuWiki_FCKEditorInstance.get_FCK().fckLImmutables = fckLImmutables;
+  oDokuWiki_FCKEditorInstance.dwiki_user = "visitor"; 
+  oDokuWiki_FCKEditorInstance.dwiki_client = "";  
+  oDokuWiki_FCKEditorInstance.dwiki_usergroups = "";  
+  oDokuWiki_FCKEditorInstance.dwiki_doku_base = "/";  
+  oDokuWiki_FCKEditorInstance.dwiki_create_folder = "n"; 
+  oDokuWiki_FCKEditorInstance.dwiki_fnencode = "url"; 
+  oDokuWiki_FCKEditorInstance.dwiki_version = 1289084400; 
+  oDokuWiki_FCKEditorInstance.dwiki_anteater = 1289084400; 
+
+  document.getElementById('wiki__text___Frame').style.height = "450px";
+  document.getElementById('size__ctl').innerHTML = document.getElementById('fck_size__ctl').innerHTML;
+  
+  if(window.addEventListener){  
+    editorInstance.EditorDocument.addEventListener('keydown', CTRL_Key_Formats, false) ;
+    if(document.documentMode && document.documentMode == 9) {
+        editorInstance.EditorDocument.addEventListener('click', fckgMousePos, false) ;
+    }
+  }
+  else {
+   editorInstance.EditorDocument.attachEvent('onkeydown', CTRL_Key_Formats) ;      
+   }
+  dwfckKeypressInstallHandler();
+  
+  var index = navigator.userAgent.indexOf('Safari'); 
+  if(index == -1  || (navigator.userAgent.indexOf('Chrome'))) {
+    oldBeforeunload = window.onbeforeunload;
+    window.onbeforeunload = fckgEditorTextChanged;
+  }
+ 
+  var FCK = oDokuWiki_FCKEditorInstance.get_FCK();
+  if(FCK.EditorDocument && FCK.EditorDocument.body  && !ourFCKEditorNode) {
+     ourFCKEditorNode = FCK.EditorDocument.body;     
+  }
+   var FCKConfig = editorInstance.get_FCKConfig();
+   FCKConfig.fckgUserName = "";
+   FCKConfig.fckgUserMail="";
+  // alert(FCKConfig.name);
+}
+
+function fckgMousePos(e) {
+      if(!e) e=event;
+      
+     if(document.documentMode && document.documentMode == 9) {    
+       oDokuWiki_FCKEditorInstance.get_FCK().mouse_x = e.clientX;
+       oDokuWiki_FCKEditorInstance.get_FCK().mouse_y = e.clientY;       
+       oDokuWiki_FCKEditorInstance.get_FCK().screen_x = e.screenX;
+       oDokuWiki_FCKEditorInstance.get_FCK().screen_y = e.screenY;       
+       oDokuWiki_FCKEditorInstance.get_FCK().target = e.target;
+     }
+}
+function CTRL_Key_Formats(parm) {
+
+     if(!parm.ctrlKey) return;
+     if(parm.altKey) return;  // for alt GR key, where ctrl might be set to true
+		
+    /* h1 - h5 */
+     if(parm.keyCode >=49 && parm.keyCode <=53) {
+         var n = parm.keyCode - 48;
+         oDokuWiki_FCKEditorInstance.get_FCK().Styles.ApplyStyle('_FCK_h' + n);
+         return;  
+     }
+     /*  code/monospace -> 77 = 'm' */
+     if(parm.keyCode == 77) {
+        oDokuWiki_FCKEditorInstance.get_FCK().Styles.ApplyStyle('_FCK_code');
+		return;
+     }
+
+    /* CTRL-0 = Normal, i.e. <p> */
+    if(parm.keyCode == 48) {
+        oDokuWiki_FCKEditorInstance.get_FCK().Styles.ApplyStyle('_FCK_p');
+    }
+
+  }
+
+ 
+  var DWikifnEncode = "url";
+
+/* Make sure that show buttons in top and/or bottom clear the fckl file */  
+ function get_showButtons() {	
+	var inputs = document.getElementsByTagName('input');
+    
+     for(var i=0; i<inputs.length; i++) {	    
+        if(inputs[i].type && inputs[i].type.match(/submit/i)) {		           		    
+			if(inputs[i].value.match(/Show/i) || (inputs[i].form &&  inputs[i].form.className.match(/btn_show/) ) )
+    			inputs[i].onmouseup = draft_delete;
+        }
+     }
+  }
+ 
+ /* make sure the entire page has been loaded */
+ setTimeout("get_showButtons()", 3000);
+ //]]>
+ 
+</script>
+ 
+   <form id="dw__editform" method="post" action="/doku.php"  accept-charset="utf-8">
+    <div class="no">
+      <input type="hidden" name="id"   value="start" />
+      <input type="hidden" name="rev"  value="0" />
+      <input type="hidden" name="date" value="1429355200" />
+      <input type="hidden" name="prefix" value="" />
+      <input type="hidden" name="suffix" value="" />
+      <input type="hidden" id="fckg_mode_type"  name="mode" value="" />
+      <input type="hidden" id="fck_preview_mode"  name="fck_preview_mode" value="nil" />
+      <input type="hidden" id="fck_wikitext"    name="fck_wikitext" value="__false__" />     
+      <div class="no"><input type="hidden" name="sectok" value="6121f54d984025abe01e49b9325b890d" /></div>
+    </div>
+
+    <textarea name="wikitext" id="wiki__text" readonly="readonly" cols="80" rows="10" class="edit" tabindex="1">
+
+<p>
+<a href="/lib/exe/detail.php?id=start&amp;media=pictures:manuals.jpg" class="media" title="pictures:manuals.jpg"><img src="/lib/exe/fetch.php?w=529&amp;h=335&amp;tok=87a628&amp;media=pictures:manuals.jpg" class="media" title="manuals.jpg" alt="manuals.jpg" width="529" height="335" /></a>
+</p>
+
+<h1></h1>
+<div class="level1">
+<hr />
+
+</div>
+
+<h2>Getting started</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=unboxing" class="wikilink1" title="unboxing">Unboxing</a><br/>
+
+<a href="/doku.php?id=calibration_and_setup" class="wikilink2" title="calibration_and_setup" rel="nofollow">Calibration and Setup</a><br/>
+
+<a href="/doku.php?id=hello_world" class="wikilink2" title="hello_world" rel="nofollow">Hello World: first jobs</a><br/>
+
+<a href="/doku.php?id=troubleshooting" class="wikilink1" title="troubleshooting">Troubleshooting</a><br/>
+
+<a href="/doku.php?id=gallery" class="wikilink1" title="gallery">Gallery </a>
+</p>
+<hr />
+
+</div>
+
+<h2>Hardware Overview</h2>
+<div class="level2">
+
+</div>
+
+<h3>Electronics Overview</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=raspberry_pi" class="wikilink1" title="raspberry_pi">Raspberry Pi</a><br/>
+
+<a href="/doku.php?id=totumduino" class="wikilink1" title="totumduino">Totumduino</a><br/>
+
+<a href="/doku.php?id=assembly_camera" class="wikilink1" title="assembly_camera">Camera</a> <br/>
+
+<a href="/doku.php?id=assembly_line_laser" class="wikilink2" title="assembly_line_laser" rel="nofollow">Line Laser</a><br/>
+
+<a href="/doku.php?id=mechanical_overview" class="wikilink2" title="mechanical_overview" rel="nofollow">Power Supply</a>
+</p>
+
+</div>
+
+<h3>Mechanical Overview</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=h-bot_x_and_y_axis" class="wikilink1" title="h-bot_x_and_y_axis">FABtotum&#039;s CoreXY: X and Y Axis</a><br/>
+
+<a href="/doku.php?id=z-axis" class="wikilink1" title="z-axis">Z-Axis</a><br/>
+
+<a href="/doku.php?id=a_e-axis" class="wikilink2" title="a_e-axis" rel="nofollow">A/E-Axis</a><br/>
+
+<a href="/doku.php?id=head_assembly" class="wikilink1" title="head_assembly">Head Assembly</a><br/>
+
+<a href="/doku.php?id=feeder" class="wikilink2" title="feeder" rel="nofollow">Feeder</a><br/>
+
+<a href="/doku.php?id=heated_plate" class="wikilink1" title="heated_plate">Heated Plate</a><br/>
+
+<a href="/doku.php?id=nozzle" class="wikilink1" title="nozzle">Nozzle</a><br/>
+
+<a href="/doku.php?id=filament" class="wikilink2" title="filament" rel="nofollow">Filament</a><br/>
+
+<a href="/doku.php?id=spindle" class="wikilink2" title="spindle" rel="nofollow">Spindle</a><br/>
+
+<a href="/doku.php?id=mills_drills" class="wikilink1" title="mills_drills">Mills/Drills</a><br/>
+
+<a href="/doku.php?id=frame" class="wikilink2" title="frame" rel="nofollow">Frame</a><br/>
+
+<a href="/doku.php?id=case_panels" class="wikilink2" title="case_panels" rel="nofollow">Case Panels</a><br/>
+
+<a href="/doku.php?id=limit_switches" class="wikilink2" title="limit_switches" rel="nofollow">Limit Switches</a>
+</p>
+<hr />
+
+</div>
+
+<h2>Additive Printing</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=hello_world" class="wikilink2" title="hello_world" rel="nofollow">Hello World!</a><br/>
+
+<a href="/doku.php?id=3d_extrusion_printing" class="wikilink2" title="3d_extrusion_printing" rel="nofollow">3D Extrusion Printing</a>
+</p>
+<hr />
+
+</div>
+
+<h2>Subtractive Machining</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=hello_world" class="wikilink2" title="hello_world" rel="nofollow">Hello World!</a><br/>
+
+<a href="/doku.php?id=2d_milling_workflow" class="wikilink1" title="2d_milling_workflow">2D Milling Workflow</a><br/>
+
+<a href="/doku.php?id=3d_milling_workflow" class="wikilink1" title="3d_milling_workflow">3D Milling Workflow</a><br/>
+
+<a href="/doku.php?id=4axis_milling_workflow" class="wikilink2" title="4axis_milling_workflow" rel="nofollow">4Axis Milling Workflow</a>
+</p>
+
+<p>
+<a href="/doku.php?id=pcb_milling_workflow" class="wikilink1" title="pcb_milling_workflow">PCB Milling Workflow</a>
+</p>
+<hr />
+
+</div>
+
+<h2>Scanning</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=your_first_scan" class="wikilink2" title="your_first_scan" rel="nofollow">Your First Scan</a><br/>
+
+<a href="/doku.php?id=rotational_scanning" class="wikilink2" title="rotational_scanning" rel="nofollow">Rotational Scanning</a><br/>
+
+<a href="/doku.php?id=scanning_swipe_scanning" class="wikilink2" title="scanning_swipe_scanning" rel="nofollow">Swipe-scanning</a><br/>
+
+<a href="/doku.php?id=probing" class="wikilink2" title="probing" rel="nofollow">Probing</a>
+</p>
+<hr />
+
+</div>
+
+<h2>Software</h2>
+<div class="level2">
+<ul>
+<li class="level1"> FABUI Overview</li>
+<li class="level1"> <a href="/doku.php?id=software:gcodes" class="wikilink1" title="software:gcodes">Supported GCodes</a></li>
+</ul>
+
+</div>
+
+<h3>Development</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=forum.fabtotum.cc:showthread.php&amp;1577-Writing-a-simple-quot-Hello-World-quot-plugin" class="wikilink1" title="forum.fabtotum.cc:showthread.php">a simple &quot;Hello World&quot; plugin</a>
+</p>
+<hr />
+
+</div>
+
+<h2>Upgrades</h2>
+<div class="level2">
+
+</div>
+
+<h3>Additional Hardware</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=upgrades-third-party_heads" class="wikilink1" title="upgrades-third-party_heads">Third-party Heads</a>
+</p>
+
+<p>
+<a href="/doku.php?id=electrical_continuity_probe" class="wikilink1" title="electrical_continuity_probe">Electrical continuity probe for conductive surfaces</a>
+</p>
+
+</div>
+
+<h3>Additional Firmware / plugins</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=firmware_development" class="wikilink1" title="firmware_development">Firmware development: Downloading FABlin, compiling and flashing a new firmware</a>
+</p>
+
+<p>
+<a href="/doku.php?id=procrashs_step_by_step_install" class="wikilink1" title="procrashs_step_by_step_install">Procash&#039;s Bed Leveling Plugin</a>
+</p>
+
+<p>
+procrash&#039;s Fabtotum Git fork
+</p>
+
+</div>
+
+<h1></h1>
+<div class="level1">
+<hr />
+
+</div>
+
+<h2>About Fabtotum</h2>
+<div class="level2">
+
+<p>
+<a href="/doku.php?id=how_it_started" class="wikilink1" title="how_it_started">How it Started</a>
+</p>
+<hr />
+
+</div>
+
+<h2>Additional Resources</h2>
+<div class="level2">
+
+</div>
+
+<h3>Community Created Models</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=community-models" class="wikilink1" title="community-models">Community-Models</a>
+</p>
+
+</div>
+
+<h3>Printing</h3>
+<div class="level3">
+
+</div>
+
+<h3>Milling</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=pcb-basics" class="wikilink1" title="pcb-basics">PCB-Basics</a>
+</p>
+
+</div>
+
+<h3>Scanning</h3>
+<div class="level3">
+
+</div>
+
+<h3>Modeling</h3>
+<div class="level3">
+
+</div>
+
+<h3>Other</h3>
+<div class="level3">
+
+<p>
+Glossary<br/>
+
+Books<br/>
+
+Online resources
+</p>
+
+<p>
+<br/>
+
+<a href="/doku.php?id=formatting" class="wikilink1" title="formatting">DokuWiki syntax &amp; Formatting</a>
+</p>
+<hr />
+
+</div>
+</textarea>
+    
+<script type='text/javascript'>
+//<![CDATA[ 
+var useDW_Editor =0;
+ //]]> </script>
+    <script type="text/javascript">
+    //<![CDATA[ 
+    
+    function setDWEditCookie(which, e) { 
+       var cname = "";       
+       var dom = document.getElementById('fckg_mode_type');          
+       if(which == 1) {
+           dwedit_draft_delete("");
+             if(useDW_Editor) {
+                document.cookie = 'FCKG_USE=other;expires=';             
+              }  
+           else {
+                document.cookie='FCKG_USE=other;expires=Thu,01-Jan-70 00:00:01 GMT;'
+           }
+           if(e && e.form) {
+                    if(e.form['mode']) {
+                       e.form['mode'].value = 'fck';
+                    }
+                    else {
+                       e.form['mode'] = new Object;
+                       e.form['mode'].value = 'fck';  
+                    }
+           }
+           else dom.value = 'fck';  
+       }
+        else {            
+            document.cookie = 'FCKG_USE=_false_;expires=';                         
+            dom.value = 'dwiki';        
+
+        }
+         e.form.submit();
+    }
+  
+ 
+    //]]> 
+
+    </script>
+    <div id="wiki__editbar">
+      <div id="size__ctl"></div>
+      <div id = "fck_size__ctl" style="display: none">
+       
+       <img src = "/lib/images/smaller.gif"
+                    title="edit window smaller"
+                    onclick="dwfck_size_ctl('smaller');"   
+                    />
+       <img src = "/lib/images/larger.gif"
+                    title="edit window larger"
+                    onclick="dwfck_size_ctl('larger');"   
+           />
+      </div>
+      
+        </div>
+  </form>
+
+  <!-- draft messages from DW -->
+  <div id="draft__status"></div>
+  
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>start.txt</bdi> · Last modified: 2015/04/18 13:06 by <bdi>snorkboy</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=start&amp;do="  class="action show" accesskey="v" rel="nofollow" title="Show page [V]"><span>Show page</span></a></li><li><a href="/doku.php?id=start&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=start&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=start&amp;1429384647" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

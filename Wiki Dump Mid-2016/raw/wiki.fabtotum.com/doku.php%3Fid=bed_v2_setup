@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>bed_v2_setup []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="bed_v2_setup"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=bed_v2_setup&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=bed_v2_setup"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=bed_v2_setup"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=bed_v2_setup"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"bed_v2_setup","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "bed_v2_setup"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=bed_v2_setup&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=bed_v2_setup&amp;do=login&amp;sectok=9173d6da9a2893650fa8cd608135d14d"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="bed_v2_setup" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=bed_v2_setup&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=bed_v2_setup&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=bed_v2_setup&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=bed_v2_setup"  class="breadcrumbs" title="bed_v2_setup">bed_v2_setup</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>bed_v2_setup</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#fabtotum_bed_v2_update">FABtotum BED V2 Update</a></div></li>
+<li class="level1"><div class="li"><a href="#section"></a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#purpose">Purpose</a></div></li>
+<li class="level2"><div class="li"><a href="#what_you_need">What you need:</a></div></li>
+<li class="level2"><div class="li"><a href="#procedure">Procedure:</a></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="fabtotum_bed_v2_update">FABtotum BED V2 Update</h1>
+<div class="level1">
+
+</div>
+<div class="level1">
+
+</div>
+
+<h2 class="sectionedit2" id="purpose">Purpose</h2>
+<div class="level2">
+
+<p>
+The FABtotum hybrid bed has arrived after few months of developements: with an improved connection pcb, stronger pogo pins and an improved heat transmission that reduces the time of heating and guarantees a more uniform heating.
+</p>
+
+<p>
+Check the specs <a href="/doku.php?id=heated_plate" class="wikilink1" title="heated_plate">here</a>.
+</p>
+
+<p>
+This tutorial is intended to help you change the plate connection pcb to be used with the new bed.
+</p>
+
+<p>
+You can buy the new bed an plate connection pcb in the FABtotum shop: <a href="https://store.fabtotum.com/eu/store/hybrid-bed-v2-91.html" class="urlextern" title="https://store.fabtotum.com/eu/store/hybrid-bed-v2-91.html"  rel="nofollow">store.fabtotum.com/eu/store/hybrid-bed-v2-91.html</a>
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="what_you_need">What you need:</h2>
+<div class="level2">
+<ol>
+<li class="level1"><div class="li"> New hybrid bed V2;</div>
+</li>
+<li class="level2"><div class="li"> New plate connection PCB, also called relay PCB (plateconn in this tutorial from now on);</div>
+</li>
+<li class="level2"><div class="li"> 3D printed spacer (Supplied with the new bed);</div>
+</li>
+<li class="level2"><div class="li"></div>
+</li>
+</ol>
+
+<p>
+T8 Torx Key;
+</p>
+<ol>
+<li class="level1"><div class="li"> FABtotum M3 Printable tool;  (You can find the .stl file on  <a href="http://www.thingiverse.com/thing:1283176" class="urlextern" title="http://www.thingiverse.com/thing:1283176"  rel="nofollow">thingiverse</a>);</div>
+</li>
+<li class="level2"><div class="li"> Flat screwdriver.  <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_1.jpg" class="media" title="bed_update_1.jpg"><img src="/lib/exe/fetch.php?w=600&amp;tok=0fb24b&amp;media=bed_update_1.jpg" class="media" title="bed_update_1.jpg" alt="bed_update_1.jpg" width="600" /></a></div>
+</li>
+</ol>
+
+</div>
+
+<h2 class="sectionedit4" id="procedure">Procedure:</h2>
+<div class="level2">
+<ol>
+<li class="level1"><div class="li"> Raise the Z axis using the command “G28” in FABUI, “JOG”.</div>
+</li>
+<li class="level2"><div class="li"> Locate the old plateconn on your FABtotum (see image below).     <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_2.jpg" class="media" title="bed_update_2.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=396&amp;tok=cc277a&amp;media=bed_update_2.jpg" class="media" alt="" width="600" height="396" /></a> <br/>
+ <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> Disconnect the two connectors form the old plateconn, the wires lenght are different, so you can recognize them easily.   <br/>
+If you have bad memory, you can mark one with a sticker.     <br/>
+ <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_3.jpg" class="media" title="bed_update_3.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=435&amp;tok=f57970&amp;media=bed_update_3.jpg" class="media" alt="" width="600" height="435" /></a> <br/>
+ <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> Using the M3 Printed tool and the T8 Torx Key, remove the old plateconn from your FABtotum.     <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_4.jpg" class="media" title="bed_update_4.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=390&amp;tok=6cffe4&amp;media=bed_update_4.jpg" class="media" alt="" width="600" height="390" /></a>  <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> Insert the 3D printed spacer supplied with the bed, being careful to position the red line on the top and the red dot looking at you. <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_5x.jpg" class="media" title="bed_update_5x.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=450&amp;tok=7b1c31&amp;media=bed_update_5x.jpg" class="media" title="bed_update_5x.jpg" alt="bed_update_5x.jpg" width="600" height="450" /></a> <br/>
+ <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> Replace the old plateconn with the new one. Start to screw the new plateconn using the M3 printed tool and the T8 Torx key. Don’t fasten the plateconn too much. Make sure the plateconn sits at the spacer angle. <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_5.jpg" class="media" title="bed_update_5.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=336&amp;tok=399e63&amp;media=bed_update_5.jpg" class="media" alt="" width="600" height="336" /></a> <br/>
+ <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> Place the new bed in position and check the connection between the plateconn and the bed’s pogo pins.     <br/>
+see: <a href="http://support.fabtotum.com/manual_eng.pdf" class="urlextern" title="http://support.fabtotum.com/manual_eng.pdf"  rel="nofollow">quick setup guide</a>  <br/>
+  <br/>
+ <a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_10.jpg" class="media" title="bed_update_10.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=355&amp;tok=dee1d9&amp;media=bed_update_10.jpg" class="media" alt="" width="600" height="355" /></a>  <br/>
+  <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> The plateconn can now be fastened so that the heated bed connection pins are touching the plateconn consistently. Do not fasten the plateconn too much, otherwise the space between the plateconn and the heated bed will become increasingly small, making the insertion of the heated bed very tricky and potentially damage the pins. The ideal gap should be as shown below:     <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_8.jpg" class="media" title="bed_update_8.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=424&amp;tok=9ef240&amp;media=bed_update_8.jpg" class="media" alt="" width="600" height="424" /></a> <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> When you are satisfied, remove the bed and connect the plateconn back with the two connectors you previously disconnected.     <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_6.jpg" class="media" title="bed_update_6.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=342&amp;tok=f6a907&amp;media=bed_update_6.jpg" class="media" alt="" width="600" height="342" /></a></div>
+</li>
+<li class="level2"><div class="li"> To test the connection in the FABUI go to “JOG” (1), Raise the bed temp (example: 50°C ) (2), wait until the bed reach the target temperature and digit “G27” (3). Press Run to execute. This will home the bed to the max Z position (lower end).    <br/>
+You should start seeying the temperature in the bed temperature bar (5).   <br/>
+The value should not fluctuate.   <br/>
+ <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=bed_v2_setup&amp;media=bed_update_g27.png" class="media" title="bed_update_g27.png"><img src="/lib/exe/fetch.php?w=600&amp;h=357&amp;tok=450ff4&amp;media=bed_update_g27.png" class="media" alt="" width="600" height="357" /></a> <br/>
+ <br/>
+</div>
+</li>
+<li class="level2"><div class="li"> At this point the setup is done, but the bed is still not calibrated. Follow the <a href="/doku.php?id=mantainance#bed_calibration" class="wikilink1" title="mantainance">Bed calibration</a> tutorial to calibrate the printing bed.</div>
+</li>
+<li class="level2"><div class="li"> You are now ready to use the FABtotum.</div>
+</li>
+</ol>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>bed_v2_setup.txt</bdi> · Last modified: 2016/04/26 16:30 by <bdi>jj</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=bed_v2_setup&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=bed_v2_setup&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=bed_v2_setup&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=bed_v2_setup&amp;1472401047" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

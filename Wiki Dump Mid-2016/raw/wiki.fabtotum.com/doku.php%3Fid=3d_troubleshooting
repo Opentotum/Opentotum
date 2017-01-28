@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>3d_troubleshooting []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="3d_troubleshooting"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=3d_troubleshooting&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=3d_troubleshooting"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=3d_troubleshooting"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=3d_troubleshooting"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"3d_troubleshooting","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "3d_troubleshooting"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=3d_troubleshooting&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=3d_troubleshooting&amp;do=login&amp;sectok=39f40a79a2433cc531d5bc0f6f988188"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="3d_troubleshooting" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=3d_troubleshooting&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=3d_troubleshooting&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=3d_troubleshooting&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=3d_troubleshooting"  class="breadcrumbs" title="3d_troubleshooting">3d_troubleshooting</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>3d_troubleshooting</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#d_printing_troubleshooting">3D printing troubleshooting</a></div>
+<ul class="toc">
+<li class="clear">
+<ul class="toc">
+<li class="level3"><div class="li"><a href="#not_extruding_no_filament_coming_out_of_the_nozzle">Not extruding / No filament coming out of the nozzle</a></div></li>
+<li class="level3"><div class="li"><a href="#filament_not_sticking_on_the_plane">Filament not sticking on the plane</a></div></li>
+<li class="level3"><div class="li"><a href="#print_not_starting_bed_extruder_not_heating">Print not starting/ bed,extruder not heating</a></div></li>
+<li class="level3"><div class="li"><a href="#pillowing">Pillowing</a></div></li>
+<li class="level3"><div class="li"><a href="#elephant_s_foot">Elephant&#039;s foot</a></div></li>
+<li class="level3"><div class="li"><a href="#very_visible_lines_on_the_bottom_layer">Very visible lines on the bottom layer</a></div></li>
+<li class="level3"><div class="li"><a href="#under_extrusion">Under extrusion</a></div></li>
+<li class="level3"><div class="li"><a href="#walls_not_touching">Walls not touching</a></div></li>
+<li class="level3"><div class="li"><a href="#section2"></a></div></li>
+<li class="level3"><div class="li"><a href="#grinding">Grinding</a></div></li>
+<li class="level3"><div class="li"><a href="#scratches">Scratches</a></div></li>
+<li class="level3"><div class="li"><a href="#hairy_print">&quot;Hairy&quot; print</a></div></li>
+<li class="level3"><div class="li"><a href="#ringing">Ringing</a></div></li>
+<li class="level3"><div class="li"><a href="#section3"></a></div></li>
+<li class="level3"><div class="li"><a href="#section4"></a></div></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="d_printing_troubleshooting">3D printing troubleshooting</h1>
+<div class="level1">
+
+</div>
+
+<h3 class="sectionedit2" id="not_extruding_no_filament_coming_out_of_the_nozzle">Not extruding / No filament coming out of the nozzle</h3>
+<div class="level3">
+
+<p>
+<strong>Description </strong>: Filament is not coming out from the nozzle (Hybrid Head)     <br/>
+
+<strong>Possible Causes:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> <strong>Cause A - The Feeder is not engaged</strong>  (Valid only for <a href="/doku.php?id=versions" class="wikilink1" title="versions">versions</a> older than July 2015).  <br/>
+ Note 1: The engaging/disengaging feeder has been changed, you can easily update it following this tutorial: <a href="/doku.php?id=feeder_update" class="wikilink1" title="feeder_update">Feeder Update</a>.  <br/>
+ Note 2: <em>The feeder will disengage itself after a print.</em>  <br/>
+First, extract the white PTFE Feeding tube from the head by heating the extruder at 210°C from the JOG Menu In the FABUI.     <br/>
+From FABUI Go to Maintenance then select Feeder.     <br/>
+Follow the instructions to locate and press the feeder mechanism. Be sure that the button inside and the back of the printing area is pushed with the right force.A “click” sound should come from the mechanism if fully engaged.    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=3d_troubleshooting&amp;media=engaged.jpg" class="media" title="engaged.jpg"><img src="/lib/exe/fetch.php?w=270&amp;h=298&amp;tok=d72d52&amp;media=engaged.jpg" class="media" title="engaged.jpg" alt="engaged.jpg" width="270" height="298" /></a> <br/>
+ <br/>
+When the feeder is engaged go back to the JOG menu, press the E tab in the right hand side of the panel.Press the plus button and see if the filament is moving inside the tube, by watching the end that was just unplugged from the Head.     <br/>
+ <br/>
+Press the Plus botton in the JOG menu until the filament sticks out for 3cm from the PTFE feeding tube. If the filament is coming out, carefully reinsert it in the head. Be careful to not get the filament stuck on the sides of the head when pushing it down. this will bend the filament and block extrusion.When inserting the tube and the filament, the nozzle should be pouring some molten plastic.     <br/>
+Once the tube is firmly locked in place, extrude another 10mm by pressing the Plus button to verfy the correct extrusion of material.</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cause B - The nozzle is too close to the printing surface</strong> <br/>
+Increase the distance by pressing the Z+ button during the print or calibrate the Probe lenght (Maintenance → Probe Lenght Calibration)</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cause C - The temperature is too low</strong> <br/>
+You could try to Increase the temperature a bit (5-10°C would help) during prints.    <br/>
+Some filaments, especially with colorants, have higher melting point (180-230°C).</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cause D - Excessive temperature     <br/>
+</strong>If the temperature is too high, the filament will melt before reaching the nozzle, causing excessive friction.     <br/>
+Be sure to keep the cooling fan on (M106 at the start  of the gcode or “FAN always on” in slic3r)</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cause E - The nozzle is jammed   </strong>  <br/>
+First, Verify that the PTFE tube in the back is correctly sticking out and is not caught inside the back of the unit.    <br/>
+Remove the tube from the head, and with the Z in the middle of the height (bed Halfway), try to push some filament Manually in the head. can you push the filament and see it being extruded?    <br/>
+If not the nozzle could be obstructed and requiring some cleaning or the filament is not getting all the way down in the nozzle (getting caugth in the sides of the head before entering the heating chamber).    <br/>
+Try  dipping some filament from the top by hand and then pulling it out for a  few times (with the nozzle at 210°C) helps to clean it.    <br/>
+Insert a small 0.3mm electric wire in the nozzle while at 210°C from below and make sure there are no obstructions.    <br/>
+For see how to clean the nozzle follow <a href="/doku.php?id=mantainance#clean_the_nozzle" class="wikilink1" title="mantainance">this</a> guide.</div>
+</li>
+</ul>
+
+<p>
+—-
+</p>
+
+</div>
+
+<h3 class="sectionedit3" id="filament_not_sticking_on_the_plane">Filament not sticking on the plane</h3>
+<div class="level3">
+
+<p>
+<strong>Description : </strong>    Filament is not sticking / drops are left on the bed (Hybrid Head)     <br/>
+<strong>Possible Causes:</strong>
+</p>
+<ul>
+<li class="level1"><div class="li"> <strong>Cause A - The nozzle is too far from the bed</strong> <br/>
+-Verify that the 4 bed set-screws are almost completely screwed in (highest position possible minus 2 turns)     <br/>
+-Run the Probe Length Calibration wizard from the maintenance menu     <br/>
+-Run the Assisted Bed Leveling procedure from the maintenance menu     <br/>
+-be sure that the PTFE tube is not getting stuck in the back of the unit.</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cause B - Extruder or bed temperature is too low</strong> <br/>
+Increase the temperature of the bed and the extruder in the supported range and wait a few seconds:     <br/>
+<strong>Extruder</strong>: Min 180°C, Don&#039;t surpass 210°C if you don&#039;t see any result.     <br/>
+<strong>Bed</strong>: Min 55°C, Don&#039;t surpass 70°C if you don&#039;t see any result.</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cause C - The bed doesn&#039;t have a sticky coating</strong> <br/>
+Look on <a href="/doku.php?id=stick&amp;id=stick" class="wikilink1" title="stick">this</a> page how to make your bed sticky</div>
+</li>
+</ul>
+
+<p>
+—-
+</p>
+
+</div>
+
+<h3 class="sectionedit4" id="print_not_starting_bed_extruder_not_heating">Print not starting/ bed,extruder not heating</h3>
+<div class="level3">
+
+<p>
+<strong>Description:</strong>    The 3D print process is not starting      <br/>
+<strong>Possible Causes</strong>    :
+</p>
+<ul>
+<li class="level1"><div class="li"> <strong>Cause A - the bed is not making contact with the power supply connector</strong> <br/>
+Verify that the temperature can be read from the JOG menu,     <br/>
+Try  set a temperature over 60°C and press “temperature” to see it grows.The Red LEDs on the Bed will turn on.     <br/>
+If  it does not raise the bed is not at the right height or it&#039;s not making contact.     <br/>
+Verify that the unit is not locked (no error message or safety warning)</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cause B - the machine is currently in SAFETY LOCK mode   </strong>  <br/>
+1. Check the temperature of the bed in the FABUIIt must not be 0°C. Push the bed from the right side towards the left side as to facilitate the contact. If The temperature is still zero remove the bed and check the contacts, if any of them is deformed try to put it in place with some pliers.     <br/>
+ <br/>
+2. You get a non-zero reading but it won&#039;t start. Check what temperature is your Gcode asking your bed? Is it higher than 90ºC? re-slice the file with a lower temp. The contacts allow to read the temperature but it is not heating. Do you see the red lights embedded in the platform? No Check contacts and apply the same solutions as in 1. Yes you are too impatient or still not all the heating circuits make proper contact.     <br/>
+ <br/>
+Possible solution: If you need more temperature, change it to a higher value in the gcode/slicer. Possibly anything starting at 60-70º is more than sufficient. The firmware allows to go up to 115ºC, but you might have to wait 30 minutes for the heated bed to arrive to this temperature, and you won&#039;t probably have any advantage.</div>
+</li>
+</ul>
+
+</div>
+
+<h3 class="sectionedit5" id="pillowing">Pillowing</h3>
+<div class="level3">
+
+<p>
+Pillowing show up as bumps in the top surface of a print and can either be open or closed. The most important thing here is to make sure that your cooling fans are going top speed when the printer is laying down the top layer. Without proper cooling the thin strands of plastic tend to curl up and stick up above the surface of the print and make it harder for subsequent layers to properly span over the gap. With good cooling the strands gradually grow over the gaps until it closes fully.
+</p>
+
+<p>
+Besides cooling you also need to print a thick enough top surface so that the printer can properly close it. In general you should make sure that you are printing at least six top layers. Since the top and bottom thickness is set in mm you will have to do some basic math to make sure you&#039;re printing enough layers. If you are printing with a 0.1mm layer height you should make your top thickness at least 0.6mm.
+</p>
+
+<p>
+In general you will need more top layers the thinner your layer height is. With very thin layers the thin strands of plastic are more likely to break before fully bridging over the gaps in the infill and providing a nice base for the following layer. You will therefore need to print more layers to make up for this. In other words very thin layers can be another cause of pillowing.
+</p>
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=17ce6c&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F53c3e307e4b085fad945cd9f%2Ffile-9RYFuYfJL6.jpg" class="media" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53c3e307e4b085fad945cd9f_file-9ryfuyfjl6.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53c3e307e4b085fad945cd9f_file-9ryfuyfjl6.jpg" width="100" />This image shows two prints done with exactly the same settings, except for one, the bottom print did not have the cooling fans enabled.
+</p>
+
+<p>
+Some users have also reported that the change in infill pattern between 24% and 25% (and up) makes a big difference. The difference between infill percentages at 24 or lower and 25 and higher is how cura lays down each layer. The infill is a crosshatch pattern made with diagonal intersecting lines. At lower densities both directions are laid down for each layer while at higher densities it is only laid down in one direction per layer. So, for layer X it will do lines from the lower left to the upper right. At layer X+1 it will do lines going from lower right to upper left.
+</p>
+
+</div>
+
+<h3 class="sectionedit6" id="elephant_s_foot">Elephant&#039;s foot</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=bec562&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F53ba99cfe4b09d13bf3cdb5f%2Ffile-NZnhvOw08g.jpg" class="medialeft" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53ba99cfe4b09d13bf3cdb5f_file-nznhvow08g.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53ba99cfe4b09d13bf3cdb5f_file-nznhvow08g.jpg" width="100" />
+</p>
+
+<p>
+It&#039;s very common that the first couple of layers of a print is wider than you expected them to be. This is because you will generally want to make sure the first layer is nicely squished into the build platform so that it sticks properly. By doing this the plastic gets squished out into a thicker line than normal and thus the bottom of the print will bulge out a bit like an elephant&#039;s foot. You can decrease this effect by levelling your bed so that the nozzle is slightly further away from the bed and lowering the bed temperature a bit. It&#039;s hard to get rid of this effect entirely without sacrificing bottom layer quality and bed adhesion. It will be easier on small prints as they are less likely to warp and detach from the platform and you can therefore get away with not squishing the first layer as hard.
+</p>
+
+</div>
+
+<h3 class="sectionedit7" id="very_visible_lines_on_the_bottom_layer">Very visible lines on the bottom layer</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=2a541b&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F53babb97e4b09d13bf3cdb7e%2Ffile-9BO8SHAKrY.jpg" class="medialeft" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53babb97e4b09d13bf3cdb7e_file-9bo8shakry.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53babb97e4b09d13bf3cdb7e_file-9bo8shakry.jpg" width="100" />
+</p>
+
+<p>
+If the bottom layer of your print is showing very obvious print lines it&#039;s likely that your bed is simply levelled a little bit too far away from the nozzle. The closer to the nozzle the bed is on the first layer the harder the plastic will be squished into the bed and the lines will then blend together better. However, you can&#039;t go too closely as that will prevent the plastic from escaping from the nozzle properly. Pressure will build up and eventually the plastic will squirt out and create an ugly blob, or, it could cause the feeder to grind your filament which is something you don&#039;t want.
+</p>
+
+</div>
+
+<h3 class="sectionedit8" id="under_extrusion">Under extrusion</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=47b66c&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F53bbf859e4b09d13bf3cdd85%2Ffile-NJOw1Ah4bz.jpg" class="medialeft" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53bbf859e4b09d13bf3cdd85_file-njow1ah4bz.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53bbf859e4b09d13bf3cdd85_file-njow1ah4bz.jpg" width="100" />
+</p>
+
+<p>
+Under extrusion is simply that the printer can not supply the amount of plastic that is asked for. Symptoms of this is missing layers, very thin layers or layers that have random dots and holes in them. This problem is probably the trickiest to find the direct cause for as there are so many variables at play.
+</p>
+
+<p>
+The printer will do its best to try and achieve the printing speeds that you are asking for. If this is beyond what the printer is capable of you will run into problems. If the printer is at the very edge of its capability the amount of plastic being extruded will be reduced but the print keeps going normally. When this happens your printed object might look ok at first glance but if you look closer you will see that walls are not properly fused and there are gaps between fill lines.
+</p>
+
+<p>
+If you go beyond this in-the-middle stage the printer tries pushing harder and harder to extrude the material but eventually the pressure will be too high. Ideally when this happens the extruder motor will do what we call a skip back where the axis of the motor spins in the opposite direction for about a quarter turn to relieve pressure. This will not damage the printer, it&#039;s an intended behaviour to prevent the filament from being ground up by the feeder. You will hear when this happens as it will make a *tock* sound and if you look closely at the filament that is being extruded you will see a sudden reduction in volume.
+</p>
+
+</div>
+
+<h3 class="sectionedit9" id="walls_not_touching">Walls not touching</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=719099&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F53bbf985e4b08d4d93a1c413%2Ffile-hI8vWnECLk.jpg" class="medialeft" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53bbf985e4b08d4d93a1c413_file-hi8vwneclk.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53bbf985e4b08d4d93a1c413_file-hi8vwneclk.jpg" width="100" />
+</p>
+
+<p>
+First of all you have to determine if the walls are not touching at all or if they are touching in some parts only. Using a cylinder as an example it is common that there will be two “sides” touching and two that do not.
+</p>
+
+<p>
+This is very likely caused by the short belts not being tight enough. Please see <a href="http://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#circles" class="urlextern" title="http://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#circles"  rel="nofollow">this section</a> which deals with this issue.
+</p>
+
+</div>
+<div class="level4">
+
+</div>
+<div class="level4">
+
+</div>
+<div class="level3">
+
+</div>
+
+<h3 class="sectionedit10" id="grinding">Grinding</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=ccb4c7&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F53be84cce4b0f628cad49d69%2Ffile-i140XtEHYW.jpg" class="medialeft" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53be84cce4b0f628cad49d69_file-i140xtehyw.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53be84cce4b0f628cad49d69_file-i140xtehyw.jpg" width="100" />
+</p>
+
+<p>
+Grinding happens when the motor tries to push the filament through the nozzle but for whatever reason it starts to slip on the filament and instead grinds the plastic down. The more it grinds the filament the less grip it is able to get and very soon it will not be able to move the filament neither in nor out.
+</p>
+
+</div>
+
+<h3 class="sectionedit11" id="scratches">Scratches</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=1e78ad&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F53c3cf9fe4b0bbe0c00d60f1%2Ffile-Y7RjbMbOfe.jpg" class="medialeft" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53c3cf9fe4b0bbe0c00d60f1_file-y7rjbmbofe.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53c3cf9fe4b0bbe0c00d60f1_file-y7rjbmbofe.jpg" width="100" />
+</p>
+
+<p>
+As the print head is completing a top layer travel moves can cause ugly lines to appear. This can be caused by a couple of things. Either the head is making an actual scratch on the surface or you are seeing slight oozing of plastic during the travel move.
+</p>
+
+<p>
+You can try to enable the “z-hop” feature in cura which will find in the expert settings under the retraction heading: <code>Expert → Open expert settings…</code> This feature will make the printer lift the nozzle a tiny amount just before making a travel move and then move back down once it arrives at the destination. In combination with this you can increase the speed at which the printer executes travel moves. You can increase the default 150mm/s to 250mm/s without problems. The faster move will reduce the amount of time the nozzle can ooze out plastic. Also consider lowering your temperature to further reduce oozing.
+</p>
+
+<p>
+To reduce oozing even more you can set the Minimum travel distance to 1 and set Minimum extrusion to 0. This will force cura to always retract before performing a travel move. This may add a bit of printing time as a retraction doesn&#039;t happen instantly.
+</p>
+
+<p>
+A side effect of the z-hop feature is that it can leave behind a tiny little blob. However, a small blob is far less visible and easier to remove than a scratch.
+</p>
+
+<p>
+By adding a thin solid layer on top of the object he was able to reduce the travel moves significantly. The thin layer of plastic was then cut to reveal the holes again.
+</p>
+
+</div>
+
+<h3 class="sectionedit12" id="hairy_print">&quot;Hairy&quot; print</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=c5bcb8&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F543d2a31e4b01a27d3c00773%2Ffile-EScLhyQzYu.jpg" class="medialeft" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_543d2a31e4b01a27d3c00773_file-esclhyqzyu.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_543d2a31e4b01a27d3c00773_file-esclhyqzyu.jpg" width="100" />
+</p>
+
+<p>
+This is a tricky problem without a clear solution at the moment. This problem should not be confused with<a href="http://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#stringing" class="urlextern" title="http://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide#stringing"  rel="nofollow">stringing</a> which is a different issue. This problem is similar to stringing in appearance but the strands of plastic are very very thin and they seem to be able to appear even if there are no travel moves crossing over voids.
+</p>
+
+<p>
+It seems to be fairly material dependent so consider trying a different roll of plastic and see if that helps.
+</p>
+
+<p>
+Also make sure that your nozzle is clean so that small amounts of plastic isn&#039;t being deposited randomly during the print.
+</p>
+
+<p>
+Thankfully the little hairs are quite easy to remove. Rubbing them off with your fingers work quite well. Another way, if you&#039;re a bit lazy, is to hit the print with the flame from a “jet” lighter very briefly. This will burn away the strands pretty cleanly. Don&#039;t use a regular lighter or a candle as it will likely leave ugly marks on it.
+</p>
+
+</div>
+
+<h3 class="sectionedit13" id="ringing">Ringing</h3>
+<div class="level3">
+
+<p>
+<img src="/lib/exe/fetch.php?w=100&amp;tok=e859af&amp;media=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F53970867e4b0c76107b1091a%2Fimages%2F53baa75fe4b08d4d93a1c20e%2Ffile-sDk3kVHFi4.jpg" class="medialeft" title="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53baa75fe4b08d4d93a1c20e_file-sdk3kvhfi4.jpg" alt="d33v4339jhl8k0.cloudfront.net_docs_assets_53970867e4b0c76107b1091a_images_53baa75fe4b08d4d93a1c20e_file-sdk3kvhfi4.jpg" width="100" />
+</p>
+
+<p>
+Ringing is what we call the small waves or shadows that usually appear around sharp corners on a print. It&#039;s often very apparent if you have text on your print as you will see what looks like shadows of the text. This happens when the print head makes a sudden direction change and the inertia of the head causes vibrations that show up in the print. To combat this there&#039;s a couple of things you can do. Simply slowing down your print speed will help lessen the effect. Decreasing the acceleration of the printer will make a big impact on the reduction of ringing without affecting print speed too heavily.
+</p>
+
+<p>
+There&#039;s also another defect that can look like ringing while it actually isn&#039;t. Something that can happen is that infill shows through to the outside layer. This can look similar to ringing. To get rid of this the solution is to print thicker outer walls to hide the infill. Try printing at least two outer shells which, with a standard nozzle, will equate to 0.8mm thick walls.
+</p>
+
+<p>
+Excessive temperature can also cause strange vertical lines in a print. Try lowering the temperature slightly and see if that helps.
+</p>
+
+<p>
+Excerpt from <a href="http://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide" class="urlextern" title="http://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide"  rel="nofollow">&quot;A visual Ultimaker troubleshooting guide&quot;</a> by <a href="http://3dverkstan.se/" class="urlextern" title="http://3dverkstan.se/"  rel="nofollow">3DVerkstan</a>
+</p>
+
+<p>
+For more details you can visit also <a href="http://reprap.org/wiki/Print_Troubleshooting_Pictorial_Guide" class="urlextern" title="http://reprap.org/wiki/Print_Troubleshooting_Pictorial_Guide"  rel="nofollow">this</a> page.
+</p>
+
+<p>
+Another good resource for a visual troubleshooting guide is <a href="https://www.simplify3d.com/support/print-quality-troubleshooting/" class="urlextern" title="https://www.simplify3d.com/support/print-quality-troubleshooting/"  rel="nofollow">this</a>.
+</p>
+
+</div>
+<div class="level3">
+
+</div>
+<div class="level3">
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>3d_troubleshooting.txt</bdi> · Last modified: 2016/05/05 14:36 by <bdi>jj</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=3d_troubleshooting&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=3d_troubleshooting&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=3d_troubleshooting&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=3d_troubleshooting&amp;1472401034" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

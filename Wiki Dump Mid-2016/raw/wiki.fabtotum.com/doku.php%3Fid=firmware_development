@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>firmware_development []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="firmware_development"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=firmware_development&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=firmware_development"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=firmware_development"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=firmware_development"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"firmware_development","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "firmware_development"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=firmware_development&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=firmware_development&amp;do=login&amp;sectok=137c90b316ea5c43d4d3b3828ba493fe"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="firmware_development" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=firmware_development&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=firmware_development&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=firmware_development&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=firmware_development"  class="breadcrumbs" title="firmware_development">firmware_development</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>firmware_development</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#firmware_development">Firmware development</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#downloading_fablin">1. Downloading FABlin</a></div></li>
+<li class="level2"><div class="li"><a href="#developing_fablinversion_control">2. Developing FABlin: Version Control</a></div></li>
+<li class="level2"><div class="li"><a href="#developing_fablinthe_ide">3. Developing FABlin: The IDE</a></div></li>
+<li class="level2"><div class="li"><a href="#flashing_the_firmware">3. Flashing the firmware</a></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="firmware_development">Firmware development</h1>
+<div class="level1">
+
+</div>
+
+<h2 class="sectionedit2" id="downloading_fablin">1. Downloading FABlin</h2>
+<div class="level2">
+
+<p>
+FABlin is available in Github, in: <a href="https://github.com/FABtotum/FABlin" class="urlextern" title="https://github.com/FABtotum/FABlin"  rel="nofollow">https://github.com/FABtotum/FABlin</a>
+</p>
+
+<p>
+If you have GitHub installed, you can get the source directly by cloning the source:
+</p>
+
+<p>
+<em>git clone <a href="https://github.com/FABtotum/FABlin.git//" class="urlextern" title="https://github.com/FABtotum/FABlin.git//"  rel="nofollow">https://github.com/FABtotum/FABlin.git//</a> </em>
+</p>
+
+<p>
+<em>This generates a directory with all the code of the master branch of the repository.  </em>
+</p>
+
+<p>
+<em>You can also download the source by going to the GitHub page of FABlin and using the “Download ZIP” option in the bottom right.  </em>
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="developing_fablinversion_control">2. Developing FABlin: Version Control</h2>
+<div class="level2">
+
+<p>
+<em>If you intend doing development of FABlin or provide bug fixes, then it is best that you create a GitHub account and use the “Fork” option in the FABlin GitHub page. This creates a copy of the repository under your username. You can develop on this copy using the flexibility that GitHub provides and when you have something to share, you can ask for a pull request of your branch.</em>
+</p>
+
+</div>
+
+<h2 class="sectionedit4" id="developing_fablinthe_ide">3. Developing FABlin: The IDE</h2>
+<div class="level2">
+
+<p>
+<em>A convenient way of developing and compiling the source is to install the Arduino IDE from <a href="http://www.arduino.cc/" class="urlextern" title="http://www.arduino.cc/"  rel="nofollow">http://www.arduino.cc/</a>. </em>
+</p>
+
+<p>
+<em>It is not the only one, but certainly the most convenient.(note: version 1.06 seems to work, but 1.6.x does not)</em>
+</p>
+
+<p>
+<em>Once you have the Arduino IDE installed, you can open the “.ino” file in FABlin to load the source code of the project. Then you can do your modifications and compile the code using the “checked” icon in the top left of the Arduino IDE window.  </em>
+</p>
+
+<p>
+<em>One thing to take into account when using the Arduino IDE is that compiling is detached from saving, you can compile a modified file without saving it. I personally do not like this behaviour, and for this reason I use an external editor (Kate, a linux UI editor), while I still use Arduino IDE for compiling.</em>
+</p>
+
+<p>
+<em>Before compiling, make sure you have selected the right target chip in the menu. The totumduino has an ATMEGA 1280. If you compile for another chip it won&#039;t work.  </em>
+</p>
+
+<p>
+<em>The Arduino IDE generates a file with the same name as the project and extension “.cpp.hex” in the temporary directory. In Linux is in /tmp/buildNNNNNNN/, in windows it is apparently in “Windows/Users/me/Appdata/Local/Temp”. </em>
+</p>
+
+<p>
+<em>The Arduino IDE generates one of this “build” folders for every execution, and does not always clean up afterwards, so always check the date and time of the generated firmware before uploading, or you may be uploading the wrong firmware (and old version).</em>
+</p>
+
+</div>
+
+<h2 class="sectionedit5" id="flashing_the_firmware">3. Flashing the firmware</h2>
+<div class="level2">
+
+<p>
+<em>The easiest way to flash a new firmware is to upload the firmware file to </em> /var/www/build/Marlin.cpp.hex<em>and use the built-in flasher. </em>
+</p>
+
+<p>
+<em>In Linux you can do this like this: </em>
+</p>
+
+<p>
+scp Marlin.cpp.hex root@fabtotum:/var/www/build
+</p>
+
+<p>
+<em>In Windows you should be able to use WinSCP to copy the file </em> Marlin.cpp.hex <em>to the directory</em> /var/www/build<em>/  </em>
+</p>
+
+<p>
+Make sure the file name is “<em>Marlin.cpp.hex</em>”<em>. Linux is case sensitive.  </em>
+</p>
+
+<p>
+<em>After having copied the firmware to the FABtotum, go to: <a href="http://fabtotum/recovery/flash.php" class="urlextern" title="http://fabtotum/recovery/flash.php"  rel="nofollow">http://fabtotum/recovery/flash.php</a> and click in flash local file. Wait until the web interface indicates to you that the firmware has been properly flashed (it beeps a couple of times in between). </em>
+</p>
+
+<p>
+<strong>Flashing Firmware from the raspberry</strong>
+</p>
+
+<p>
+Uploaded your firmware to /var/www/build/ and connect to your FAB with a ssh terminal (search putty for win o just open a terminal on linux/mac)
+</p>
+
+<p>
+ssh root@fabtotum
+</p>
+
+<p>
+pass: fabtotum
+</p>
+
+<p>
+cd /var/www/build
+</p>
+
+<p>
+/usr/bin/avrdude -D -q -V -p atmega1280 -C /etc/avrdude.conf -c arduino -b 57600 -P /dev/ttyAMA0 -U flash:w:Marlin.cpp.hex:i
+</p>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>firmware_development.txt</bdi> · Last modified: 2015/12/22 19:09 by <bdi>darkfibre</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=firmware_development&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=firmware_development&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=firmware_development&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=firmware_development&amp;1472384254" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

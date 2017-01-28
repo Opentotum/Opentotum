@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>specs []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="specs"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=specs&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=specs"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=specs"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=specs"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"specs","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "specs"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=specs&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=specs&amp;do=login&amp;sectok=78e0d1520e96fdc62f0aecac00938339"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="specs" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=specs&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=specs&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=specs&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=specs"  class="breadcrumbs" title="specs">specs</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>specs</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#specs">Specs</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#fabtotum_specs">Fabtotum specs:</a></div></li>
+<li class="level2"><div class="li"><a href="#additive_mode_3d_printing">Additive Mode (3D printing)</a></div></li>
+<li class="level2"><div class="li"><a href="#subtractive_mode_milling_engraving">Subtractive Mode (milling, engraving)</a></div></li>
+<li class="level2"><div class="li"><a href="#digital_acquisition">Digital Acquisition</a></div></li>
+<li class="level2"><div class="li"><a href="#safety">Safety</a></div></li>
+<li class="level2"><div class="li"><a href="#software_firmware">Software, Firmware</a></div></li>
+<li class="level2"><div class="li"><a href="#hardware">Hardware</a></div></li>
+<li class="level2"><div class="li"><a href="#package_content_rev_2_core">Package Content (Rev 2 &quot;Core&quot;)</a></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="specs">Specs</h1>
+<div class="level1">
+
+<p>
+<em><a href="/lib/exe/detail.php?id=specs&amp;media=black_copia.jpg" class="media" title="black_copia.jpg"><img src="/lib/exe/fetch.php?w=600&amp;h=551&amp;tok=c1bf5e&amp;media=black_copia.jpg" class="media" title="black_copia.jpg" alt="black_copia.jpg" width="600" height="551" /></a></em>
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="fabtotum_specs">Fabtotum specs:</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <strong>Classification:</strong>     Personal Fabricator</div>
+</li>
+<li class="level2"><div class="li"> <strong>Capabilities:</strong>     Hybrid Manufacturing, Digital Acquisition</div>
+</li>
+<li class="level2"><div class="li"> <strong>Movement: </strong>    4 axis (5th axis port available)</div>
+</li>
+<li class="level2"><div class="li"> <strong>I/O: </strong>    USB Host, WiFi B/G/N, Lan</div>
+</li>
+<li class="level2"><div class="li"> <strong>Control: </strong>    Stand-alone Printer (networked web server)</div>
+</li>
+<li class="level2"><div class="li"> <strong>Size:</strong>     366x366x366mm</div>
+</li>
+<li class="level2"><div class="li"> <strong>Weight</strong>: ~12kg</div>
+</li>
+<li class="level2"><div class="li"> <strong>Available Colors: </strong>    Red, Black, White (Matte Finish)</div>
+</li>
+<li class="level2"><div class="li"> <strong>Illumination:</strong>    Spot light, Ambient light</div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit3" id="additive_mode_3d_printing">Additive Mode (3D printing)</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <strong>Printing volume (additive):</strong>     214x236x242mm</div>
+</li>
+<li class="level2"><div class="li"> <strong>Z layer size: </strong>    50,100 micrometers</div>
+</li>
+<li class="level2"><div class="li"> <strong>Auto bed Leveling : </strong>    1-click fully automated, manual leveling</div>
+</li>
+<li class="level2"><div class="li"> <strong>Z layer increments : </strong>    0.47 micrometers</div>
+</li>
+<li class="level2"><div class="li"> <strong>Print to size-ratio:</strong>     ~25%</div>
+</li>
+<li class="level2"><div class="li"> <strong>Supported Filaments:</strong>     1.75mm PLA, ABS filaments</div>
+</li>
+<li class="level2"><div class="li"> <strong>Max Temperatures: </strong> Hybrid Head V1: 230°C, Printing Head V2: 250°C, Bed: 100°C</div>
+</li>
+<li class="level2"><div class="li"> <strong>Nozzle: </strong>    0.35 mm J-Head, 0.40 mm Printing Head V2</div>
+</li>
+<li class="level2"><div class="li"> <strong>Printing Speed: </strong>    up to 300 mm/s</div>
+</li>
+<li class="level2"><div class="li"> <strong>Speeds (rapids): </strong>    up to 500 mm/s</div>
+</li>
+<li class="level2"><div class="li"> <strong>Heating Speed:</strong>    1 Minute</div>
+</li>
+<li class="level2"><div class="li"> <strong>Cooling: </strong>    Fan/Turbine twin cooling system</div>
+</li>
+<li class="level2"><div class="li"> <strong>Heated Bed: </strong>    Glass Heated Bed (double-face platform)</div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit4" id="subtractive_mode_milling_engraving">Subtractive Mode (milling, engraving)</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <strong>Milling volume:</strong>      214x236x[milling bit height] mm</div>
+</li>
+<li class="level2"><div class="li"> <strong>Milling Motor:</strong>      200W Brushless motor, automatic RPM correction</div>
+</li>
+<li class="level2"><div class="li"> <strong>Fan cooling:</strong>      Twin fan cooling system</div>
+</li>
+<li class="level2"><div class="li"> <strong>Working Plane:</strong>      Structural aluminum plate with fixtures (double-face platform)</div>
+</li>
+<li class="level2"><div class="li"> <strong>4th axis:</strong>      4 axis chuck: 0.0017 deg/step resolution</div>
+</li>
+<li class="level2"><div class="li"> <strong>Illumination:</strong>      Working area: LED, ambient</div>
+</li>
+<li class="level2"><div class="li"> <strong>Dust Control:</strong>    Printable vacuum tube holder</div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit5" id="digital_acquisition">Digital Acquisition</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <strong>Modes:</strong>    Rotating laser scan, sweep laser scan, Z-Probe digitizer, photogrammetry</div>
+</li>
+<li class="level2"><div class="li"> <strong>Scan volume: </strong>   Up to 3D printing volume depending on object and used mode(s)</div>
+</li>
+<li class="level2"><div class="li"> <strong>Camera:</strong>    5Mp, 2592×1944 Raspberry camera</div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit6" id="safety">Safety</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <strong>Fabrication Area:</strong>   Enclosed</div>
+</li>
+<li class="level2"><div class="li"> <strong>Safety switches:</strong>   Front panel door, side panels doors</div>
+</li>
+<li class="level2"><div class="li"> <strong>Voltage control: </strong>  Automatic stepper consumption control</div>
+</li>
+<li class="level2"><div class="li"> <strong>Overvoltage protection:</strong>   120/240V Fuse</div>
+</li>
+<li class="level2"><div class="li"> <strong>Homing Endstops:</strong>   On all 3 Axis</div>
+</li>
+<li class="level2"><div class="li"> <strong>Safety Endstops:</strong>   On all 3 Axis</div>
+</li>
+<li class="level2"><div class="li"> <strong>Safety Config:</strong>   Costumizable from the FAB UI</div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit7" id="software_firmware">Software, Firmware</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <strong>License:</strong>    Open Source (CC BY-NC-SA 3.0)</div>
+</li>
+<li class="level2"><div class="li"> <strong>Interface:</strong>    FAB UI, open source web panel</div>
+</li>
+<li class="level2"><div class="li"> <strong>FAB UI Compatibility: </strong>   Desktop, Mobile (tablets, smartphones (Responsive web-interface)</div>
+</li>
+</ul>
+
+<p>
+<strong>Supported browsers:</strong>
+</p>
+
+<p>
+Latest Chrome, Firefox, Safari, Opera, IE11, IE10, IE9 (Desktop and mobile versions)
+</p>
+<ul>
+<li class="level1"><div class="li"> <strong>Mods &amp; Plugins:</strong>    Built in plug-in installer and updating tool</div>
+</li>
+<li class="level2"><div class="li"> <strong>Updates: </strong>   Automatic with internet connectivity (updates are not mandatory, but highly recommended)</div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit8" id="hardware">Hardware</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> <strong>Board: </strong>   FABtotum control board “Totumduino”</div>
+</li>
+<li class="level2"><div class="li"> <strong>Onboard Memory:</strong>    8GB SDHC (installed <abbr title="Operating System">OS</abbr> included)</div>
+</li>
+<li class="level2"><div class="li"> <strong>I/O: </strong>   USB Host, WiFi B/G/N, Lan</div>
+</li>
+<li class="level2"><div class="li"> <strong>Illumination:</strong>    Customizable RGB ambient lights</div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit9" id="package_content_rev_2_core">Package Content (Rev 2 &quot;Core&quot;)</h2>
+<div class="level2">
+<ul>
+<li class="level1"><div class="li"> FABtotum Personal Fabricator</div>
+</li>
+<li class="level2"><div class="li"> Ethernet Cable</div>
+</li>
+<li class="level2"><div class="li"> Power Cord (according to destination)</div>
+</li>
+<li class="level2"><div class="li"> Quick Setup sheet</div>
+</li>
+<li class="level2"><div class="li"> Sample filament</div>
+</li>
+</ul>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>specs.txt</bdi> · Last modified: 2016/08/01 15:12 by <bdi>fabtotum</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=specs&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=specs&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=specs&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=specs&amp;1472380346" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

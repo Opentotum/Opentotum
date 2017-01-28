@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>mantainance []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=mantainance&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=mantainance"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=mantainance"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"mantainance","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/plugins/fckg/fckeditor/fckeditor.js"></script>
+<script type="text/javascript" charset="utf-8" src="/lib/plugins/fckg/scripts/vki_kb.js"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "mantainance"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_edit tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=mantainance&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=mantainance&amp;do=login&amp;sectok=1fcc414135f998f6ab415cd3cdd9c80d"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="mantainance" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="">Show page</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=mantainance&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=mantainance&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=mantainance&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>mantainance</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    
+<p>
+This page is read only. You can view the source, but not change it. Ask your administrator if you think this is wrong.
+</p>
+
+
+<script type='text/javascript'>
+ //<![CDATA[
+
+if(window.dw_locktimer) {
+   var locktimer = dw_locktimer;
+} 
+var FCKRecovery = "";
+var oldonload = window.onload;
+var ourLockTimerINI = false;
+var oldBeforeunload;
+
+  var fckg_onload = function() {  fck = new FCKeditor("wiki__text", "100%", "600"); 
+                 fck.BasePath = "/lib/plugins/fckg/fckeditor/"; 
+                 fck.ToolbarSet = "Dokuwiki";  
+                 fck.ReplaceTextarea(); };  
+ 
+  jQuery(window).bind('load',{},fckg_onload);
+  
+   function fckgEditorTextChanged() {
+   window.textChanged = false;   
+   oldBeforeunload(); 
+   if(window.dwfckTextChanged) {        
+      return LANG.notsavedyet;
+   }  
+ }
+
+  function getCurrentWikiNS() {
+        var DWikiMediaManagerCommand_ns = '';
+        return DWikiMediaManagerCommand_ns;
+  }
+ 
+ var ourLockTimerRefreshID;
+ var ourLockTimerIsSet = true;
+ var ourLockTimerWarningtimerID;
+ var ourFCKEditorNode = null;
+ var ourLockTimerIntervalID;
+ var dwfckTextChanged = false;
+
+   /**
+    *    event handler
+    *    handles both mousepresses and keystrokes from FCKeditor window
+    *    assigned in fckeditor.html
+  */
+ function handlekeypress (e) {  
+    //alert(e);
+   if(ourLockTimerIsSet) {
+         lockTimerRefresh();
+   }
+   window.dwfckTextChanged = true;
+ }
+
+ function unsetDokuWikiLockTimer() {
+     
+    if(window.locktimer && !ourLockTimerINI) {
+        locktimer.old_reset = locktimer.reset;
+        locktimer.old_warning = locktimer.warning;        
+        ourLockTimerINI=true;
+    }
+    else {
+        window.setTimeout("unsetDokuWikiLockTimer()", 600);
+
+    }
+  
+  locktimer.reset = function(){
+        locktimer.clear();  // alert(locktimer.timeout);
+        window.clearTimeout(ourLockTimerWarningtimerID);
+        ourLockTimerWarningtimerID =  window.setTimeout(function () { locktimer.warning(); }, locktimer.timeout);
+   };
+
+   locktimer.warning = function(){    
+        window.clearTimeout(ourLockTimerWarningtimerID);
+
+        if(ourLockTimerIsSet) {
+            if(locktimer.msg.match(/Preview/i)) {
+                locktimer.msg = locktimer.msg.replace(/Preview/i, "Back-up");      
+             }
+            alert(locktimer.msg);
+        }
+        else {
+            alert("Your lock for editing this page is about to expire in a minute.\nYou can reset the timer by clicking the Back-up button.");
+        }
+     };
+     
+
+    locktimer.ourLockTimerReset = locktimer.reset;
+    locktimer.our_lasttime = new Date();
+    lockTimerRefresh();
+
+ }
+
+ function lockTimerRefresh(bak) {
+        var now = new Date();
+        if(!ourLockTimerINI)  unsetDokuWikiLockTimer();
+
+        if((now.getTime() - locktimer.our_lasttime.getTime() > 45*1000) || bak){            
+           var dwform = GetE('dw__editform');
+            window.clearTimeout(ourLockTimerWarningtimerID);
+            var params = 'call=lock&id='+locktimer.pageid;
+            if(ourFCKEditorNode) {  
+                dwform.elements.wikitext.value = ourFCKEditorNode.innerHTML;
+                params += '&prefix='+encodeURIComponent(dwform.elements.prefix.value);
+                params += '&wikitext='+encodeURIComponent(dwform.elements.wikitext.value);
+                params += '&suffix='+encodeURIComponent(dwform.elements.suffix.value);
+                params += '&date='+encodeURIComponent(dwform.elements.date.value);
+            }
+            locktimer.our_lasttime = now;  
+            jQuery.post(
+                DOKU_BASE + 'lib/exe/ajax.php',
+                params,
+                function (data) {
+                    data = data.replace(/auto/,"")  + ' by fckgLite';
+                    locktimer.response = data; 
+                    locktimer.refreshed(data);
+                },
+                'html'
+            );
+       }
+        
+ }
+
+
+ /**
+   Legacy function has no current use
+ */
+ function getRecoveredText() {
+    return FCKRecovery;
+ }
+
+ function resetDokuWikiLockTimer(delete_checkbox) {
+
+        var dom_checkbox = document.getElementById('fckg_timer');
+        var dom_label = document.getElementById('fckg_timer_label');
+        locktimer.clear();     
+        if(ourLockTimerIsSet) {
+
+             ourLockTimerIsSet = false;             
+             locktimer.reset = locktimer.old_reset; 
+             locktimer.refresh(); 
+             return;
+        }
+      
+     if(delete_checkbox) {
+       dom_checkbox.style.display = 'none';
+       dom_label.style.display = 'none';
+     }
+
+       ourLockTimerIsSet = true;
+       locktimer.reset = locktimer.ourLockTimerReset;     
+       lockTimerRefresh();
+          
+ }
+
+
+function renewLock(bak) {
+  if(ourLockTimerIsSet) {
+         lockTimerRefresh(true);
+   }
+   else { 
+    locktimer.refresh();
+   }
+   locktimer.reset();
+
+
+    if(bak) {
+        var id = "mantainance"; 
+        parse_wikitext('bakup');
+
+        var dwform = GetE('dw__editform');
+        if(dwform.elements.fck_wikitext.value == '__false__' ) return;
+        GetE('saved_wiki_html').innerHTML = ourFCKEditorNode.innerHTML; 
+        if((0) == 0 ) {           
+           return; 
+        }
+       
+        var params = "rsave_id=/var/www/wiki/data/meta/mantainance.fckg";
+        params += '&wikitext='+encodeURIComponent(dwform.elements.fck_wikitext.value);      
+        jQuery.post(
+                DOKU_BASE + 'lib/plugins/fckg/scripts/refresh_save.php',
+                params,
+                function (data) {                    
+                    if(data == 'done') {
+                        show_backup_msg("meta/mantainance.fckg");  
+                    }
+                    else {
+                      alert("error saving: " + id);
+                    }
+                },
+                'html'
+            );
+    }
+
+}
+
+
+function revert_to_prev() {
+  if(!(GetE('saved_wiki_html').innerHTML.length)) {
+            if(!confirm(backup_empty)) {
+                           return;
+            }
+  }
+    ourFCKEditorNode.innerHTML = GetE('saved_wiki_html').innerHTML;
+}
+
+
+function draft_delete() {
+
+        var debug = false;
+        var params = "draft_id=/var/www/wiki/data/cache/6/6632f613944722fecd64a836d6fd2dc5.draft";
+        jQuery.ajax({
+           url: DOKU_BASE + 'lib/plugins/fckg/scripts/draft_delete.php',
+           async: false,
+           data: params,    
+           type: 'POST',
+           dataType: 'html',         
+           success: function(data){                 
+               if(debug) {            
+                  alert(data);
+               }
+              
+    }
+    });
+
+}
+
+function disableDokuWikiLockTimer() {
+  resetDokuWikiLockTimer(false);
+  if(ourLockTimerIntervalID) {
+     window.clearInterval(ourLockTimerIntervalID);
+  }
+  if(ourLockTimerIsSet) { 
+    ourLockTimerIntervalID = window.setInterval(function () { locktimer.refresh(); }, 30000);   
+  }
+}
+
+function dwfckKeypressInstallHandler() {
+  if(window.addEventListener){    
+      oDokuWiki_FCKEditorInstance.EditorDocument.addEventListener('keyup', handlekeypress , false) ;
+  }
+  else {   
+     oDokuWiki_FCKEditorInstance.EditorDocument.attachEvent('onkeyup', handlekeypress ) ;   
+  }
+}
+
+var DWFCK_EditorWinObj;
+function FCKEditorWindowObj(w) { 
+  DWFCK_EditorWinObj = w;
+}
+
+function fckg_isRTL() { 
+var direction = "nocheck";
+
+return direction == 'rtl';
+  
+}
+
+
+var oDokuWiki_FCKEditorInstance;
+function FCKeditor_OnComplete( editorInstance )
+{
+
+  oDokuWiki_FCKEditorInstance = editorInstance;
+
+  var f = document.getElementById('wiki__text');
+  oDokuWiki_FCKEditorInstance.VKI_attach = function() {
+     VKI_attach(f, oDokuWiki_FCKEditorInstance.get_FCK(), 'French');
+  }
+  oDokuWiki_FCKEditorInstance.get_FCK().fckLImmutables = fckLImmutables;
+  oDokuWiki_FCKEditorInstance.dwiki_user = "visitor"; 
+  oDokuWiki_FCKEditorInstance.dwiki_client = "";  
+  oDokuWiki_FCKEditorInstance.dwiki_usergroups = "";  
+  oDokuWiki_FCKEditorInstance.dwiki_doku_base = "/";  
+  oDokuWiki_FCKEditorInstance.dwiki_create_folder = "n"; 
+  oDokuWiki_FCKEditorInstance.dwiki_fnencode = "url"; 
+  oDokuWiki_FCKEditorInstance.dwiki_version = 1289084400; 
+  oDokuWiki_FCKEditorInstance.dwiki_anteater = 1289084400; 
+
+  document.getElementById('wiki__text___Frame').style.height = "450px";
+  document.getElementById('size__ctl').innerHTML = document.getElementById('fck_size__ctl').innerHTML;
+  
+  if(window.addEventListener){  
+    editorInstance.EditorDocument.addEventListener('keydown', CTRL_Key_Formats, false) ;
+    if(document.documentMode && document.documentMode == 9) {
+        editorInstance.EditorDocument.addEventListener('click', fckgMousePos, false) ;
+    }
+  }
+  else {
+   editorInstance.EditorDocument.attachEvent('onkeydown', CTRL_Key_Formats) ;      
+   }
+  dwfckKeypressInstallHandler();
+  
+  var index = navigator.userAgent.indexOf('Safari'); 
+  if(index == -1  || (navigator.userAgent.indexOf('Chrome'))) {
+    oldBeforeunload = window.onbeforeunload;
+    window.onbeforeunload = fckgEditorTextChanged;
+  }
+ 
+  var FCK = oDokuWiki_FCKEditorInstance.get_FCK();
+  if(FCK.EditorDocument && FCK.EditorDocument.body  && !ourFCKEditorNode) {
+     ourFCKEditorNode = FCK.EditorDocument.body;     
+  }
+   var FCKConfig = editorInstance.get_FCKConfig();
+   FCKConfig.fckgUserName = "";
+   FCKConfig.fckgUserMail="";
+  // alert(FCKConfig.name);
+}
+
+function fckgMousePos(e) {
+      if(!e) e=event;
+      
+     if(document.documentMode && document.documentMode == 9) {    
+       oDokuWiki_FCKEditorInstance.get_FCK().mouse_x = e.clientX;
+       oDokuWiki_FCKEditorInstance.get_FCK().mouse_y = e.clientY;       
+       oDokuWiki_FCKEditorInstance.get_FCK().screen_x = e.screenX;
+       oDokuWiki_FCKEditorInstance.get_FCK().screen_y = e.screenY;       
+       oDokuWiki_FCKEditorInstance.get_FCK().target = e.target;
+     }
+}
+function CTRL_Key_Formats(parm) {
+
+     if(!parm.ctrlKey) return;
+     if(parm.altKey) return;  // for alt GR key, where ctrl might be set to true
+		
+    /* h1 - h5 */
+     if(parm.keyCode >=49 && parm.keyCode <=53) {
+         var n = parm.keyCode - 48;
+         oDokuWiki_FCKEditorInstance.get_FCK().Styles.ApplyStyle('_FCK_h' + n);
+         return;  
+     }
+     /*  code/monospace -> 77 = 'm' */
+     if(parm.keyCode == 77) {
+        oDokuWiki_FCKEditorInstance.get_FCK().Styles.ApplyStyle('_FCK_code');
+		return;
+     }
+
+    /* CTRL-0 = Normal, i.e. <p> */
+    if(parm.keyCode == 48) {
+        oDokuWiki_FCKEditorInstance.get_FCK().Styles.ApplyStyle('_FCK_p');
+    }
+
+  }
+
+ 
+  var DWikifnEncode = "url";
+
+/* Make sure that show buttons in top and/or bottom clear the fckl file */  
+ function get_showButtons() {	
+	var inputs = document.getElementsByTagName('input');
+    
+     for(var i=0; i<inputs.length; i++) {	    
+        if(inputs[i].type && inputs[i].type.match(/submit/i)) {		           		    
+			if(inputs[i].value.match(/Show/i) || (inputs[i].form &&  inputs[i].form.className.match(/btn_show/) ) )
+    			inputs[i].onmouseup = draft_delete;
+        }
+     }
+  }
+ 
+ /* make sure the entire page has been loaded */
+ setTimeout("get_showButtons()", 3000);
+ //]]>
+ 
+</script>
+ 
+   <form id="dw__editform" method="post" action="/doku.php"  accept-charset="utf-8">
+    <div class="no">
+      <input type="hidden" name="id"   value="mantainance" />
+      <input type="hidden" name="rev"  value="0" />
+      <input type="hidden" name="date" value="1463143187" />
+      <input type="hidden" name="prefix" value="" />
+      <input type="hidden" name="suffix" value="" />
+      <input type="hidden" id="fckg_mode_type"  name="mode" value="" />
+      <input type="hidden" id="fck_preview_mode"  name="fck_preview_mode" value="nil" />
+      <input type="hidden" id="fck_wikitext"    name="fck_wikitext" value="__false__" />     
+      <div class="no"><input type="hidden" name="sectok" value="1fcc414135f998f6ab415cd3cdd9c80d" /></div>
+    </div>
+
+    <textarea name="wikitext" id="wiki__text" readonly="readonly" cols="80" rows="10" class="edit" tabindex="1">
+
+<h1>Maintenance</h1>
+<div class="level1">
+
+</div>
+
+<h2>Head installing</h2>
+<div class="level2">
+
+<p>
+Since the introduction of the new <a href="/doku.php?id=http:wiki.fabtotum.com_doku.php&amp;id=headv2" class="wikilink2" title="http:wiki.fabtotum.com_doku.php" rel="nofollow">V2 Head</a>, from the FABUI 0.9495 is necessary to install the head on the FABUI to make the FABtotum recognize wich head is installed.
+</p>
+
+</div>
+
+<h2></h2>
+<div class="level2">
+
+<p>
+In the &quot; <b>FABUI</b>&quot;, go to &quot; <b>Maintenance</b>&quot;, and choose &quot;<b>Head</b>&quot; for start the guided procedure.
+</p>
+
+</div>
+
+<h2></h2>
+<div class="level2">
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=mantainance.png" class="media" title="mantainance.png"><img src="/lib/exe/fetch.php?w=221&amp;h=249&amp;tok=e8654e&amp;media=mantainance.png" class="media" alt="" width="221" height="249" /></a>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=mantainance_heads.png" class="media" title="mantainance_heads.png"><img src="/lib/exe/fetch.php?w=800&amp;h=331&amp;tok=45dfe9&amp;media=mantainance_heads.png" class="media" alt="" width="800" height="331" /></a>
+</p>
+
+<p>
+Choose the head you installed on your FABtotum choosing between:
+</p>
+<ul>
+<li class="level1"> Hybrid Head</li>
+<li class="level2"> Printing head V2</li>
+<li class="level2"> Milling head V2</li>
+</ul>
+
+<p>
+<b><em> Warning:</em>      </b><em> selecting a wrong head you may damage both head and FABtotum.</em>
+</p>
+
+</div>
+
+<h2>Spool: loading and unloading</h2>
+<div class="level2">
+
+<p>
+This is the guided procedure for load and unload the 3D printing filament from your FABtotum. You will need to remove the filament also every time you are launching a <a href="/doku.php?id=rotational_scanning" class="wikilink1" title="rotational_scanning">rotational scan</a>,
+</p>
+
+</div>
+
+<h3>Loading</h3>
+<div class="level3">
+
+<p>
+in the &quot;<b>FABUI</b>&quot;, go to &quot;<b>Maintenance</b>&quot;, &quot;<b>Spool</b>&quot;, &quot;<b>Load spool</b>&quot; for start the guided procedure.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=mantainance.png" class="media" title="mantainance.png"><img src="/lib/exe/fetch.php?w=221&amp;h=249&amp;tok=e8654e&amp;media=mantainance.png" class="media" alt="" width="221" height="249" /></a>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=load_spool.png" class="media" title="load_spool.png"><img src="/lib/exe/fetch.php?w=605&amp;h=250&amp;tok=0d8962&amp;media=load_spool.png" class="media" alt="" width="605" height="250" /></a>
+</p>
+<ol>
+<li class="level1"> Open the right compartment of your FABtotum</li>
+<li class="level2"> Cut the filament, making a sharpened tip</li>
+<li class="level2"> Insert the filament in the PTFE pipe until you reach the feeder (it becomes hard)</li>
+<li class="level2"> Wait until some plastic is coming out from the nozzle.</li>
+</ol>
+
+</div>
+
+<h3>Unloading</h3>
+<div class="level3">
+
+<p>
+In the &quot; <b>FABUI</b>&quot;, go to &quot; <b>Maintenance</b>&quot;, &quot; <b>Spool</b>&quot;, &quot; <b>Unload spool</b>&quot; for start the guided procedure.
+</p>
+
+<p>
+<a href="http://wiki.fabtotum.com/lib/exe/detail.php?id=spool&amp;media=load_spool.png" class="media" title="http://wiki.fabtotum.com/lib/exe/detail.php?id=spool&amp;media=load_spool.png"  rel="nofollow"><img src="/lib/exe/fetch.php?w=605&amp;h=250&amp;tok=0d8962&amp;media=load_spool.png" class="media" alt="" width="605" height="250" /></a>
+</p>
+<ol>
+<li class="level1"> Wait for the nozzle reach the melting temperature</li>
+<li class="level2"> When you have reached the temperature, remove the bowden by pushing on the pushfit and pulling out the bowden    <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=removing_bowden.jpg" class="media" title="removing_bowden.jpg"><img src="/lib/exe/fetch.php?w=454&amp;h=605&amp;tok=1f9a36&amp;media=removing_bowden.jpg" class="mediacenter" title="removing_bowden.jpg" alt="removing_bowden.jpg" width="454" height="605" /></a></li>
+<li class="level2"> Cut the exceeding molten filament (if you don&#039;t it can get stuck in the bowden)</li>
+<li class="level2"> Open the right compartment</li>
+<li class="level2"> Press &quot;Start&quot; to unload the filament</li>
+</ol>
+
+</div>
+
+<h2>Bed calibration</h2>
+<div class="level2">
+
+<p>
+It&#039;s very important to have a planar printing bed for make the first printing layer <a href="/doku.php?id=stick" class="wikilink1" title="stick">stick</a> perfectly.      <br/>
+
+With your FABtotum you can easily calibrate it using the guided procedure.
+</p>
+<ol>
+<li class="level1"> In the &quot;<b>FABUI</b>&quot; go to &quot;<b>Maintenance</b>&quot; select &quot;<b>Bed calibration</b>&quot;.     <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=mantainance.png" class="media" title="mantainance.png"><img src="/lib/exe/fetch.php?w=221&amp;h=249&amp;tok=e8654e&amp;media=mantainance.png" class="media" alt="" width="221" height="249" /></a></li>
+<li class="level2"> You will see the bed calibration wizard. Press Start for start the process.      <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=calibration_wizard.png" class="media" title="calibration_wizard.png"><img src="/lib/exe/fetch.php?w=695&amp;h=253&amp;tok=5a4941&amp;media=calibration_wizard.png" class="media" alt="" width="695" height="253" /></a></li>
+<li class="level2"> Wait for your printer starts to make the measure of the flatness of the bed in 4 different points. After few minutes you will see a screen like this:     <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=calibration_result_bad.png" class="media" title="calibration_result_bad.png"><img src="/lib/exe/fetch.php?w=701&amp;h=340&amp;tok=dae7cf&amp;media=calibration_result_bad.png" class="media" alt="" width="701" height="340" /></a></li>
+<li class="level2"> By working with the supplied allen key, rotate the screws that sustain the bed as the program tells you.     <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=regulating_bed.jpg" class="media" title="regulating_bed.jpg"><img src="/lib/exe/fetch.php?w=408&amp;h=544&amp;tok=ca6d28&amp;media=regulating_bed.jpg" class="media" title="regulating_bed.jpg" alt="regulating_bed.jpg" width="408" height="544" /></a></li>
+<li class="level2"> Repeat the measure, until you will see a screen like this:<a href="/lib/exe/detail.php?id=mantainance&amp;media=calibration_result_well.png" class="media" title="calibration_result_well.png"><img src="/lib/exe/fetch.php?w=701&amp;h=391&amp;tok=883e18&amp;media=calibration_result_well.png" class="media" alt="" width="701" height="391" /></a></li>
+<li class="level2"> Don&#039;t worry if the wizard says you have to turn for few degrees, the important is that every screw is green (Consider that every complete turn, you will raise or lower only for 0.5mm).</li>
+</ol>
+
+<p>
+Congratulations! You just calibrated well the bed of your FABtotum printer.
+</p>
+
+</div>
+
+<h3>Printable addon for bed calibration</h3>
+<div class="level3">
+
+<p>
+You can download and print a very useful tool to know exaclty how many degrees you rotated the screws.
+</p>
+
+<p>
+Download link: <a href="http://www.thingiverse.com/thing:1359579" class="urlextern" title="http://www.thingiverse.com/thing:1359579"  rel="nofollow">Thingiverse</a>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=bed_leveling_tool.jpg" class="media" title="bed_leveling_tool.jpg"><img src="/lib/exe/fetch.php?w=400&amp;h=301&amp;tok=684f52&amp;media=bed_leveling_tool.jpg" class="media" title="bed_leveling_tool.jpg" alt="bed_leveling_tool.jpg" width="400" height="301" /></a>
+</p>
+
+</div>
+
+<h2>Probe calibration</h2>
+<div class="level2">
+<ol>
+<li class="level1"> In the &quot;<b>FABUI</b>&quot; go to &quot;<b>maintenance</b>&quot; menu and select &quot;<b>Probe calibration</b>&quot;    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=mantainance.png" class="media" title="mantainance.png"><img src="/lib/exe/fetch.php?w=221&amp;h=249&amp;tok=e8654e&amp;media=mantainance.png" class="media" alt="" width="221" height="249" /></a></li>
+<li class="level2"> Now you can choose the assisted calibration or fine calibration.</li>
+<li class="level2"> Choosing the &quot;Assisted calibration&quot;, will start the assisted calibration.<a href="/lib/exe/detail.php?id=mantainance&amp;media=probe_main_menu.png" class="media" title="probe_main_menu.png"><img src="/lib/exe/fetch.php?w=706&amp;h=231&amp;tok=0ec6b3&amp;media=probe_main_menu.png" class="media" alt="" width="706" height="231" /></a></li>
+<li class="level2"> Wait until the nozzle get hot (when i&#039;ts hot it&#039;s longer due to thermal expansion).</li>
+<li class="level2"> Put a piece of copy paper (80 g/m2). Wait for the probe exit from his housing.</li>
+<li class="level2"> Move the paper adjusting the heigh by pressing &quot;Z+&quot; or &quot;Z-&quot; until it barely rubs against the nozzle, then press &quot;Calibrate&quot;      <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=probe_calibration_paper.jpg" class="media" title="probe_calibration_paper.jpg"><img src="/lib/exe/fetch.php?w=404&amp;h=303&amp;tok=7c03e9&amp;media=probe_calibration_paper.jpg" class="media" title="probe_calibration_paper.jpg" alt="probe_calibration_paper.jpg" width="404" height="303" /></a></li>
+</ol>
+
+</div>
+
+<h2>First Setup</h2>
+<div class="level2">
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=mantainance.png" class="media" title="mantainance.png"><img src="/lib/exe/fetch.php?w=221&amp;h=249&amp;tok=e8654e&amp;media=mantainance.png" class="media" alt="" width="221" height="249" /></a>
+</p>
+
+<p>
+The first setup wizard is used for calibrate the FABtotum for the first use (in the factory every unit comes out calibrated, during shipping can happend the calibrations are lost).
+</p>
+
+<p>
+It contains the procedures for
+</p>
+<ul>
+<li class="level1"> <a href="/doku.php?id=http:wiki.fabtotum.com_doku.php_id_mantainance&amp;id=mantainance#bed_calibration#probe_calibration" class="wikilink2" title="http:wiki.fabtotum.com_doku.php_id_mantainance" rel="nofollow">Probe calibration</a></li>
+<li class="level2"> <a href="/doku.php?id=http:wiki.fabtotum.com_doku.php&amp;id=mantainance#bed_calibration" class="wikilink2" title="http:wiki.fabtotum.com_doku.php" rel="nofollow">Bed calibration</a></li>
+<li class="level2"> Engaging feeder procedure (Only for the old versions, we suggest to follow the <a href="/doku.php?id=http:wiki.fabtotum.com_doku.php&amp;id=feeder_update" class="wikilink2" title="http:wiki.fabtotum.com_doku.php" rel="nofollow">tutorial and update it</a> to the new version).</li>
+</ul>
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=first_setup.png" class="media" title="first_setup.png"><img src="/lib/exe/fetch.php?w=1000&amp;h=164&amp;tok=996a2b&amp;media=first_setup.png" class="media" alt="" width="1000" height="164" /></a>
+</p>
+
+</div>
+
+<h2>System info</h2>
+<div class="level2">
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=mantainance.png" class="media" title="mantainance.png"><img src="/lib/exe/fetch.php?w=221&amp;h=249&amp;tok=e8654e&amp;media=mantainance.png" class="media" alt="" width="221" height="249" /></a>
+</p>
+
+<p>
+This section gives all the details about the FABtotum, like FABUI version, Firmware version, Installed head, etc.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=system_info.png" class="media" title="system_info.png"><img src="/lib/exe/fetch.php?w=900&amp;h=454&amp;tok=12a1e1&amp;media=system_info.png" class="media" alt="" width="900" height="454" /></a>
+</p>
+
+</div>
+
+<h2></h2>
+<div class="level2">
+
+</div>
+
+<h2>Cleaning the nozzle</h2>
+<div class="level2">
+<ol>
+<li class="level1"> From &quot;<b>jog</b>&quot; section in FABUI heat the nozzle to the melting material temperature (195°C for PLA, 225°C for ABS, etc).</li>
+<li class="level2"> Set feed rate for extrusion at 150 mm/min and extrude 10 mm of filament.</li>
+<li class="level2"> Continue extruding until the material is clean and flows good.</li>
+<li class="level2"> If you see sume burned material like ash, try this method</li>
+</ol>
+
+</div>
+
+<h3>Atomic method</h3>
+<div class="level3">
+
+<p>
+Atomic method is a good procedure for remove dust or burnt debris clogging the nozzle: it exploit the propriety of the thermoplastic who get sticky and hold the debris when they reach the glass transition temperature.
+</p>
+<ol>
+<li class="level1"> From &quot;jog&quot; in FABUI heat the nozzle to the melting material temperature (195 for PLA 225 for ABS etc).    <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=heating.png" class="media" title="heating.png"><img src="/lib/exe/fetch.php?w=510&amp;h=289&amp;tok=10402c&amp;media=heating.png" class="media" alt="" width="510" height="289" /></a></li>
+<li class="level2"> Pull out the bowden from the head by pressing the pushfit, pull out the filament<a href="/lib/exe/detail.php?id=mantainance&amp;media=removing_bowden.jpg" class="media" title="removing_bowden.jpg"><img src="/lib/exe/fetch.php?w=380&amp;h=506&amp;tok=15c6ab&amp;media=removing_bowden.jpg" class="media" title="removing_bowden.jpg" alt="removing_bowden.jpg" width="380" height="506" /></a></li>
+<li class="level2"> Take a 20 cm piece of filament and push it inside the head (it could be difficult to center the hole without bowden)    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=extruding_hand.jpg" class="media" title="extruding_hand.jpg"><img src="/lib/exe/fetch.php?w=380&amp;h=506&amp;tok=208a93&amp;media=extruding_hand.jpg" class="media" title="extruding_hand.jpg" alt="extruding_hand.jpg" width="380" height="506" /></a></li>
+<li class="level2"> Try to extrude a bit of material and then leave the filament there    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=cleaning.jpg" class="media" title="cleaning.jpg"><img src="/lib/exe/fetch.php?w=380&amp;h=506&amp;tok=7fc1de&amp;media=cleaning.jpg" class="media" title="cleaning.jpg" alt="cleaning.jpg" width="380" height="506" /></a></li>
+<li class="level2"> Low down the temperature to the material glass transition temperature  (60-65°C for PLA and 110-120° for ABS).<a href="/lib/exe/detail.php?id=mantainance&amp;media=cooling.png" class="media" title="cooling.png"><img src="/lib/exe/fetch.php?w=633&amp;h=336&amp;tok=7c601d&amp;media=cooling.png" class="media" alt="" width="633" height="336" /></a></li>
+<li class="level2"> Wait for the temperature low down and pull out the material very slowly (be careful not break filament inside the extruder), if you can&#039;t pull out the material try to increase a little the temperature.    <br/>
+When the material comes out you could see some burnt material on the tip    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=burnt.jpg" class="media" title="burnt.jpg"><img src="/lib/exe/fetch.php?w=380&amp;h=506&amp;tok=751b96&amp;media=burnt.jpg" class="media" title="burnt.jpg" alt="burnt.jpg" width="380" height="506" /></a></li>
+<li class="level2"> Repeat the whole method until you can see clean filament, if you are lucky you will see the tip with the plastic that was in the hole of the nozzle, like this:    <br/>
+ <br/>
+<a href="/lib/exe/detail.php?id=mantainance&amp;media=cleaned_nozzle.jpg" class="media" title="cleaned_nozzle.jpg"><img src="/lib/exe/fetch.php?w=567&amp;h=500&amp;tok=dc44c3&amp;media=cleaned_nozzle.jpg" class="media" title="cleaned_nozzle.jpg" alt="cleaned_nozzle.jpg" width="567" height="500" /></a></li>
+<li class="level2"> For further info check those websites (those links refers the Ultimaker 3D printer, which have a higher temperature reading of 20°C)    <br/>
+ <br/>
+ <br/>
+<a href="https://ultimaker.com/en/support/view/149-atomic-method" class="urlextern" title="https://ultimaker.com/en/support/view/149-atomic-method"  rel="nofollow">ultimaker.com/en/support/view/149-atomic-method</a>  <br/>
+ <a href="http://support.3dverkstan.se/article/10-the" class="urlextern" title="http://support.3dverkstan.se/article/10-the"  rel="nofollow">support.3dverkstan.se/article/10-the</a></li>
+</ol>
+
+</div>
+
+<h2>Cleaning the feeder</h2>
+<div class="level2">
+
+<p>
+Please see our <a href="/doku.php?id=feeder" class="wikilink1" title="feeder">feeder page</a>.
+</p>
+
+</div>
+</textarea>
+    
+<script type='text/javascript'>
+//<![CDATA[ 
+var useDW_Editor =0;
+ //]]> </script>
+    <script type="text/javascript">
+    //<![CDATA[ 
+    
+    function setDWEditCookie(which, e) { 
+       var cname = "";       
+       var dom = document.getElementById('fckg_mode_type');          
+       if(which == 1) {
+           dwedit_draft_delete("");
+             if(useDW_Editor) {
+                document.cookie = 'FCKG_USE=other;expires=';             
+              }  
+           else {
+                document.cookie='FCKG_USE=other;expires=Thu,01-Jan-70 00:00:01 GMT;'
+           }
+           if(e && e.form) {
+                    if(e.form['mode']) {
+                       e.form['mode'].value = 'fck';
+                    }
+                    else {
+                       e.form['mode'] = new Object;
+                       e.form['mode'].value = 'fck';  
+                    }
+           }
+           else dom.value = 'fck';  
+       }
+        else {            
+            document.cookie = 'FCKG_USE=_false_;expires=';                         
+            dom.value = 'dwiki';        
+
+        }
+         e.form.submit();
+    }
+  
+ 
+    //]]> 
+
+    </script>
+    <div id="wiki__editbar">
+      <div id="size__ctl"></div>
+      <div id = "fck_size__ctl" style="display: none">
+       
+       <img src = "/lib/images/smaller.gif"
+                    title="edit window smaller"
+                    onclick="dwfck_size_ctl('smaller');"   
+                    />
+       <img src = "/lib/images/larger.gif"
+                    title="edit window larger"
+                    onclick="dwfck_size_ctl('larger');"   
+           />
+      </div>
+      
+        </div>
+  </form>
+
+  <!-- draft messages from DW -->
+  <div id="draft__status"></div>
+  
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>mantainance.txt</bdi> · Last modified: 2016/05/13 14:39 by <bdi>fabtotum</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=mantainance&amp;do="  class="action show" accesskey="v" rel="nofollow" title="Show page [V]"><span>Show page</span></a></li><li><a href="/doku.php?id=mantainance&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=mantainance&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=mantainance&amp;1472383810" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>

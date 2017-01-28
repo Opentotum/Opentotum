@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://wiki.fabtotum.com/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://wiki.fabtotum.com/feed.php">
+        <title></title>
+        <description></description>
+        <link>http://wiki.fabtotum.com/</link>
+        <image rdf:resource="http://wiki.fabtotum.com/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2016-05-08T19:29:18+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=2d_milling_workflow&amp;rev=1436265885&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=3d_milling_workflow&amp;rev=1425918376&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=3d_scan_software&amp;rev=1458810079&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=3d_softwares&amp;rev=1458734863&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=3d_troubleshooting&amp;rev=1462451762&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=4axis_milling_workflow&amp;rev=1436729578&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=a_e-axis&amp;rev=1436357923&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=assembly_camera&amp;rev=1445605414&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=bed_troubleshooting&amp;rev=1436450258&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=bed_v2_setup&amp;rev=1461681032&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=bedscan&amp;rev=1462546857&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=belt_tightening&amp;rev=1460549653&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=calibration_and_setup&amp;rev=1445501832&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=cam_softwares&amp;rev=1450454578&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=cnc_post_processors&amp;rev=1442955825&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=community-models&amp;rev=1451316563&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=craftware&amp;rev=1452526545&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=cura&amp;rev=1462357394&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=electrical_continuity_probe&amp;rev=1430851724&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=fabui&amp;rev=1435914570&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=fabuiversions&amp;rev=1462452874&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=feeder&amp;rev=1445875434&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=feeder_update&amp;rev=1454401890&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=filament&amp;rev=1445848259&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=file_managing&amp;rev=1445501906&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=finishing&amp;rev=1436432315&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=firmware_development&amp;rev=1450807769&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=flex_cable&amp;rev=1445867487&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=formatting&amp;rev=1418577709&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=fusion_360&amp;rev=1437066748&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=gallery&amp;rev=1446837263&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=gallery_template&amp;rev=1447775450&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=h-bot_x_and_y_axis&amp;rev=1435914276&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=head_assembly&amp;rev=1436264969&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=head_troubleshooting&amp;rev=1454602698&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=headv2&amp;rev=1458656463&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=heated_plate&amp;rev=1462463709&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=hello_world&amp;rev=1437298634&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=hello_world_3d&amp;rev=1453993659&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=hello_world_cnc&amp;rev=1457533382&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=hello_world_scan&amp;rev=1445610724&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=how_it_started&amp;rev=1419448098&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=joystick_plugin&amp;rev=1446717727&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=mantainance&amp;rev=1458729340&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=materials&amp;rev=1462449662&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=materials_cnc&amp;rev=1436273083&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=mills_drills&amp;rev=1445611003&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=network&amp;rev=1452543833&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=nozzle&amp;rev=1445502179&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=open_source&amp;rev=1445848023&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=pcb-basics&amp;rev=1428518730&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=pcb_milling_workflow&amp;rev=1441883779&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=pcb_milling_workflow2&amp;rev=1458814251&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=pcbmill&amp;rev=1442733738&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=photogrammetry&amp;rev=1444809188&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=pid_plugin&amp;rev=1446720413&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=pid_tuning&amp;rev=1452778174&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=probe_angle_calibration&amp;rev=1462555050&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=probing&amp;rev=1445869118&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=procrashs_step_by_step_install&amp;rev=1418688486&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=psu&amp;rev=1458659265&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=raspberry_pi&amp;rev=1436221753&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=reed&amp;rev=1461685502&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=replicable_addons&amp;rev=1462442318&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=resistance_test&amp;rev=1454602361&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=rotational_scanning&amp;rev=1447775474&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=samples&amp;rev=1462451642&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=scanning_swipe_scanning&amp;rev=1458657053&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=sd&amp;rev=1445508030&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=sdflashing&amp;rev=1459244363&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=setup&amp;rev=1453991894&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=slic3r&amp;rev=1435927667&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=specs&amp;rev=1459860527&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=spindle&amp;rev=1446116043&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=spool&amp;rev=1436172812&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=start&amp;rev=1462522885&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=stick&amp;rev=1436451084&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=totumduino&amp;rev=1435913919&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=troubleshooting&amp;rev=1458230245&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=unboxing&amp;rev=1453989067&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=updates&amp;rev=1447775426&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=upgrades-third-party_heads&amp;rev=1445438762&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=versions&amp;rev=1462517764&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=vinyl_proto_head&amp;rev=1458639050&amp;do=diff"/>
+                <rdf:li rdf:resource="http://wiki.fabtotum.com/doku.php?id=z-axis&amp;rev=1445934534&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://wiki.fabtotum.com/lib/tpl/dokuwiki/images/favicon.ico">
+        <title></title>
+        <link>http://wiki.fabtotum.com/</link>
+        <url>http://wiki.fabtotum.com/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=2d_milling_workflow&amp;rev=1436265885&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-07T12:44:45+02:00</dc:date>
+        <title>2d_milling_workflow</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=2d_milling_workflow&amp;rev=1436265885&amp;do=diff</link>
+        <description>2.5D milling
+
+
+
+A 2.5D image is a simplified three-dimensional (x, y, z) surface representation that contains at most one depth (z) value for every point in the (x, y) plane.
+
+Toolchain 1: FreeCAD DXF output  Tweaking with LibreCAD  Heekscad  FABtotum</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=3d_milling_workflow&amp;rev=1425918376&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-03-09T17:26:16+02:00</dc:date>
+        <title>3d_milling_workflow</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=3d_milling_workflow&amp;rev=1425918376&amp;do=diff</link>
+        <description>Coding standards for 3D milling
+
+The FABtotum personal FABricator is a RepRap-derived device, and as such shares a common set of CNC standards.
+
+Some Gcodes are not supported, so if your code fails be aware:
+
+	*  Each line must have a command (G0, G1, etc)</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=3d_scan_software&amp;rev=1458810079&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-24T10:01:19+02:00</dc:date>
+        <title>3d_scan_software</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=3d_scan_software&amp;rev=1458810079&amp;do=diff</link>
+        <description>Softwares used for 3D scanning
+
+(Page under construction)
+
+Here is a list for softwares used for processing 3D scanning data (photogrammetry or point clouds):
+
+	*  Autodesk 123D catch (www.123dapp.com/catch)
+		*  Autodesk Memento (at the moment only beta version) (memento.autodesk.com/about)
+		*</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=3d_softwares&amp;rev=1458734863&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-23T13:07:43+02:00</dc:date>
+        <title>3d_softwares</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=3d_softwares&amp;rev=1458734863&amp;do=diff</link>
+        <description>3D Modeling softwares
+
+(Page under construction)
+
+There are several softwares used for 3d modeling.
+
+Here you are a list of the most famous.
+
+	*  Autodesk Inventor (Wikipedia) (autodesk.com/inventor)
+		*  Autodesk Fusion 360 (www.autodesk.com/products/fusion-360/overview)
+		*  Autodesk 123D design (Wikipedia) (www.123dapp.com)
+		*  Autodesk Maya (</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=3d_troubleshooting&amp;rev=1462451762&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-05T14:36:02+02:00</dc:date>
+        <title>3d_troubleshooting</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=3d_troubleshooting&amp;rev=1462451762&amp;do=diff</link>
+        <description>3D printing troubleshooting
+
+Not extruding / No filament coming out of the nozzle
+
+Description : Filament is not coming out from the nozzle (Hybrid Head)     
+
+Possible Causes:
+
+	*  Cause A - The Feeder is not engaged  (Valid only for versions older than July 2015).</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=4axis_milling_workflow&amp;rev=1436729578&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-12T21:32:58+02:00</dc:date>
+        <title>4axis_milling_workflow</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=4axis_milling_workflow&amp;rev=1436729578&amp;do=diff</link>
+        <description>4 Axis milling workflow
+
+Using the A/E Axis is possible to do 4 axis milling. In the current FABlin Firmware Release, you will need to use the “E” Letter instead of “A” in you Gcode in order to work.The FABtotum will take care of setting the right steps/unit for the rotary chuck.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=a_e-axis&amp;rev=1436357923&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-08T14:18:43+02:00</dc:date>
+        <title>a_e-axis</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=a_e-axis&amp;rev=1436357923&amp;do=diff</link>
+        <description>A/E Axis
+
+The Feeder motor doubles as a rotary axis, therefore is identified by two aliases depending of the use and the context.
+
+It is the extruder feeder axis, is controlled by the gcode with the “E” parameter.
+
+It can be used as “E” axis for the laser</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=assembly_camera&amp;rev=1445605414&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-23T15:03:34+02:00</dc:date>
+        <title>assembly_camera</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=assembly_camera&amp;rev=1445605414&amp;do=diff</link>
+        <description>Raspicam
+
+
+
+The camera, which is used for 3D-scanning and Computer vision, is mounted on the Y axis, below the left-side linear bearing.
+
+The camera assembly is composed by the following parts:
+
+	*  A standard issue RPI-Camera Module
+		*  A longer Flex cable compatible with the Raspberry Pi UART</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=bed_troubleshooting&amp;rev=1436450258&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-09T15:57:38+02:00</dc:date>
+        <title>bed_troubleshooting</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=bed_troubleshooting&amp;rev=1436450258&amp;do=diff</link>
+        <description>Hybrid bed troubleshooting
+
+Most common problems on the hybrid bed:
+
+	*  The printer doesn't recognise the hybrid bed
+
+Cause: The connection between the bed and the printer doesn't work
+
+Solution: Try to remove the bed, and install back again. Unscrew the 4 screws that sustain the bed, so the bed will stay closer to the connectors.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=bed_v2_setup&amp;rev=1461681032&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-04-26T16:30:32+02:00</dc:date>
+        <title>bed_v2_setup</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=bed_v2_setup&amp;rev=1461681032&amp;do=diff</link>
+        <description>FABtotum BED V2 Update
+
+
+
+Purpose
+
+The FABtotum hybrid bed has arrived after few months of developements: with an improved connection pcb, stronger pogo pins and an improved heat transmission that reduces the time of heating and guarantees a more uniform heating.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=bedscan&amp;rev=1462546857&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-06T17:00:57+02:00</dc:date>
+        <title>bedscan</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=bedscan&amp;rev=1462546857&amp;do=diff</link>
+        <description>BedScan Plugin by imarin
+
+Warning! This page is a draft 
+
+The Bed Scan Plugin was developed by imarin and gives a false-color map of the planarity of the hybrid bed of the FABtotum.
+
+Features
+
+	*  It performs a probe scan of the bed approx each 18×18 mm
+		*  It presents a false color graph indicating the Z axis variations.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=belt_tightening&amp;rev=1460549653&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-04-13T14:14:13+02:00</dc:date>
+        <title>belt_tightening</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=belt_tightening&amp;rev=1460549653&amp;do=diff</link>
+        <description>Belt tightening
+
+A not-tightened belt can cause problems during the printing or milling. 
+
+If your prints look like this, probably your belts aren't well tightened (we intentionally exaggerated the loosing of the belt for show the lack).
+
+
+
+You can test if the belts are well calibrated by pushing them in the frontal part of the printer: you have to push (gently) the belt until you feel the belt starts to make resistance to your stress, at this point the belt should be 1 cm (0,5 inch) from the st…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=calibration_and_setup&amp;rev=1445501832&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-22T10:17:12+02:00</dc:date>
+        <title>calibration_and_setup</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=calibration_and_setup&amp;rev=1445501832&amp;do=diff</link>
+        <description>Calibration
+
+Calibration of the FABtotum is a critical step in all future operations. A non-calibrated unit is unable to perform most basic task like printing and milling. It could damage the unit.
+
+After unboxing, setting up the machine and connecting to it, you'll be prompted with a setup/configuration.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=cam_softwares&amp;rev=1450454578&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-12-18T17:02:58+02:00</dc:date>
+        <title>cam_softwares</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=cam_softwares&amp;rev=1450454578&amp;do=diff</link>
+        <description>CAM Software
+
+CAM software (Computer Aided Manufacturing) are software to generate gcode.
+
+List of CAM software
+
+-MakerCAM Web based software (MakerCAM tutorial)
+
+-Jscut Web based software (Jscut tutorial)
+
+-Openscam Gcode simulator (Openscam tutorial). This program allows you to verify whether your gcode is valid
+
+- Autodesk Fusion 360</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=cnc_post_processors&amp;rev=1442955825&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-09-22T23:03:45+02:00</dc:date>
+        <title>cnc_post_processors</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=cnc_post_processors&amp;rev=1442955825&amp;do=diff</link>
+        <description>I. Post-processors for FABlin
+
+1. What is a post-processor
+
+The GCode generated by different SW applications is generally neither optimized nor compatible with a given CNC machine. A post-processor is a SW application dependent program that converts the GCode generated by that SW application into the specific GCode valid for a given CNC machine. In some SW applications, like Heekscad, the post-processor is integrated into the SW application. Others, like FlatCAM, do not support this feature (yet…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=community-models&amp;rev=1451316563&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-12-28T16:29:23+02:00</dc:date>
+        <title>community-models</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=community-models&amp;rev=1451316563&amp;do=diff</link>
+        <description>Overview
+
+As our community is growing bigger, more and more parts, designs, and accessories are being introduced by the community members, in this page there will be a list of the objects created and reference to our community members who created these objects</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=craftware&amp;rev=1452526545&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-11T16:35:45+02:00</dc:date>
+        <title>craftware</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=craftware&amp;rev=1452526545&amp;do=diff</link>
+        <description>Slicing with CraftWare
+
+(this wiki articles is a work in progress, see the  forum thread)
+
+Slicing with CraftWare by Craftunique 
+
+From their website:
+
+CraftWare is a FREE,  fast, easy-to-use slicer software that converts your digital 3D object  into a .gcode toolpath format understood by most 3D printers.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=cura&amp;rev=1462357394&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-04T12:23:14+02:00</dc:date>
+        <title>cura</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=cura&amp;rev=1462357394&amp;do=diff</link>
+        <description>Slicing With Cura Software
+
+Cura is an open source software created and curated by Ultimaker.
+
+The FABtotum Personal Fabricator can accept Gcode generated with cura.
+
+To upload a Gcode machine program of a sliced model, refer to the Object Manager.
+
+Installation</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=electrical_continuity_probe&amp;rev=1430851724&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-05-05T20:48:44+02:00</dc:date>
+        <title>electrical_continuity_probe</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=electrical_continuity_probe&amp;rev=1430851724&amp;do=diff</link>
+        <description>Electrical continuity z probe
+
+1. Construction
+
+This shows how to create an electrical continuity probe like the one used for the PCBMill plugin.
+
+To make this probe you need:
+
+	*  Two rather long cables (make sure they can go from the connector all the way up to the top of the FAB and back to the lowest position of the bed, so that when/if G27 is executed, the cable is long enough).</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=fabui&amp;rev=1435914570&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-03T11:09:30+02:00</dc:date>
+        <title>fabui</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=fabui&amp;rev=1435914570&amp;do=diff</link>
+        <description>FABUI
+
+FABUI is the web based interface for control your FABtotum
+
+Scan
+
+Create (Mill/3D Printing)
+
+Jog
+
+Object manager
+
+Mantainance
+
+Settings
+
+Updates</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=fabuiversions&amp;rev=1462452874&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-05T14:54:34+02:00</dc:date>
+        <title>fabuiversions</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=fabuiversions&amp;rev=1462452874&amp;do=diff</link>
+        <description>FABtotum USER INTERFACE
+
+
+
+Check the FABtotum User Interface official Repo here.
+
+
+
+Version: 0.954 - (02/02/2016) (hotifx)
+
+	*  Firmware
+			*  Fixed a bug with timing when using M3,M4,M5
+			*  Subtractive gcodes will not require a G4 before M5 or after M3 and M4 like before.. M3,M4 and M5 will in fact start spinning after 1.5 seconds the last movement operation is completed. This allows to use some standard Gcode Posts processors instead of manually editing the code with pauses</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=feeder&amp;rev=1445875434&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-26T17:03:54+02:00</dc:date>
+        <title>feeder</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=feeder&amp;rev=1445875434&amp;do=diff</link>
+        <description>Feeder
+
+
+
+Information extracted from the forum entry Sleeve over PTFE tube
+
+The feeder is in the rear compartment and is used to feed the filament from the spool to the extruder. There are two PTFE tubes with an OD of 4mm and an ID of 2mm that connect to the feeder that are used as a low friction path for guiding the filament. One is on the top of the feeder and goes to the extruder and the other is on the bottom of the feeder and goes to the filament spool bay on the right side of the fab (when…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=feeder_update&amp;rev=1454401890&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-02-02T09:31:30+02:00</dc:date>
+        <title>feeder_update</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=feeder_update&amp;rev=1454401890&amp;do=diff</link>
+        <description>FABtotum Feeder Update
+
+Purpose
+
+The FABtotum feeder is projected to be used also as 4th axis for 3d scanning or for turning milling.
+
+This short tutorial will allow you to take off the button originally used to switch between
+
+FABtotum's functions.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=filament&amp;rev=1445848259&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-26T09:30:59+02:00</dc:date>
+        <title>filament</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=filament&amp;rev=1445848259&amp;do=diff</link>
+        <description>Filament
+
+The FABtotum accepts 1.75mm filaments in PLA or ABS spools.
+
+You can find a selection of tested filaments on the FABtotum store store.fabtotum.com/eu/store/filaments.html
+
+They are fitted in the right compartment.
+
+You can use different spool size, the maximum dimension to close the compartment are: 200mm diameter and 55mm width</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=file_managing&amp;rev=1445501906&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-22T10:18:26+02:00</dc:date>
+        <title>file_managing</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=file_managing&amp;rev=1445501906&amp;do=diff</link>
+        <description>File managing
+
+
+
+In the main menu of the FABUI you can find the “Object Manager” section.
+
+This section contains all the files loaded inside the onboard SD card.
+
+The Object manager is like an archive where each “object” can contain multiple files.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=finishing&amp;rev=1436432315&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-09T10:58:35+02:00</dc:date>
+        <title>finishing</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=finishing&amp;rev=1436432315&amp;do=diff</link>
+        <description>Finishing
+
+There are several methods for finish the parts you just printed, they can be divided in two different groups:
+
+Subtractive methods:
+
+
+
+- Sandpaper finishing:
+
+
+
+
+
+- Tumble finishing:
+
+
+
+
+
+- Abrasive blasting
+
+
+
+
+
+- Vapor smoothing (Using Acetone with ABS and Chloroform with PLA)</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=firmware_development&amp;rev=1450807769&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-12-22T19:09:29+02:00</dc:date>
+        <title>firmware_development</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=firmware_development&amp;rev=1450807769&amp;do=diff</link>
+        <description>Firmware development
+
+1. Downloading FABlin
+
+FABlin is available in Github, in: https://github.com/FABtotum/FABlin
+
+If you have GitHub installed, you can get the source directly by cloning the source:
+
+git clone https://github.com/FABtotum/FABlin.git// 
+
+This generates a directory with all the code of the master branch of the repository.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=flex_cable&amp;rev=1445867487&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-26T14:51:27+02:00</dc:date>
+        <title>flex_cable</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=flex_cable&amp;rev=1445867487&amp;do=diff</link>
+        <description>Head Flex cable
+
+The head flex cable is the connection between the body of the FABtotum and the head carriage.
+
+
+
+
+
+Specs
+
+Board type:  FLEX 
+
+Number of layers:  2 
+
+Copper thickness:  35 um (1oz) 
+
+Flex thickness:  150 um (or as thin as you can) 
+
+Stiffener:</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=formatting&amp;rev=1418577709&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-12-14T18:21:49+02:00</dc:date>
+        <title>formatting</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=formatting&amp;rev=1418577709&amp;do=diff</link>
+        <description>Heading 1 -  formatting for the FABtotum Wiki
+
+----------
+
+Heading 2 - Paragraph (indexed on the right)
+
+heading 3 - first sub paragraph
+
+heading 4 - object title
+
+This is a paragraph
+
+press return=new paragraph
+
+shift+return: write in thesame paragraph</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=fusion_360&amp;rev=1437066748&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-16T19:12:28+02:00</dc:date>
+        <title>fusion_360</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=fusion_360&amp;rev=1437066748&amp;do=diff</link>
+        <description>Fusion 360 CAM Setting
+
+(Page under construction)
+
+With Autodesk Fusion 360 (Here you can download the free trial) there is an useful utility for generate CAM gcodes.
+
+	*  Model your object using the “Model” section (you can also import files modeled with other programs).</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=gallery&amp;rev=1446837263&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-06T20:14:23+02:00</dc:date>
+        <title>gallery</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=gallery&amp;rev=1446837263&amp;do=diff</link>
+        <description>Gallery
+
+(Page under construction)
+
+3D printing
+
+Marvin
+ Slicer:  Cura .STL file:  www.thingiverse.com/thing:215703.gcode file:  GcodeFab by:  FABtotum team Note:  “Hello world” file 
+Planetary gear set
+ Slicer:  Cura .STL file:  www.thingiverse.com/thing:23030.gcode file:  GcodeFab by:  FABtotum team Note:  2 stages version</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=gallery_template&amp;rev=1447775450&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-17T16:50:50+02:00</dc:date>
+        <title>gallery_template</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=gallery_template&amp;rev=1447775450&amp;do=diff</link>
+        <description>Gallery (Templates)
+
+(Page under construction)
+
+3D printing
+
+Title
+ Slicer:    .STL file:    .gcode file:  Link Fab by:  User Note:    
+Milling
+
+Title
+
+
+
+Cam software:  
+
+Bit size: 
+
+Stock Material:Zero point 
+
+Gcode: 
+
+Fab by: 
+
+Note:
+
+Scanning
+
+Title</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=h-bot_x_and_y_axis&amp;rev=1435914276&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-03T11:04:36+02:00</dc:date>
+        <title>h-bot_x_and_y_axis</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=h-bot_x_and_y_axis&amp;rev=1435914276&amp;do=diff</link>
+        <description>FABtotum's CoreXY: X and Y Axis
+
+In an H-bot or CoreXY system the X or Y movements are basically a sum of 45 degrees vectors. We are effectively working on a tilted reference cartesian chart here.
+
+Since vectors add to one another the resulting force in the normal XY plane is much higher. Sounds complex? here a scheme:</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=head_assembly&amp;rev=1436264969&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-07T12:29:29+02:00</dc:date>
+        <title>head_assembly</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=head_assembly&amp;rev=1436264969&amp;do=diff</link>
+        <description>Hybrid head V 1.0
+
+
+
+The Hybrid head is one of the last finalized parts of the Personal fabricator, 
+
+We improved many specs of this part, starting from the onboard milling motor which is now a 200W brushless beast, with custom-made high-precision ER-8 collet for improved quality.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=head_troubleshooting&amp;rev=1454602698&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-02-04T17:18:18+02:00</dc:date>
+        <title>head_troubleshooting</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=head_troubleshooting&amp;rev=1454602698&amp;do=diff</link>
+        <description>Head troubleshooting
+
+Pre flight check
+
+Before you use an head you just installed, check if the thermistor is correctly working: in “Jog” you will see the temperature bar showing the room temperature. Touching the nozzle (when cold), you can see a slowly increasing temperature.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=headv2&amp;rev=1458656463&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-22T15:21:03+02:00</dc:date>
+        <title>headv2</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=headv2&amp;rev=1458656463&amp;do=diff</link>
+        <description>Printing Head V2
+
+
+
+
+
+
+
+The V2 head is the last printing head available for the FABtotum. It replaces the old Hybrid head.
+
+It looks mostly the same, but its hotend was complitely re designed. It's featured with a cold end body made in aluminium, heatbreak and interchangeable nozzle.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=heated_plate&amp;rev=1462463709&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-05T17:55:09+02:00</dc:date>
+        <title>heated_plate</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=heated_plate&amp;rev=1462463709&amp;do=diff</link>
+        <description>Hybrid bed
+
+The bed supplied with the FABtotum is classified as hybrid because it's composed by an heated bed, used during printing, and a milling plate used while CNC milling.
+
+To change from one kind of bed to the other one, just reverse it.
+
+If you have problems with the hybrid bed, check the</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=hello_world&amp;rev=1437298634&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-19T11:37:14+02:00</dc:date>
+        <title>hello_world</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=hello_world&amp;rev=1437298634&amp;do=diff</link>
+        <description>Getting started
+
+If you followed the previous instructions (Unboxing, first setup and calibration), then your FABtotum is ready for the first “job”.
+
+3D Printing
+
+If you want to start with additive manufacturing, go here.
+
+Milling
+
+If you want to start with subtractive machining, go</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=hello_world_3d&amp;rev=1453993659&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-28T16:07:39+02:00</dc:date>
+        <title>hello_world_3d</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=hello_world_3d&amp;rev=1453993659&amp;do=diff</link>
+        <description>Hello World! (3D Printing)
+
+You already calibrated your FABtotum and you are ready to print your first test object.
+
+If you haven't: go toMaintenance → First Setupfor a comprehensive calibration wizard.
+
+
+
+To start printing you usually need filament. The FABtotum comes with some sample filament, but you may want to load more filament.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=hello_world_cnc&amp;rev=1457533382&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-09T15:23:02+02:00</dc:date>
+        <title>hello_world_cnc</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=hello_world_cnc&amp;rev=1457533382&amp;do=diff</link>
+        <description>Hello world! (CNC milling)
+
+Here you will be introduced to your first milling project.
+
+In this tutorial we are goint to explain how to use the FABtotum for CNC milling.
+
+We will engrave our claim “Make more” on a foam stock. You can donwload the SVG on wich the gcode is created.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=hello_world_scan&amp;rev=1445610724&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-23T16:32:04+02:00</dc:date>
+        <title>hello_world_scan</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=hello_world_scan&amp;rev=1445610724&amp;do=diff</link>
+        <description>Hello world (scanning)
+
+There are different methods for 3D scanning an object, with the FABtotum you can decide the best one, depending on the geometry of the object, final result, post-processing work, ecc..
+
+
+
+Rotating scanning method
+
+Laser line is projected on an object placed on an incrementally rotating platform. A 3D model can be acquired when a full 360° rotation is complete. It is the most common laser scanning method</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=how_it_started&amp;rev=1419448098&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-12-24T20:08:18+02:00</dc:date>
+        <title>how_it_started</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=how_it_started&amp;rev=1419448098&amp;do=diff</link>
+        <description>The FABtotum is a multipurpose tool, the world's first Low Cost Desktop Personal Fabrication device that can operate a wide range of computer controlled manufacturing (CNC) and 3D-scanning processes. Print, Cut, Mill, Scan, Manipulate. Rinse and repeat! A seamless interaction between the physical and the digital world. While current 3D printers are defined as personal fabricators, there is so much more to personal fabrication than 3D printing alone! The FABtotum allows anyone to explore the endl…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=joystick_plugin&amp;rev=1446717727&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-05T11:02:07+02:00</dc:date>
+        <title>joystick_plugin</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=joystick_plugin&amp;rev=1446717727&amp;do=diff</link>
+        <description>PS3 Joystick plugin
+
+This plugin by tohara allow to control the jog using a PS3/PS4 joystick.
+
+Installation
+
+Download the plugin on the repositoryGithub (The download button is on the right column).
+
+Unzip the package, rename the folder in “
+joystickjog” (it was “joystick</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=mantainance&amp;rev=1458729340&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-23T11:35:40+02:00</dc:date>
+        <title>mantainance</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=mantainance&amp;rev=1458729340&amp;do=diff</link>
+        <description>Maintenance
+
+Head installing
+
+Since the introduction of the new V2 Head, from the FABUI 0.9495 is necessary to install the head on the FABUI to make the FABtotum recognize wich head is installed.
+
+
+
+In the “ FABUI”, go to “ Maintenance”, and choose</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=materials&amp;rev=1462449662&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-05T14:01:02+02:00</dc:date>
+        <title>materials</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=materials&amp;rev=1462449662&amp;do=diff</link>
+        <description>Materials
+
+There are several materials could be used in 3D printing.
+
+For see how to load or unload the spools look here.
+
+With FABtotum could be used the following materials, it's highly raccomended to use the original FABtotum filaments, that are customized to work better with this printer, you can find them in the</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=materials_cnc&amp;rev=1436273083&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-07T14:44:43+02:00</dc:date>
+        <title>materials_cnc</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=materials_cnc&amp;rev=1436273083&amp;do=diff</link>
+        <description>Materials for CNC
+
+List of usable materials:
+
+	*  Foam (40-250 Kg/m^3)
+		*  Wood (Balsa, walnut)
+		*  Aluminium</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=mills_drills&amp;rev=1445611003&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-23T16:36:43+02:00</dc:date>
+        <title>mills_drills</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=mills_drills&amp;rev=1445611003&amp;do=diff</link>
+        <description>Mill and drills
+
+**Supported Mill bits: **
+
+
+
+The FABtotum natively supports milling bits with a shank   diameter in the range of 3.0 to 3.5mm (0.12 inches or 1/8“)
+
+The above ER8 Collet can be swapped with another compatible   one in the ER8 family.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=network&amp;rev=1452543833&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-11T21:23:53+02:00</dc:date>
+        <title>network</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=network&amp;rev=1452543833&amp;do=diff</link>
+        <description>Network configuration
+
+Here you are a guide to how to configure the connection to your new FABtotum personal fabricator.
+
+LAN
+
+When you connect your computer via ethernet, and you open your favourite browser you will see a page like this:
+
+It's the FABUI network guided configuration.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=nozzle&amp;rev=1445502179&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-22T10:22:59+02:00</dc:date>
+        <title>nozzle</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=nozzle&amp;rev=1445502179&amp;do=diff</link>
+        <description>Extruder
+
+Extruder V1
+
+
+J-Head Mk V-B 20.5 grams 
+
+
+The Nozzle Holder portion of the extruder is made from PEEK, a thermoplastic polymer. Due to its melting point of around 248°C, the extruder cannot handle high temperatures well as this can affect the Nozzle Holder. The recommendations are to use PLA or ABS filaments due to the higher temperature required for other filament polymers.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=open_source&amp;rev=1445848023&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-26T09:27:03+02:00</dc:date>
+        <title>open_source</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=open_source&amp;rev=1445848023&amp;do=diff</link>
+        <description>Open Source &amp; The FABtotum Personal Fabricator.
+
+The  Fabtotum Personal Fabricator is meant to push the boundaries of personal  fabrication.
+
+To do this we want to involve people in the design process  as much as possible, and allow them to modify and improve the machine to  fit their own needs without needless restrictions.The  full documentations,drawings and the reproduction of FABtotum is allowed  and encouraged under the Creative Commons  Attribution-Noncommercial-Sharealike 3.0 Unported Li…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=pcb-basics&amp;rev=1428518730&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-04-08T20:45:30+02:00</dc:date>
+        <title>pcb-basics</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=pcb-basics&amp;rev=1428518730&amp;do=diff</link>
+        <description>When designing a PCB (or any circuit board) the inevitable question will arise sooner or later,
+
+what maximum current can I apply on my design.
+
+I personally found this short Table very helpful. Note that 35 µm copper thickness is sometimes referred to as 1 ounce or 1 oz, while 70 µm copper thickness is sometimes referred to as 2 ounce or 2 oz.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=pcb_milling_workflow&amp;rev=1441883779&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-09-10T13:16:19+02:00</dc:date>
+        <title>pcb_milling_workflow</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=pcb_milling_workflow&amp;rev=1441883779&amp;do=diff</link>
+        <description>I. Preparation steps
+
+1. Creating an appropriate sacrifical layer
+
+Yes, you can mill a with almost any sacrifical layer. However, in order  to decrease the amount of problems a sacrifical layer should comply with  some requirements:
+
+1. The sacrificial layer is substantially flat. I do not mean leveled, I  mean flat. This is because even when using the autoleveling in the  PCBMill plugin, if the support is substantially flat, there will be less  amount of</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=pcb_milling_workflow2&amp;rev=1458814251&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-24T11:10:51+02:00</dc:date>
+        <title>pcb_milling_workflow2</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=pcb_milling_workflow2&amp;rev=1458814251&amp;do=diff</link>
+        <description>PCB Milling (without the PCB Mill plugin)
+
+This page is a work in progress, and not complete!
+
+What you will need
+
+In order to properly mill a PCB, you will need a few tools in addition to your FABtotum.  The short list of tools is :
+
+	*  An appropriate V-mill or endmill.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=pcbmill&amp;rev=1442733738&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-09-20T09:22:18+02:00</dc:date>
+        <title>pcbmill</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=pcbmill&amp;rev=1442733738&amp;do=diff</link>
+        <description>PCBMill
+
+PCBMill is work under progress. However, many have been succesful milling PCBs with the current capabilities.
+
+Requirements
+
+You DO need to create a probe like this one. Without it WON'T WORK and you may DAMAGE your unit.
+
+How does it look like? What does it do exactly?</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=photogrammetry&amp;rev=1444809188&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-14T09:53:08+02:00</dc:date>
+        <title>photogrammetry</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=photogrammetry&amp;rev=1444809188&amp;do=diff</link>
+        <description>Photogrammetry scanning
+
+This scanning method uses the camera on your FABotum for take photos that will be processed by an external photogrammetry service, such as Autodesk's 123Dcatch or Memento.
+
+Due to the big volume of data and the complex calculations, the post processing will be provided by your pc.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=pid_plugin&amp;rev=1446720413&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-05T11:46:53+02:00</dc:date>
+        <title>pid_plugin</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=pid_plugin&amp;rev=1446720413&amp;do=diff</link>
+        <description>PID tuning plugin
+
+Plugin for PID tuning by tohara allow user to easily tune the PID settings for the FABtotum custom extruders.
+
+It basically uses the autotune procedure described here.
+
+Installation
+
+First download the plugin here.
+
+Unzip the package, rename the folder in</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=pid_tuning&amp;rev=1452778174&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-14T14:29:34+02:00</dc:date>
+        <title>pid_tuning</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=pid_tuning&amp;rev=1452778174&amp;do=diff</link>
+        <description>PID tuning of DIY nozzle mods
+
+To calibrate the nozzle thermistor on a custom head you need to start from room temperature and establish an SSH connection.
+
+Use the M303 comand to start the PID autotune procedure
+
+
+
+M303 E0 S200 C8 
+
+
+
+This will calculate -for example- the PID of extruder 0 (the head) heating it up to 200°C with 8 iterations.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=probe_angle_calibration&amp;rev=1462555050&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-06T19:17:30+02:00</dc:date>
+        <title>probe_angle_calibration</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=probe_angle_calibration&amp;rev=1462555050&amp;do=diff</link>
+        <description>Probe Angles Calibration
+
+Due to the way angles are stored in the different versions of FabUI,
+
+Firmware updates might cause the probe angle to change.
+
+
+Do not change/unscrew the probe or modify the hardware.
+
+
+Changing the probe angle has a simple software solution.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=probing&amp;rev=1445869118&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-26T15:18:38+02:00</dc:date>
+        <title>probing</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=probing&amp;rev=1445869118&amp;do=diff</link>
+        <description>Probing scanning
+
+This scanning method is the most accurate, but the slowest. 
+
+It uses the probe embedded in the FABtotum carriage for reconstruct the geometry of the object to be scanned.
+
+It's working with object without undercut, like coins, medals ecc…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=procrashs_step_by_step_install&amp;rev=1418688486&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2014-12-16T01:08:06+02:00</dc:date>
+        <title>procrashs_step_by_step_install</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=procrashs_step_by_step_install&amp;rev=1418688486&amp;do=diff</link>
+        <description>The following Guide was kindly provided by Procrash for the Fabtotum Community. 
+
+You Will need an ssh client installed on your machine. There are several ways to do it but I use the console for it.
+
+Automatic install
+
+You can download the Advanced Bed leveling plugin</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=psu&amp;rev=1458659265&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-22T16:07:45+02:00</dc:date>
+        <title>psu</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=psu&amp;rev=1458659265&amp;do=diff</link>
+        <description>Power supply unit
+
+The power supply unit is the “heart” of the FABtotum, the device who supply electrical energy to all others components on the FABtotum.
+
+It takes 230V AC from the power cord, and it supply 24V CC.
+
+
+
+Replicable Cover</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=raspberry_pi&amp;rev=1436221753&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-07T00:29:13+02:00</dc:date>
+        <title>raspberry_pi</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=raspberry_pi&amp;rev=1436221753&amp;do=diff</link>
+        <description>Raspberry PI
+
+In the FABtotum you can find a Raspberry Pi 1 model B
+
+
+
+Specs
+
+Memory
+
+512MB RAM
+
+Connections
+
+2 USB ports
+
+Ethernet port
+
+3.5mm jack for audio out
+
+HDMI
+
+Composite Video
+
+Processor
+
+SoC is a Broadcom BCM2835
+
+This contains an ARM1176JZFS (ARM11 using an ARMv6-architecture core) with floating point, running at 700Mhz, and a Videocore 4 GPU.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=reed&amp;rev=1461685502&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-04-26T17:45:02+02:00</dc:date>
+        <title>reed</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=reed&amp;rev=1461685502&amp;do=diff</link>
+        <description>Reed switch upgrade
+
+Purpose
+
+The 3rd revision of the FABtotum hardware include an improved door switch who uses magnetism to be activated.
+
+You can easily update your FABtotum, by following this step by step guide.
+
+What you need:
+
+	*  Reed switch and magnet</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=replicable_addons&amp;rev=1462442318&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-05T11:58:38+02:00</dc:date>
+        <title>replicable_addons</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=replicable_addons&amp;rev=1462442318&amp;do=diff</link>
+        <description>REPLICABLE ADDONS
+
+
+
+You can find replicable addons for the FABtotum on the Thingiverseprofile.
+
+List of available addons:
+
+	*  3D scanner camera cover
+		*  Dust Covers
+		*  Extended spool holders
+		*  4th axis chuck
+		*  Spool lock lever for original FABtotum filaments</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=resistance_test&amp;rev=1454602361&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-02-04T17:12:41+02:00</dc:date>
+        <title>resistance_test</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=resistance_test&amp;rev=1454602361&amp;do=diff</link>
+        <description>Head resistance and thermistor testing
+
+
+
+Purpose
+
+If your FABtotum’s head is not heating could happened that the heating resistance is damaged or somebody is wrong. With this tutorial you can know exactly which problem has your FABtotum.
+
+What you need:</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=rotational_scanning&amp;rev=1447775474&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-17T16:51:14+02:00</dc:date>
+        <title>rotational_scanning</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=rotational_scanning&amp;rev=1447775474&amp;do=diff</link>
+        <description>Rotating scanning
+
+Rotating scanning is a scanning method that use the red laser line embedded on the FABtotum head and the camera, plus the 4th axis .
+
+It takes two pictures of a rotating object: one with the line projected on the object to scan and one without. Then the post processor installed on the Raspberry makes a subtraction between the two images, obtaining just the line modified on the object's profile. Many lines will compose the point cloud.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=samples&amp;rev=1462451642&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-05T14:34:02+02:00</dc:date>
+        <title>samples</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=samples&amp;rev=1462451642&amp;do=diff</link>
+        <description>Samples
+
+(Under construction)
+
+Since the FABUI version n 0.9499 (Only for the new installations, check this page) an increased number of samples are pre charged on the FABtotum.
+
+The gcodes are generated using Cura as slicing engine.
+
+They were studied to be printed using PLA, but you can print them also using ABS just modifying the nozzle and the bed temperatures.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=scanning_swipe_scanning&amp;rev=1458657053&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-22T15:30:53+02:00</dc:date>
+        <title>scanning_swipe_scanning</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=scanning_swipe_scanning&amp;rev=1458657053&amp;do=diff</link>
+        <description>Swipe scanning
+
+This scanning method uses the raspicam and the laser line to make a 3D scan.
+
+
+
+It works likewise the Rotating scanning, and i't used to scan objects that can't be easily fixed on the 4th axis chuck.
+
+It takes two pictures of an object placed on the bed: one with the line projected on the object to scan and one without. Then the post processor installed on the Raspberry makes a subtraction between the two images, obtaining just the line modified on the object's profile. Many line…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=sd&amp;rev=1445508030&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-22T12:00:30+02:00</dc:date>
+        <title>sd</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=sd&amp;rev=1445508030&amp;do=diff</link>
+        <description>SD Card Troubleshooting
+
+There is mainly a cause for failure of the SD: bad turning off, if you didn't switched off the FABtotum using the correct procedure (Clicking on the “Switch off” button on the top-right corner of the FABUI), while the FABtotum is working (reading/writing), some files can be corrupted, avoiding the correct working of the entire SD.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=sdflashing&amp;rev=1459244363&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-29T11:39:23+02:00</dc:date>
+        <title>sdflashing</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=sdflashing&amp;rev=1459244363&amp;do=diff</link>
+        <description>Flashing the SD Card
+
+The Latest stable Raspbian image containing the FAB UI ready to be written.
+
+You can use this image to flash a new SD card with Win32DiskImager or restore the FABtotum SD to factory standard.
+
+If you have problem flashing the sd card you can try format it with</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=setup&amp;rev=1453991894&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-28T15:38:14+02:00</dc:date>
+        <title>setup</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=setup&amp;rev=1453991894&amp;do=diff</link>
+        <description>Setup
+
+Head placement
+
+
+
+Build plane placement</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=slic3r&amp;rev=1435927667&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-03T14:47:47+02:00</dc:date>
+        <title>slic3r</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=slic3r&amp;rev=1435927667&amp;do=diff</link>
+        <description>Slicing with Slic3r
+
+Slic3r is a free 3D slicing engine for 3D printers. It generates Gcode from 3D files (STL or OBJ). Once finished, an appropriate G- code file for the production of the 3D modeled part or object Is uploaded to the FABUI Object Manager Interface and can be 3D printed.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=specs&amp;rev=1459860527&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-04-05T14:48:47+02:00</dc:date>
+        <title>specs</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=specs&amp;rev=1459860527&amp;do=diff</link>
+        <description>Specs
+
+
+
+Fabtotum specs:
+
+	*  Classification:  Personal Fabricator, 1st Generation
+		*  Capabilities:  Hybrid Manufacturing, Digital Acquisition
+		*  Movement:  4 axis (5th axis port available)
+		*  I/O:  Usb Host, Wifi B/g/n, Lan
+		*  Control:  Standalone Printer (networked web server)</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=spindle&amp;rev=1446116043&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-29T11:54:03+02:00</dc:date>
+        <title>spindle</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=spindle&amp;rev=1446116043&amp;do=diff</link>
+        <description>Spindle
+
+The spindle is the part that holds the milling bit. It's connected to a DC brushess motor that can turn as fast as 14000 rpm.
+
+It accept 1/8“ bits (3 to 3,5mm)
+
+
+
+You can control it in the “Jog” panel with those commands:
+
+	*  M3 S&lt;rpm&gt; Turn on spindle on clockwise</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=spool&amp;rev=1436172812&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-06T10:53:32+02:00</dc:date>
+        <title>spool</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=spool&amp;rev=1436172812&amp;do=diff</link>
+        <description>Loading and unloading spool
+
+Loading
+
+Go to “Mantainance”, “Spool”, “Load spool” for start the guided procedure.
+
+
+
+	*  Open the right compartment of your fabtotum
+		*  Cut the filament making a sharpened tip
+		*  Insert the filament in the PTFE pipe until you reached the feeder (it become hard)</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=start&amp;rev=1462522885&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-06T10:21:25+02:00</dc:date>
+        <title>start</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=start&amp;rev=1462522885&amp;do=diff</link>
+        <description>----------
+
+Getting started
+
+Specs
+
+Unboxing 
+
+Setup 
+
+Calibration
+
+ Network configuration
+
+Hello World: first jobs
+
+File managing
+
+Troubleshooting
+
+Gallery
+
+----------
+
+Hardware Overview
+
+Electronics Overview
+
+Raspberry Pi
+
+Totumduino
+
+Camera
+
+Power supply unit
+
+Mechanical Overview
+
+FABtotum's CoreXY: X and Y Axis
+
+Z-Axis
+
+A/E-Axis
+
+Hybrid head
+
+ Head V2
+
+Feeder
+
+Hybrid bed 
+
+Extruder
+
+Filament
+
+Spindle
+
+Hardware Troubleshooting
+
+Hybrid Head and/or Printing head V2 
+
+Resistance and thermistor t…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=stick&amp;rev=1436451084&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-09T16:11:24+02:00</dc:date>
+        <title>stick</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=stick&amp;rev=1436451084&amp;do=diff</link>
+        <description>Getting 3D prints to Stick to the build platform
+
+
+
+There is a problem that everyone who is using 3D printers will have: sticking the printed parts to the build platform.
+
+It depends on the material used and other factors. There are different ways to prevent this problem:</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=totumduino&amp;rev=1435913919&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-07-03T10:58:39+02:00</dc:date>
+        <title>totumduino</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=totumduino&amp;rev=1435913919&amp;do=diff</link>
+        <description>Totumduino
+
+
+
+Totumduino is the name of the FABtotum Controller Board based on Arduino
+
+
+
+Features
+
+	*  4 axis connector
+		*  5th axis on a 4pole JST connector PH series 2mm connector
+		*  Endstop n1
+		*  Raspi GPIO header connector
+		*  Hotbed connection</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=troubleshooting&amp;rev=1458230245&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-17T16:57:25+02:00</dc:date>
+        <title>troubleshooting</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=troubleshooting&amp;rev=1458230245&amp;do=diff</link>
+        <description>General Troubleshooting
+
+----------
+
+The FABtotum is not turning On.
+
+Description :  Despite a functional Power-cable connection, the Unit does not power on once the power button is pressed.
+
+
+
+	*  Solution:      Please check that the fuse in the back of the power connector (it's located between the plug and the power button) has been loaded in the correct position. The unit usually receives a new fuse before being shipped, as during the factory tests a fuse is used.A correctly inserted Fusebloc…</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=unboxing&amp;rev=1453989067&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-01-28T14:51:07+02:00</dc:date>
+        <title>unboxing</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=unboxing&amp;rev=1453989067&amp;do=diff</link>
+        <description>Unboxing the FABtotum Personal Fabricator
+
+The unboxing procedure is important to set up the FABtotum prior to the first setup without damaging the unit. Particular attention must be paid when removing the FABtotum from the box itself. During unboxing you should also verify the absence of damages occurred during transportation.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=updates&amp;rev=1447775426&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-11-17T16:50:26+02:00</dc:date>
+        <title>updates</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=updates&amp;rev=1447775426&amp;do=diff</link>
+        <description>Updates
+
+It's very important to update the software of the FABtotum: we are continuously developing and releasing upgrades. 
+
+It's very easy to update your fabtotum.
+
+When the FABtotum is connected to internet it checks for updates, if it finds a new package, a notification will appear near to the</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=upgrades-third-party_heads&amp;rev=1445438762&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-21T16:46:02+02:00</dc:date>
+        <title>upgrades-third-party_heads</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=upgrades-third-party_heads&amp;rev=1445438762&amp;do=diff</link>
+        <description>Third Party Heads
+
+
+
+Basic Informations
+
+
+
+The FABtotum Personal Fabricator has been developed to be a multipurpose personal fabrication platform.
+
+One of the key elements of the FABtotum' hardware is the head carriage.
+
+The head carriage can accommodate different heads beside the standard</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=versions&amp;rev=1462517764&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-05-06T08:56:04+02:00</dc:date>
+        <title>versions</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=versions&amp;rev=1462517764&amp;do=diff</link>
+        <description>FABtotum Versions
+
+The FABtotum “Version” identifies what features and changes are implemented over the standard version (vers 1).
+
+Versions are cumulative, so Version 2 includes the changes in V1.
+
+Versions are cross-compatible and an higher version does not mean it won't be compatible with newer parts.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=vinyl_proto_head&amp;rev=1458639050&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2016-03-22T10:30:50+02:00</dc:date>
+        <title>vinyl_proto_head</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=vinyl_proto_head&amp;rev=1458639050&amp;do=diff</link>
+        <description>Vinyl cut proto head by Ernesto_realize
+
+
+
+With this useful tool you will be able to use your FABtotum for cut vinyl sheets.
+
+
+
+You will have to download first the printable parts on Thingiverse.
+
+Then follow the instructions on this Instructables tutorial.</description>
+    </item>
+    <item rdf:about="http://wiki.fabtotum.com/doku.php?id=z-axis&amp;rev=1445934534&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2015-10-27T09:28:54+02:00</dc:date>
+        <title>z-axis</title>
+        <link>http://wiki.fabtotum.com/doku.php?id=z-axis&amp;rev=1445934534&amp;do=diff</link>
+        <description>Z axis
+
+
+
+The Z axis is driven by a Nema17 motor with a 3mm pitch leadscrew on a 2:1 reduction gear.
+
+The Z Axis has a step resolution of 0.00046875 mm (0,47 micrometers).
+
+Suggested Layer Heights
+
+
+Helps you to select layer height in a way, that Z axis moves only by
+full step increments. Z axis isn't usually enabled during inactivity. If
+ the axis is disabled during micro-step, axis jumps to the closest full
+step and intorduce error. This effect is occuring to some extent even
+while leaving the…</description>
+    </item>
+</rdf:RDF>

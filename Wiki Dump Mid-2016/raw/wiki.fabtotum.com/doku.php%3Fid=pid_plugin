@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <title>pid_plugin []</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="pid_plugin"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/lib/exe/opensearch.php" title=""/>
+<link rel="start" href="/"/>
+<link rel="contents" href="/doku.php?id=pid_plugin&amp;do=index" title="Sitemap"/>
+<link rel="alternate" type="application/rss+xml" title="Recent changes" href="/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="/feed.php?mode=list&amp;ns="/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="/doku.php?do=export_xhtml&amp;id=pid_plugin"/>
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="/doku.php?do=export_raw&amp;id=pid_plugin"/>
+<link rel="canonical" href="http://wiki.fabtotum.com/doku.php?id=pid_plugin"/>
+<link rel="stylesheet" type="text/css" href="/lib/exe/css.php?t=dokuwiki&amp;tseed=d5da11854e19a001251a5239d97c187a"/>
+<script type="text/javascript">/*<![CDATA[*/var NS='';var JSINFO = {"id":"pid_plugin","namespace":""};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="/lib/exe/js.php?tseed=d5da11854e19a001251a5239d97c187a"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+    function LoadScript( url )
+    {
+     document.write( '<scr' + 'ipt type="text/javascript" src="' + url + '"><\/scr' + 'ipt>' ) ;        
+
+    }
+//]]> 
+
+ </script>
+<script type="text/javascript"> var ID = "pid_plugin"; </script>    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="/lib/tpl/dokuwiki/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/lib/tpl/dokuwiki/images/apple-touch-icon.png" />
+    </head>
+
+<body>
+    <!--[if lte IE 7 ]><div id="IE7"><![endif]--><!--[if IE 8 ]><div id="IE8"><![endif]-->
+    <div id="dokuwiki__site"><div id="dokuwiki__top" class="site dokuwiki mode_show tpl_dokuwiki     ">
+
+        
+<!-- ********** HEADER ********** -->
+<div id="dokuwiki__header"><div class="pad group">
+
+    
+    <div class="headings group">
+        <ul class="a11y skip">
+            <li><a href="#dokuwiki__content">skip to content</a></li>
+        </ul>
+
+        <h1><a href="/doku.php?id=start"  accesskey="h" title="[H]"><img src="/lib/exe/fetch.php?media=wiki:logo.png" width="500" height="120" alt="" /> <span></span></a></h1>
+            </div>
+
+    <div class="tools group">
+        <!-- USER TOOLS -->
+                    <div id="dokuwiki__usertools">
+                <h3 class="a11y">User Tools</h3>
+                <ul>
+                    <li><a href="/doku.php?id=pid_plugin&amp;do=register"  class="action register" rel="nofollow" title="Register">Register</a></li><li><a href="/doku.php?id=pid_plugin&amp;do=login&amp;sectok=9d9109345d613b37fabcb7c37354963b"  class="action login" rel="nofollow" title="Login">Login</a></li>                </ul>
+            </div>
+        
+        <!-- SITE TOOLS -->
+        <div id="dokuwiki__sitetools">
+            <h3 class="a11y">Site Tools</h3>
+            <form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get" role="search"><div class="no"><input type="hidden" name="do" value="search" /><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]" /><input type="submit" value="Search" class="button" title="Search" /><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>            <div class="mobileTools">
+                <form action="/doku.php" method="get" accept-charset="utf-8"><div class="no"><input type="hidden" name="id" value="pid_plugin" /><select name="do" class="edit quickselect" title="Tools"><option value="">Tools</option><optgroup label="Page Tools"><option value="edit">Show pagesource</option><option value="revisions">Old revisions</option><option value="backlink">Backlinks</option></optgroup><optgroup label="Site Tools"><option value="recent">Recent changes</option><option value="media">Media Manager</option><option value="index">Sitemap</option></optgroup><optgroup label="User Tools"><option value="login">Login</option><option value="register">Register</option></optgroup></select><input type="submit" value="&gt;" /></div></form>            </div>
+            <ul>
+                <li><a href="/doku.php?id=pid_plugin&amp;do=recent"  class="action recent" accesskey="r" rel="nofollow" title="Recent changes [R]">Recent changes</a></li><li><a href="/doku.php?id=pid_plugin&amp;do=media&amp;ns="  class="action media" rel="nofollow" title="Media Manager">Media Manager</a></li><li><a href="/doku.php?id=pid_plugin&amp;do=index"  class="action index" accesskey="x" rel="nofollow" title="Sitemap [X]">Sitemap</a></li>            </ul>
+        </div>
+
+    </div>
+
+    <!-- BREADCRUMBS -->
+            <div class="breadcrumbs">
+                                        <div class="trace"><span class="bchead">Trace:</span> <span class="bcsep">•</span> <span class="curid"><bdi><a href="/doku.php?id=pid_plugin"  class="breadcrumbs" title="pid_plugin">pid_plugin</a></bdi></span></div>
+                    </div>
+    
+    
+    <hr class="a11y" />
+</div></div><!-- /header -->
+
+        <div class="wrapper group">
+
+            
+            <!-- ********** CONTENT ********** -->
+            <div id="dokuwiki__content"><div class="pad group">
+
+                <div class="pageId"><span>pid_plugin</span></div>
+
+                <div class="page group">
+                                                            <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#pid_tuning_plugin">PID tuning plugin</a></div>
+<ul class="toc">
+<li class="level2"><div class="li"><a href="#installation">Installation</a></div></li>
+<li class="level2"><div class="li"><a href="#use_the_plugin">Use the plugin</a></div></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="pid_tuning_plugin">PID tuning plugin</h1>
+<div class="level1">
+
+<p>
+Plugin for PID tuning by tohara allow user to easily tune the PID settings for the FABtotum custom extruders.
+</p>
+
+<p>
+It basically uses the autotune procedure described <a href="/doku.php?id=pid_tuning" class="wikilink1" title="pid_tuning">here</a>.
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="installation">Installation</h2>
+<div class="level2">
+
+<p>
+First download the plugin <a href="https://github.com/FAB-UI-plugins/pidtune/archive/master.zip" class="urlextern" title="https://github.com/FAB-UI-plugins/pidtune/archive/master.zip"  rel="nofollow">here</a>.
+</p>
+
+<p>
+Unzip the package, rename the folder in “<em>pidtune</em>” (it was “<em>pidtune-master</em>”), zip the new package (you will have a package “<strong><em>pidtune.zip</em></strong>”), just renaming the old file won&#039;t work.
+</p>
+
+<p>
+In the FABtotum dashboard go to “<strong>Plugins</strong>” (1) section and click “<strong>Add new</strong>” (2).
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=pid_plugin&amp;media=pid_plugin1.png" class="media" title="pid_plugin1.png"><img src="/lib/exe/fetch.php?w=700&amp;h=408&amp;tok=420f6b&amp;media=pid_plugin1.png" class="medialeft" alt="" width="700" height="408" /></a>
+</p>
+
+<p>
+Select the path of your “<em>pidtune.zip</em>” file, then “<strong>Install now</strong>”.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=pid_plugin&amp;media=pid_plugin2.png" class="media" title="pid_plugin2.png"><img src="/lib/exe/fetch.php?w=400&amp;h=134&amp;tok=27e79d&amp;media=pid_plugin2.png" class="media" alt="" width="400" height="134" /></a>
+</p>
+
+<p>
+The installing process will start, it will be finished in few seconds.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=pid_plugin&amp;media=pid_plugin3.png" class="media" title="pid_plugin3.png"><img src="/lib/exe/fetch.php?w=500&amp;h=201&amp;tok=bd20ef&amp;media=pid_plugin3.png" class="media" alt="" width="500" height="201" /></a>
+</p>
+
+<p>
+In the “<strong>plugins</strong>” page press the green button “ <strong>Activate</strong>”, now you will see PIDtune on the left column.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=pid_plugin&amp;media=pid_plugin4.png" class="media" title="pid_plugin4.png"><img src="/lib/exe/fetch.php?w=500&amp;h=199&amp;tok=05da01&amp;media=pid_plugin4.png" class="media" alt="" width="500" height="199" /></a>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=pid_plugin&amp;media=pid_plugin5.png" class="media" title="pid_plugin5.png"><img src="/lib/exe/fetch.php?w=700&amp;h=249&amp;tok=74df98&amp;media=pid_plugin5.png" class="media" alt="" width="700" height="249" /></a>
+</p>
+
+<p>
+The installation process is complete.
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="use_the_plugin">Use the plugin</h2>
+<div class="level2">
+
+<p>
+For start the plugin press the button “<strong>Start pid tuner</strong>”(1), it will disable all printer commands.<br/>
+
+To start the autotuning process choose “<strong>Classic PID</strong>” method (2), then press “<strong>Start autotuning</strong>” (3) button, being careful is selected “<strong>E0</strong>”, the standard extruder port.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=pid_plugin&amp;media=pid_plugin6.png" class="media" title="pid_plugin6.png"><img src="/lib/exe/fetch.php?w=700&amp;h=338&amp;tok=87879c&amp;media=pid_plugin6.png" class="media" alt="" width="700" height="338" /></a>
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=pid_plugin&amp;media=pid_plugin7.png" class="media" title="pid_plugin7.png"><img src="/lib/exe/fetch.php?w=700&amp;h=269&amp;tok=6a5416&amp;media=pid_plugin7.png" class="media" alt="" width="700" height="269" /></a>
+</p>
+
+<p>
+The extruder temperature is set to 200°C, the hotend will start to heat up, once the target will be reached 8 times.<br/>
+
+At this point you will read the calculated parameters in the fields “<strong>Kp</strong>”, “<strong>Ki</strong>”, “<strong>Kd</strong>”.<br/>
+
+Press the button “<strong>Apply parameters</strong>” to write temporarily the values on the Totumduino ram, then press “<strong>Save to EEPROM</strong>” to write permanently the values on the rom memory.
+</p>
+
+<p>
+<a href="/lib/exe/detail.php?id=pid_plugin&amp;media=pid_plugin8.png" class="media" title="pid_plugin8.png"><img src="/lib/exe/fetch.php?w=700&amp;h=269&amp;tok=97c376&amp;media=pid_plugin8.png" class="media" alt="" width="700" height="269" /></a>
+</p>
+
+<p>
+The button “<strong>Get current parameters</strong>” will write in the parameters stored into the EEPROM.
+</p>
+
+</div>
+
+
+    <script type="text/javascript">
+    //<![CDATA[ 
+
+    try {
+    if(!HTMLParserInstalled){
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }
+    }
+    catch (ex) {  
+         LoadScript("/lib/plugins/fckg/scripts/script-cmpr.js");        
+    }             
+
+    function createRequestValue() {
+        try{
+        var inputNode=document.createElement('input');
+        inputNode.setAttribute('type','hidden');
+        inputNode.setAttribute('value','yes');
+        inputNode.setAttribute('name','dwedit_preview');
+        inputNode.setAttribute('id','dwedit_preview');
+        var dwform = GetE("dw__editform");
+        dwform.appendChild(inputNode);
+        }catch(e) { alert(e); }
+    }
+//]]> 
+ </script>
+                    <!-- wikipage stop -->
+                                    </div>
+
+                <div class="docInfo"><bdi>pid_plugin.txt</bdi> · Last modified: 2015/11/05 11:46 by <bdi>jj</bdi></div>
+
+                            </div></div><!-- /content -->
+
+            <hr class="a11y" />
+
+            <!-- PAGE ACTIONS -->
+            <div id="dokuwiki__pagetools">
+                <h3 class="a11y">Page Tools</h3>
+                <div class="tools">
+                    <ul>
+                        <li><a href="/doku.php?id=pid_plugin&amp;do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span>Show pagesource</span></a></li><li><a href="/doku.php?id=pid_plugin&amp;do=revisions"  class="action revs" accesskey="o" rel="nofollow" title="Old revisions [O]"><span>Old revisions</span></a></li><li><a href="/doku.php?id=pid_plugin&amp;do=backlink"  class="action backlink" rel="nofollow" title="Backlinks"><span>Backlinks</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span>Back to top</span></a></li>                    </ul>
+                </div>
+            </div>
+        </div><!-- /wrapper -->
+
+        
+<!-- ********** FOOTER ********** -->
+<div id="dokuwiki__footer"><div class="pad">
+    <div class="license">Except where otherwise noted, content on this wiki is licensed under the following license: <bdi><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license" class="urlextern">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a></bdi></div>
+    <div class="buttons">
+        <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license"><img src="/lib/images/license/button/cc-by-nc-sa.png" alt="CC Attribution-Noncommercial-Share Alike 3.0 Unported" /></a>        <a href="http://www.dokuwiki.org/donate" title="Donate" ><img
+            src="/lib/tpl/dokuwiki/images/button-donate.gif" width="80" height="15" alt="Donate" /></a>
+        <a href="http://www.php.net" title="Powered by PHP" ><img
+            src="/lib/tpl/dokuwiki/images/button-php.gif" width="80" height="15" alt="Powered by PHP" /></a>
+        <a href="http://validator.w3.org/check/referer" title="Valid HTML5" ><img
+            src="/lib/tpl/dokuwiki/images/button-html5.png" width="80" height="15" alt="Valid HTML5" /></a>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" ><img
+            src="/lib/tpl/dokuwiki/images/button-css.png" width="80" height="15" alt="Valid CSS" /></a>
+        <a href="http://dokuwiki.org/" title="Driven by DokuWiki" ><img
+            src="/lib/tpl/dokuwiki/images/button-dw.png" width="80" height="15" alt="Driven by DokuWiki" /></a>
+    </div>
+</div></div><!-- /footer -->
+
+    </div></div><!-- /site -->
+
+    <div class="no"><img src="/lib/exe/indexer.php?id=pid_plugin&amp;1472401502" width="2" height="1" alt="" /></div>
+    <div id="screen__mode" class="no"></div>    <!--[if ( lte IE 7 | IE 8 ) ]></div><![endif]-->
+</body>
+</html>
