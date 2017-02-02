@@ -2,7 +2,7 @@
 
   Open Community to share Information and Mods for the [Fabtotum](http://www.fabtotum.com/).
 
-  Check out the [wiki](wiki) for more information!!
+  Check out the [wiki](https://github.com/Opentotum/Opentotum/wiki) for more information!!
 
 ###DISCLAIMER:###
   This repository and organization is not affiliated in any kind with FABTotum or Fabtotum S.R.L.
