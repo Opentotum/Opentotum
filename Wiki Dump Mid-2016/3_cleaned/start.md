@@ -25,6 +25,8 @@
 [[:raspberry_pi|Raspberry Pi]]\\
 [[:totumduino|Totumduino]]\\
 [[:assembly_camera|Camera]]
+[[:assembly_line_laser|Line Laser]]\\
+[[:mechanical_overview|Power Supply]]
 
 ==== Mechanical Overview ====
 
@@ -37,6 +39,10 @@
 [[:nozzle|Extruder]]\\
 [[:filament|Filament]]\\
 [[:spindle|Spindle]]
+[[:mills_drills|Mills/Drills]]\\
+[[:frame|Frame]]\\
+[[:case_panels|Case Panels]]\\
+[[:limit_switches|Limit Switches]]
 
 ==== Hardware Troubleshooting ====
 
@@ -168,7 +174,6 @@
 ==== Other ====
 
 \\
-Online resources\\
-[[:formatting|DokuWiki syntax & Formatting]]
+
 
 ----
