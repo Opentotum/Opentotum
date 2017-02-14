@@ -1,74 +1,121 @@
-{{:pictures:wrench-icon-614x460.png?248x183  }}
 
-===== General Troubleshooting =====
+![Wrench Icon](imgs/icons/wrench-icon.png)
 
-----
+# General Troubleshooting #
 
-==== The FABtotum is not turning On. ====
 
-**Description : ** Despite a functional Power-cable connection, the Unit does not power on once the power button is pressed.**\\
-**
-    * {{:pictures:11529.jpg?118x124  }}**Solution:  **    Please check that the fuse in the back of the power connector (it's located between the plug and the power button) has been loaded in the correct position. The unit usually receives a new fuse before being shipped, as during the factory tests a fuse is used.A correctly inserted Fuseblock should look like the image below
+## The FABtotum is not turning on. ##
 
-=====   =====
+**Description :** 
+    *Despite a functional Powercable connection, the Fabtotum does not power on once power is supplied.*
 
-----
+**Solution:**    
+    *Please check that the fuse in the back of the power connector, which is located between the plug and the power button, has been loaded in the correct position.*  
+     *The unit usually receives a new fuse before being shipped, as during the factory tests a fuse is used.A correctly inserted fuseblock should look like the image below.*
 
-==== Yellow Ambient light is pulsing for more than 3 minutes / can't connect. ====
+![Powerconnector](imgs/connectors/C13_female_with_fuse.jpg)
 
-The Ambient light is yellow when the totumduino board's serial port doesn't register any connection.
+## The AmbientLight is pulsing yellow for more than 3 minutes. ##
 
-    * **Cause A - SD card corrupted** \\ Usually this is caused by a forced shutdown.    \\ To fix it you must revert the SD card to factory settings by flashing the SD card back to normal.    \\ See [[:sdflashing|Flashing an SD card]]
-—-
+**Description :**
+    *The Ambient light stays yellow as long as there is no serial connection between the totumduino and the Raspberry Pi.*
 
-==== I Can't connect to the FABtotum ====
+**Solution**
+  * *Cause A - SD card corrupted*  
+    This can happen trough a power outage or a forced shutdown. Please reflash the FabUI onto the SD.  
+    *Link to SD Flash Page*
 
-**Description :**     while connected with the LAN cable provided i can't get to see the FAB UI or the Installation page**     \\ **
-    * **Cause A - Check your network configuration:**  \\ You can check your connection by trying to connect to [[http://169.254.1.2|http://169.254.1.2]] (see first setup instructions).     \\  If that fails you can look at the connection setting (on windows is visible under // Network and Internet<nowiki>\</nowiki>Network and Sharing Center//      and then //Change adapter settings//      and right-click on your LAN adapter.     \\  \\ Choose //Status//      and then Details. the IP should be listed as "IPV4 gateway".     \\ If not make sure that the Ethernet adapter is set to receive an IP automatically.     \\ Under //Change adapter settings//      right-click on your LAN adapter. then select properties , Internet Protocol Version 4 (TCP/IP V4).     \\ Everything should look as in the image below.     \\  \\ {{:pictures:connection.png?267x297}}
-—-
+  * *Cause B - physical connection broken*  
+    Are both devices, totumduino and Raspberry Pi,correct installed and connected? Recheck!
 
-==== The safety lock switch stops the process ====
+  * *Cause C - defect Raspberry Pi*  
+    Test the Raspberry Pi with a Monitor attached (HDMI). Can you see the bootsequenz? No? You will need a new Pi then...
 
-**Description : **    the safety lock switch is on despite the fact that the front door is closed perfectly
 
-    * **Cause A - the spring of the switch is too strong / the front panel is deformed      \\ **
-From FABUI 0.75 you can disable the front door panel warning.
+## I can't connect to the FABtotum ##
 
-—-
+**Description :**
+    *You are directly connected to the Fabtotum via the included LAN cable, none of the above errors fits, but you still can't connect to the FabUI?*  
+  * **Cause A - Wrong network configuration:**  
+    Did you read the manual and did what it said?  
+    * Duh, i do many things, reading manuals ...not so much... - Let me tell you, once you do it, it's awesome :wink: [the LAN portion is what you need](http://www.fabtotum.com/setting-connecting-network/).
+    
+    * Yep, but it just won't connect... - Please follow the instructions below:  
+    #### Windows: ####
+    Press WIN+R at the same time  
+    Copy/Paste *ncpa.cpl* into the new window that appeared in the bottom left corner and press ENTER (copy only the cursive text!)  
+    RightClick on the *Ethernet* and select *Properties*  
+    DoubleClick on the *Internetprotocoll, Version4*  
+    Select *Use the following IP address* and enter type the following into the fields: (Please remember the numbers if you have already something in this fields!)  
 
-===== 3D Printing =====
+    IP address: *169.254.1.2*  
+    Subnet mask: *255.255.255.0*  
+    Default Gateway: *169.254.1.1*  
+    Leave the dns setting empty.
 
-----
+    ### Linux (If you know how to do this, please add it, thx) ###  
 
-==== Not extruding / No filament coming out of the nozzle ====
+    You should now be able to connect to the [FABUI](http://169.154.1.2).  
+    Don't forget to restore the settings after you successfully connected the Fabtotum with your WLAN.
 
-**Description **: Filament is not coming out from the nozzle (Hybrid Head)    \\ **Possible Causes:**
 
-    * **Cause A - UNITS OLDER THAN July 2015: The Feeder is not engaged** \\ note: //The feeder will disengage itself after a print.//  \\ First, extract the white PTFE Feeding tube from the head by heating the extruder at 210°C from the JOG Menu In the FABUI.    \\ From there Go to Maintenance then select Feeder.    \\ Follow the instructions to locate and press the feeder mechanism. Be sure that the button inside and the back of the printing area is pushed with the right force.A "click" sound should come from the mechanism if fully engaged.      \\  \\ {{:engaged.jpg?270x298}} \\  \\ When the feeder is engaged go back to the JOG menu, press the E tab in the right hand side of the panel.Press the plus button and see if the filament is moving inside the tube, by watching the end that was just unplugged from the Head.    \\  \\ Press the Plus botton in the JOG menu until the filament sticks out for 3cm from the PTFE feeding tube. If the filament is coming out, carefully reinsert it in the head. Be careful to not get the filament stuck on the sides of the head when pushing it down. this will bend the filament and block extrusion.When inserting the tube and the filament, the nozzle should be pouring some molten plastic.    \\ Once the tube is firmly locked in place, extrude another 10mm by pressing the Plus button to verfy the correct extrusion of material.
-    * **Cause B - The nozzle is too close to the printing surface** \\ Increase the distance by pressing the Z+ button during the print or calibrate the Probe lenght (Maintenance -> Probe Lenght Calibration)
-    * **Cause C - The temperature is too low** \\ You could try to Increase the temperature a bit (5-10°C would help) during prints.      \\ Some filaments, especially with colorants, have higher melting point (180-230°C).
-    * **Cause D - Excessive temperature    \\ **If the temperature is too high, the filament will melt before reaching the nozzle, causing excessive friction.    \\ Be sure to keep the cooling fan on (M106 at the start  of the gcode or "FAN always on" in slic3r)
-    * **Cause E - The nozzle is jammed   **  \\ First, Verify that the PTFE tube in the back is correctly sticking out and is not caught inside the back of the unit.      \\ Remove the tube from the head, and with the Z in the middle of the height (bed Halfway), try to push some filament Manually in the head. can you push the filament and see it being extruded?      \\ If not the nozzle could be obstructed and requiring some cleaning or the filament is not getting all the way down in the nozzle (getting caugth in the sides of the head before entering the heating chamber).      \\ Try  dipping some filament from the top by hand and then pulling it out for a  few times (with the nozzle at 210°C) helps to clean it.      \\ Insert a small 0.3mm electric wire in the nozzle while at 210°C from below and make sure there are no obstructions.   \\ For see how to clean the nozzle follow [[:mantainance#clean_the_nozzle|this]] guide.
-—-
+## The Frontdoor or Sidepanel(Filamentside) switch stops the process ##  
 
-==== Filament not sticking on the plane ====
+**Description :**  
+* The Frontdoor switch is on despite the fact that the front door is closed.
+* Your Filamentspool is to big to close the Sidepanel.
 
-**Description : **   Filament is not sticking / drops are left on the bed (Hybrid Head)    \\ **Possible Causes:**
+**Solution:** From FABUI 0.75 upwards you can disable the frontdoor/sidepanel warning in the settings.
 
-    * **Cause A - The nozzle is too far from the bed** \\ -Verify that the 4 bed set-screws are almost completely screwed in (highest position possible minus 2 turns)    \\ -Run the Probe Length Calibration wizard from the maintenance menu    \\ -Run the Assisted Bed Leveling procedure from the maintenance menu    \\ -be sure that the PTFE tube is not getting stuck in the back of the unit.
-    * **Cause B - Extruder or bed temperature is too low** \\ Increase the temperature of the bed and the extruder in the supported range and wait a few seconds:    \\ **Extruder**: Min 180°C, Don't surpass 210°C if you don't see any result.    \\ **Bed**: Min 55°C, Don't surpass 70°C if you don't see any result.
-    * **Cause C - The bed doesn't have a sticky coating** \\ Look on [[:stick?id=stick|this]] page how to make your bed sticky
-—-
 
-==== Print not starting/ bed,extruder not heating ====
+## 3D Printing ##
 
-**Description:** The 3D print process is not starting     \\
+### Not extruding / No filament is coming out of the nozzle ###  
+
+**Possible Causes:**
+
+* Cause A - Units OLDER Than *July 2015*: Feeder not engaged.  
+
+    Please check that the Feeder is engaged (Button pressed). After each print the Feeder disengages itself, but you can disable this through a physical hack.  ### insert link to conversion guide here ###
+
+* Cause B - Blocked Nozzle
+    
+    Please follow this ![Link](http://www.fabtotum.com/cleaning-clogged-nozzle/) to the official Manual on how to clean the Nozzle
+    
+* Cause C - The nozzle is too close to the printing surface
+
+    Increase the distance by pressing the Z+ button during the print or calibrate the Probe lenght (Maintenance -> Probe Lenght Calibration)
+
+* Cause C - The temperature is too low
+    
+    Please try to Increase the temperature a bit (5-10°C should be enough) during prints. The Meltpoint of filaments can vary through things like color, sfx or basematerial.
+
+## Filament not sticking on the plane ##
+
+**Description :**
+* Filament is not sticking / drops are left on the bed (Hybrid Head)  
+
+**Possible Causes:**
+
+* Cause A - The nozzle is too far from the bed  
+    
+    Rerun the Bedleveling from the Maintenance menu and check that the bowden tube is not getting catched while the bed moves up.
+
+* Cause B - Extruder or bed temperature is too low  
+    Increase the temperature of the bed and the extruder in the supported range and wait a few seconds  
+    **Hybrid Head**: Don't surpass 210°C if you don't see any result.  
+    **Bed**: Normally between 55-70°C.
+
+* Cause C - Increase the stickiness of the bedLook. Please check the official Tipps [here](http://www.fabtotum.com/improving-3d-printed-object-adhesion-tips-tricks/).  
+
+## Print not starting or the bed / extruder is not heating ##
+
 **Possible Causes** :
 
-    * **Cause A - the bed is not making contact with the power supply connector** \\ Verify that the temperature can be read from the JOG menu,     \\ Try  set a temperature over 60°C and press "temperature" to see it grows.The Red LEDs on the Bed will turn on.     \\ If  it does not raise the bed is not at the right height or it's not making contact.     \\ Verify that the unit is not locked (no error message or safety warning) \\  \\ Check the connection pins are properly working. \\
+* Cause A - the printbed is not making contact with the power supply connector** \\ Verify that the temperature can be read from the JOG menu,     \\ Try  set a temperature over 60°C and press "temperature" to see it grows.The Red LEDs on the Bed will turn on.     \\ If  it does not raise the bed is not at the right height or it's not making contact.     \\ Verify that the unit is not locked (no error message or safety warning) \\  \\ Check the connection pins are properly working. \\
     * **Cause B - the machine is currently in SAFETY LOCK mode   **  \\ 1. Check the temperature of the bed in the FABUIIt must not be 0°C. Push the bed from the right side towards the left side as to facilitate the contact. If The temperature is still zero remove the bed and check the contacts, if any of them is deformed try to put it in place with some pliers.     \\  \\ 2. You get a non-zero reading but it won't start. Check what temperature is your Gcode asking your bed? Is it higher than 90ºC? re-slice the file with a lower temp. The contacts allow to read the temperature but it is not heating. Do you see the red lights embedded in the platform? No Check contacts and apply the same solutions as in 1. Yes you are too impatient or still not all the heating circuits make proper contact.     \\  \\ Possible solution: If you need more temperature, change it to a higher value in the gcode/slicer. Possibly anything starting at 60-70º is more than sufficient. The firmware allows to go up to 115ºC, but you might have to wait 30 minutes for the heated bed to arrive to this temperature, and you won't probably have any advantage.
 
-==== Pillowing ====
+### Pillowing ###
 
 Pillowing show up as bumps in the top surface of a print and can either be open or closed. The most important thing here is to make sure that your cooling fans are going top speed when the printer is laying down the top layer. Without proper cooling the thin strands of plastic tend to curl up and stick up above the surface of the print and make it harder for subsequent layers to properly span over the gap. With good cooling the strands gradually grow over the gaps until it closes fully.
 
@@ -80,19 +127,19 @@ In general you will need more top layers the thinner your layer height is. With 
 
 Some users have also reported that the change in infill pattern between 24% and 25% (and up) makes a big difference. The difference between infill percentages at 24 or lower and 25 and higher is how cura lays down each layer. The infill is a crosshatch pattern made with diagonal intersecting lines. At lower densities both directions are laid down for each layer while at higher densities it is only laid down in one direction per layer. So, for layer X it will do lines from the lower left to the upper right. At layer X+1 it will do lines going from lower right to upper left.
 
-==== Elephant's foot ====
+### Elephant's foot ###
 
 {{http://d33v4339jhl8k0.cloudfront.net/docs/assets/53970867e4b0c76107b1091a/images/53ba99cfe4b09d13bf3cdb5f/file-NZnhvOw08g.jpg?nolink&100  }}
 
 It's very common that the first couple of layers of a print is wider than you expected them to be. This is because you will generally want to make sure the first layer is nicely squished into the build platform so that it sticks properly. By doing this the plastic gets squished out into a thicker line than normal and thus the bottom of the print will bulge out a bit like an elephant's foot. You can decrease this effect by levelling your bed so that the nozzle is slightly further away from the bed and lowering the bed temperature a bit. It's hard to get rid of this effect entirely without sacrificing bottom layer quality and bed adhesion. It will be easier on small prints as they are less likely to warp and detach from the platform and you can therefore get away with not squishing the first layer as hard.
 
-==== Very visible lines on the bottom layer ====
+### Very visible lines on the bottom layer ###
 
 {{http://d33v4339jhl8k0.cloudfront.net/docs/assets/53970867e4b0c76107b1091a/images/53babb97e4b09d13bf3cdb7e/file-9BO8SHAKrY.jpg?nolink&100  }}
 
 If the bottom layer of your print is showing very obvious print lines it's likely that your bed is simply levelled a little bit too far away from the nozzle. The closer to the nozzle the bed is on the first layer the harder the plastic will be squished into the bed and the lines will then blend together better. However, you can't go too closely as that will prevent the plastic from escaping from the nozzle properly. Pressure will build up and eventually the plastic will squirt out and create an ugly blob, or, it could cause the feeder to grind your filament which is something you don't want.
 
-==== Under extrusion ====
+### Under extrusion ###
 
 {{http://d33v4339jhl8k0.cloudfront.net/docs/assets/53970867e4b0c76107b1091a/images/53bbf859e4b09d13bf3cdd85/file-NJOw1Ah4bz.jpg?nolink&100  }}
 
@@ -102,7 +149,7 @@ The printer will do its best to try and achieve the printing speeds that you are
 
 If you go beyond this in-the-middle stage the printer tries pushing harder and harder to extrude the material but eventually the pressure will be too high. Ideally when this happens the extruder motor will do what we call a skip back where the axis of the motor spins in the opposite direction for about a quarter turn to relieve pressure. This will not damage the printer, it's an intended behaviour to prevent the filament from being ground up by the feeder. You will hear when this happens as it will make a <nowiki>*</nowiki>tock<nowiki>*</nowiki> sound and if you look closely at the filament that is being extruded you will see a sudden reduction in volume.
 
-==== Walls not touching ====
+### Walls not touching ###
 
 {{http://d33v4339jhl8k0.cloudfront.net/docs/assets/53970867e4b0c76107b1091a/images/53bbf985e4b08d4d93a1c413/file-hI8vWnECLk.jpg?nolink&100  }}
 
@@ -114,15 +161,15 @@ This is very likely caused by the short belts not being tight enough. Please see
 
 ===   ===
 
-====   ====
+###   ###
 
-==== Grinding ====
+### Grinding ###
 
 {{http://d33v4339jhl8k0.cloudfront.net/docs/assets/53970867e4b0c76107b1091a/images/53be84cce4b0f628cad49d69/file-i140XtEHYW.jpg?nolink&100  }}
 
 Grinding happens when the motor tries to push the filament through the nozzle but for whatever reason it starts to slip on the filament and instead grinds the plastic down. The more it grinds the filament the less grip it is able to get and very soon it will not be able to move the filament neither in nor out. To help prevent this problem on the UM2 the feeder motor current is deliberately limited so that the motor will skip back before starting to grind the filament down. When this happens you will hear a //tock //   sound and the feeder wheel will spin in reverse for about a quarter turn.
 
-==== Scratches ====
+### Scratches ###
 
 {{http://d33v4339jhl8k0.cloudfront.net/docs/assets/53970867e4b0c76107b1091a/images/53c3cf9fe4b0bbe0c00d60f1/file-Y7RjbMbOfe.jpg?nolink&100  }}
 
@@ -136,7 +183,7 @@ A side effect of the z-hop feature is that it can leave behind a tiny little blo
 
 This effect is more prone to happen on surfaces which are broken up by holes since the head needs to move around more. "Dreamworker" on the Ultimaker forums came up with a clever workaround to reduce the complexity of the top surface. By adding a thin solid layer on top of the object he was able to reduce the travel moves significantly. The thin layer of plastic was then cut to reveal the holes again.
 
-==== "Hairy" print ====
+### "Hairy" print ###
 
 {{http://d33v4339jhl8k0.cloudfront.net/docs/assets/53970867e4b0c76107b1091a/images/543d2a31e4b01a27d3c00773/file-EScLhyQzYu.jpg?nolink&100  }}
 
@@ -148,7 +195,7 @@ Also make sure that your nozzle is clean so that small amounts of plastic isn't 
 
 Thankfully the little hairs are quite easy to remove. Rubbing them off with your fingers work quite well. Another way, if you're a bit lazy, is to hit the print with the flame from a "jet" lighter very briefly. This will burn away the strands pretty cleanly. Don't use a regular lighter or a candle as it will likely leave ugly marks on it.
 
-==== Ringing ====
+### Ringing ###
 
 {{http://d33v4339jhl8k0.cloudfront.net/docs/assets/53970867e4b0c76107b1091a/images/53baa75fe4b08d4d93a1c20e/file-sDk3kVHFi4.jpg?nolink&100  }}
 
@@ -162,16 +209,11 @@ Excerpt from [[http://support.3dverkstan.se/article/23-a-visual-ultimaker-troubl
 
 For more details you can visit also [[http://reprap.org/wiki/Print_Troubleshooting_Pictorial_Guide|this]] page.
 
-====   ====
 
-====   ====
-
-===== Milling =====
+###= Milling ###=
 
 ----
 
-===== Scanning =====
-
-If the images look blurry, check if you remove the transparent protection film form the lens of the camera.
+###= Scanning ###=
 
 ----
