@@ -49,7 +49,6 @@ class WSClient(WebSocketClient):
     def closed(self, code, reason=None):
         print "Closed down", code, reason
 
-
 if __name__ == '__main__':
     try:
         ip = raw_input("IP: ")
