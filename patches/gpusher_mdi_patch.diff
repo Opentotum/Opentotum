@@ -1,0 +1,23 @@
+diff --git a/fabui/python/gpusher_factory.py b/fabui/python/gpusher_factory.py
+index 0773bb0..0e0ff74 100755
+--- a/fabui/python/gpusher_factory.py
++++ b/fabui/python/gpusher_factory.py
+@@ -736,6 +736,10 @@ def do_ovr_lockfan(params, stats):
+     except IndexError:
+         trace("ovr_lockfan: No parameter given")
+ 
++def do_ovr_mdi(params, stats):
++    if params:
++        return " ".join(params)
++
+ ##################################################
+ ##################################################
+ 
+@@ -984,6 +988,7 @@ class GSender(threading.Thread):
+         "!z_minus": do_ovr_zminus,
+         "!temps": do_ovr_gettemps,
+         "!lock_fan": do_ovr_lockfan,
++        "!mdi": do_ovr_mdi,
+         "M3": do_ovr_rpm_cw,
+         "M4": do_ovr_rpm_ccw,
+         "M104": do_ovr_extt,
