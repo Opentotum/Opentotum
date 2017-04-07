@@ -1,0 +1,104 @@
+diff --git a/fabui/application/modules/create/assets/js/utilities.js b/fabui/application/modules/create/assets/js/utilities.js
+index a6ac7ca..8685aa8 100644
+--- a/fabui/application/modules/create/assets/js/utilities.js
++++ b/fabui/application/modules/create/assets/js/utilities.js
+@@ -403,7 +403,35 @@ function stop_print() {
+ 	_stop_timer();
+ 	stopped = 1;
+ 	setTimeout(_stopper, 30000);
++}
++
++function set_print_state(state) {
++	var ppbtn = $('#pause-play-button');
++
++	if (state == "pause") {
++		ppbtn.attr("data-action", "play");
++                ppbtn.removeClass("txt-color-blue").addClass("txt-color-green");
++                ppbtn.html("<i class=\"fa fa-fw fa-lg fa-play\"></i> Resume");
++	}
++	else {
++		ppbtn.attr("data-action", "pause");
++                ppbtn.removeClass("txt-color-green").addClass("txt-color-blue");
++                ppbtn.html("<i class=\"fa fa-fw fa-lg fa-pause\"></i> Pause");
++	}
++}
++
++function pause_play_print() {
++	var ppbtn = $('#pause-play-button');
++        var action = ppbtn.attr("data-action");
++
++        ppbtn.unbind("click");
++
++        print_pause_notified = true;
++
++	_do_action(action, true);
++	set_print_state(action);
+ 
++        setTimeout(function() { $('#pause-play-button').bind("click", pause_play_print); }, 5000);
+ }
+ 
+ /**
+diff --git a/fabui/application/modules/create/views/index/js.php b/fabui/application/modules/create/views/index/js.php
+index 4e043f6..4699268 100644
+--- a/fabui/application/modules/create/views/index/js.php
++++ b/fabui/application/modules/create/views/index/js.php
+@@ -2,6 +2,7 @@
+ 	
+ 	
+ 	IS_TASK_ON = <?php echo  $_running ? 'true' : 'false' ?>;
++	var print_pause_notified = false;
+ 	
+ 	var id_task = <?php echo $_id_task; ?>;
+ 	var pid     = <?php echo $_pid; ?>;
+@@ -151,6 +152,7 @@
+ 				"t"+
+ 				"<'dt-toolbar-footer'<'col-sm-6 col-xs-12 hidden-xs'i><'col-xs-12 col-sm-6'p>>",
+ 			"autoWidth": false,
++			"pageLength": 25,
+ 		});
+ 		
+ 		recenTable = $('#recent_table').dataTable({
+@@ -398,6 +400,7 @@
+         
+         
+         $('#stop-button').on('click', ask_stop);
++        $('#pause-play-button').on('click', pause_play_print);
+ 
+ 	
+ 		
+@@ -737,7 +740,20 @@ function monitor(data){
+ 	/***** *******/
+ 	
+ 
+-	
++        if (data.print.paused) {
++            if (!print_pause_notified) {
++                    $.SmartMessageBox({
++                        title : "<i class='fa fa-warning'></i> Your printer is paused. To restart the print, click on the top-right <a class=\"txt-color-green\" style=\"font-size: 20px;margin-right:5px\"><i class=\"fa fa-fw fa-lg fa-play\"></i>Resume</a> button.",
++                        buttons: "[OK]"
++                    })
++                    print_pause_notified = true;
++            }
++        }
++        else {
++            print_pause_notified = false;
++        }
++
++	set_print_state(data.print.paused ? "pause" : "play");
+ }
+ 
+ 
+diff --git a/fabui/application/modules/create/views/index/step5/widget.php b/fabui/application/modules/create/views/index/step5/widget.php
+index a433e7f..a99383b 100644
+--- a/fabui/application/modules/create/views/index/step5/widget.php
++++ b/fabui/application/modules/create/views/index/step5/widget.php
+@@ -10,6 +10,9 @@
+ 		<a href="javascript:void(0);" data-action="stop" id="stop-button" class="stop txt-color-red"> <i class="fa fa-fw fa-lg fa-times-circle"></i> Cancel <?php echo $label ?></a>
+ 	</li>
+ 	<li class="pull-right">
++		<a href="javascript:void(0);" data-action="pause" id="pause-play-button" class="txt-color-blue"> <i class="fa fa-fw fa-lg fa-pause"></i> Pause </a>
++	</li>
++	<li class="pull-right">
+ 		<span style="position:relative; top:3px;" rel="tooltip" title="Send a notification mail at the end of the print" data-placement="left">Mail</span>
+ 		<span class="onoffswitch" style="padding-top:9px; position:relative;">
+ 			<input data-action="mail" type="checkbox" name="mail" <?php echo $mail; ?> class="onoffswitch-checkbox controls" id="mail">
