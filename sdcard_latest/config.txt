@@ -1,0 +1,27 @@
+# FABtotum
+
+# Camera settings
+gpu_mem=128
+
+# UART 250k baud rate support
+init_uart_clock=4000000
+
+# RPi3 UART1 workarround
+enable_uart=1
+dtoverlay=pi3-disable-bt
+
+# NOOBS Auto-generated Settings:
+hdmi_force_hotplug=1
+config_hdmi_boost=4
+overscan_left=24
+overscan_right=24
+overscan_top=16
+overscan_bottom=16
+
+# Earlyboot
+initramfs initramfs.img
+
+# Kernel is selected by start.elf bootloader
+#  kernel.img for RPi1 (armv6)
+#  kernel7.img for RPi2,3 (armv7)
+
